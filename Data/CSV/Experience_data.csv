@@ -1,0 +1,2820 @@
+"","job_title","Less_than_1_year","Four_Plus_years","Five_to_Nine_years","Ten_to_Nineteen_years","Twenty_plus_years"
+"1","Staff Accountant",48660.68,51502.95,54949.58,55352.92,55781.23
+"2","Accountant",47397.13,49574.4,56661.79,58019.13,59304.43
+"3","Financial Analyst",56499.7,61672.04,70049.12,73354.69,75810.6
+"4","Senior Accountant",62383.38,66869.51,70788.86,72260.1,71501.61
+"5","Financial Controller",64967.96,72282.04,85379.53,91534.49,90879.32
+"6","Quality Assurance Auditor",49342.87,53773.18,61304.12,72242.67,75017.3
+"7","Accounting Manager",60372.94,65906.13,77893.51,77142.92,72319.98
+"8","Senior Financial Analyst",71347.76,77808.08,84380.68,88523.69,91302.77
+"9","Finance Manager",60506.52,77930.05,98936.27,100626.53,89021.76
+"10","Corporate Controller",74862.85,82198.64,97511.3,109117.3,106158.11
+"11","Finance Director",75023.83,81015.77,108636.59,123963.09,115546.78
+"12","Associate - Accounting or Auditing Firm",55987.11,59770.5,73046.45,96500,56025.5
+"13","Assistant Controller",57625.8,68455.8,79818.62,84489.03,82589.93
+"14","Certified Public Accountant (CPA)",55099.15,60202.91,72044.63,85739.88,98499.19
+"15","Financial Advisor",49708.71,56513.63,69825.78,78679.39,80862.7
+"16","Branch Manager, Banking",50463.95,54748.43,59759.54,63118.33,64720.67
+"17","Credit Analyst",47639.42,52077.22,59272.64,60722.43,58963.18
+"18","Compliance Specialist",48865.42,55024.97,61254.62,66498.66,68526.63
+"19","Tax Manager",80627.95,87611.58,98381.36,102772.24,105597.63
+"20","Compliance Manager",60101.76,69497.14,82148.88,88999.15,90801.67
+"21","Compliance Analyst",52733.46,57597.85,64659.87,65268.4,69765.8
+"22","Underwriter",50494.82,58909.36,65383.69,69154.96,75405.04
+"23","Compliance Officer",54342.79,62740.77,75317.43,82078.36,87779.46
+"24","Auditor",53914.84,56484.51,64962.38,72485.87,76012.36
+"25","Accounting Supervisor",53083.88,61628.95,69264.95,69351.41,67019.27
+"26","Internal Auditor",54633.66,58927.03,66898.48,69188.94,70030.36
+"27","Tax Accountant",53463.12,56768.2,63687.49,65678.55,68143
+"28","Portfolio Manager",61427.15,73335.67,90420.76,106500.26,122625.57
+"29","Tax Associate",57611.78,59137.23,64522.34,61675.49,62000
+"30","Senior Tax Accountant",70805.37,75758.23,78156.55,78999.28,NA
+"31","Assistant Branch Manager, Banking",41260.52,44934.61,47350.73,49501.8,50070.45
+"32","Business Analyst, Finance/Banking",57084.43,64618.94,70110.44,76201.39,83921.64
+"33","Senior Auditor",59069.33,68623.89,75709.72,82511.46,88256.42
+"34","Senior Underwriter",50721.29,77397.31,82658.57,86892.77,86254.9
+"35","Risk Manager",64627.48,77257.34,91026.07,99849.32,101966.41
+"36","Senior Finance Manager",103209.93,120692.34,127131.76,127758.8,NA
+"37","Loan Officer",43266.11,46233.11,50427.26,52295.74,57216.29
+"38","Project Accountant",50288.16,56725.5,62843.63,65850.74,68668.46
+"39","Accounting Director",79381.84,102794.33,115823.34,109477.87,NA
+"40","Senior Staff Accountant",56601.6,61592.77,65235,65715.06,68146.98
+"41","Investment Analyst",59563.99,65203.72,82643.98,98108.77,99989.73
+"42","Compliance Director",82424.24,83575.98,100056.65,116724.54,120130.27
+"43","Risk Analyst",60175.54,64913.74,73927.96,82539.87,79669.11
+"44","Associate Auditor",56880.16,58192.32,63985.54,77000,70000
+"45","Senior Internal Auditor",68362.22,76445.15,83424.44,87886.34,89664.13
+"46","Credit Manager",50678.51,59417.92,64833.09,70934.76,74848.63
+"47","Junior Accountant",44376.04,46445.56,45906.18,50400.8,49911.79
+"48","Cost Accountant",51154.84,55469.13,62449.16,65241.29,64565.94
+"49","Tax Preparer",11.99,13.14,15.73,17.08,21.32
+"50","Fraud Investigator",49509.53,57357.14,62027.29,66990.61,76510.12
+"51","Universal Banker",15.5,16.14,17.48,17.23,17.45
+"52","Director of Finance & Administration",61360.67,67462.27,83439.59,96518.85,99490.19
+"53","Asset Manager",55468.25,66088.6,80168.89,83249.22,86476.01
+"54","Financial Planner",50161.96,60513.45,72067.22,82633.24,100222.21
+"55","Senior Tax Manager",95481.13,125519.48,135654.98,132919.02,NA
+"56","Treasury Analyst",54679.48,58989.54,64245.65,68805.96,73204.55
+"57","Plant Controller",74842.98,80796.82,93239.18,100686.7,100627.58
+"58","Budget Analyst",52184.52,57484.01,66716.59,72021.63,74257.34
+"59","Accounting Analyst",49311.36,54966.78,59290.9,58581.4,61248.12
+"60","Internal Auditing Manager",84125.92,101690.81,107321.8,111138.44,NA
+"61","Financial Counselor",16.06,17.07,17.96,18.88,18.58
+"62","Financial Consultant",57868.66,67322.96,76335.52,81110.19,88193.31
+"63","Insurance Underwriter",49227.58,56323.62,60941.65,63868.62,71326.4
+"64","Staff Auditor",54706.41,55516.17,61161.46,60130.96,40000
+"65","Manager, Financial Planning & Analysis",74945.49,93589.39,100549.79,108165.48,113311.83
+"66","Financial Manager",59308.33,65463.12,79668.84,77801.91,78965.13
+"67","Finance Associate",57308.41,65566.04,78856.67,60700.86,57439.16
+"68","Financial Coordinator",17.25,18.78,20.38,21.43,23
+"69","Finance Analyst",59914.44,62961.2,70972.77,79249.28,74495.3
+"70","Underwriting Assistant",43365.07,45517.2,48018.98,51915.54,57607.02
+"71","Tax Analyst",51670.11,59271.86,62383.72,65636.99,68569.17
+"72","Property Accountant",49548.3,55506.71,60840.42,61790.59,61858.69
+"73","Regulatory Compliance Manager",67499.34,74661.25,85169.6,94825.72,99518.15
+"74","Senior Credit Analyst",67039.79,69205.74,72313.2,71124.73,NA
+"75","Certified Financial Planner (CFP)",50891.96,60359.32,72345.41,87422.51,100838.44
+"76","Tax Director",55000,114803.09,130224.62,154852.07,162067.54
+"77","Senior Compliance Analyst",64827.51,70543.88,76763.88,83516.75,87275.7
+"78","Payroll Accountant",43231.3,52865.41,58264.26,59473.69,59366.07
+"79","Senior Manager Auditor",99497.49,117303.19,128690.05,132054.93,NA
+"80","Financial Accountant",48431.4,53996.34,59522.14,60586.19,60939.19
+"81","Vice President, Compliance Officer",110069.94,118337.55,131850.41,146606.6,NA
+"82","Senior Analyst, Finance",63915.42,74705.83,80360.24,85486.94,88626.7
+"83","Senior Tax Associate",72280.05,78241.84,88414.31,NA,NA
+"84","Paraplanner",43055.98,45720.77,53489.59,58447.37,53338.83
+"85","Fraud Analyst",17.5,18.57,20.74,20.22,21.94
+"86","Auditing Manager",80553.11,89553.05,98406.06,104654.3,NA
+"87","Bank Manager",50565.18,54751.96,61712.22,64497.71,67784
+"88","Compliance Auditor",49690.29,54971.82,59948.41,72394.84,74376.01
+"89","Treasury Manager",61294.16,79450.81,93595.9,100291.96,98700.12
+"90","Senior Information Technology (IT) Auditor",82346.9,91542.3,102790.76,107139.86,NA
+"91","Quantitative Analyst",75905.21,83077.95,109828.93,105945.4,115000
+"92","Treasurer",51495.15,57730.82,64296.51,99262.33,118669.16
+"93","Internal Audit Director",114235.81,121293.38,137750.99,139116.77,NA
+"94","Senior Tax Analyst",74480.56,80585.81,86141.07,83504.84,NA
+"95","Commercial Credit Analyst",50039.11,55402.2,64536.29,69106.8,70317.83
+"96","Risk Management Analyst",59566.3,67830.72,79762.7,80940.92,88275.05
+"97","Financial Specialist",16.37,17.22,18.38,19.64,19.03
+"98","Loan Officer, Commercial",48275.71,62319.81,74209.22,92094.54,102464.4
+"99","Enrolled Agent",16.48,20.33,23.01,22.83,25.19
+"100","Vice President & Branch Manager, Banking",71314.36,71799.3,76473.67,79825.91,NA
+"101","Administrative Assistant",14.93,15.57,16.66,17.57,18.44
+"102","Office Manager",15.79,17.03,18.69,19.76,20.65
+"103","Executive Assistant",44671.99,50579.47,58428.45,62365.82,64024.23
+"104","Customer Service Representative (CSR)",13.12,14.21,15.08,15.52,16.12
+"105","Data Analyst",57131.08,61847.71,70030.98,71931.66,74157.98
+"106","Bookkeeper",15.13,16.41,18.81,19.72,20.21
+"107","Receptionist",12.27,13.11,13.97,14.72,14.99
+"108","Office Administrator",15.28,16.16,17.46,18.42,19.54
+"109","Administrative Coordinator",16.86,17.95,19.22,20.16,21.35
+"110","Human Resources (HR) Specialist",45708.24,50430.13,55812.02,58109.06,60391.61
+"111","Human Resources (HR) Assistant",16.24,17.29,18.01,18.51,18.76
+"112","Customer Success Manager",55243.19,65194.41,77137.53,88335.2,99320.04
+"113","Administrative / Office Manager",15.55,16.87,17.7,19.15,20.01
+"114","General Ledger Accountant",48748.74,54380.26,61730.89,61014.05,63787.25
+"115","Accounts Payable Specialist",17.4,18.48,19.41,19.97,20.14
+"116","Customer Service Supervisor",13.89,14.7,16.22,17.12,18.12
+"117","Customer Service Specialist",14.38,15.22,16.06,16.55,17.32
+"118","Office Assistant",13.2,14.07,14.75,15.19,15.51
+"119","Business Manager",51081.62,56821.63,66198.14,69928.65,69030.94
+"120","Customer Service Associate",11.57,11.98,12.66,13.62,13.74
+"121","Payroll Specialist",17.75,19.25,21.46,21.95,23.22
+"122","Senior Data Analyst",72125.89,80310.41,86756.96,89919.76,93816.56
+"123","Accounts Receivable Specialist",16.52,17.69,18.62,19.31,20.04
+"124","Payroll Manager",54841.95,60707.4,67575.48,73483.14,76477.78
+"125","Accounts Payable Clerk",15.35,16.09,17.18,17.91,18.38
+"126","Executive Assistant to CEO",45229.53,55171.89,62717.87,67562.42,70156.7
+"127","Logistics Coordinator",16.76,17.82,18.85,20.31,21.65
+"128","Finance Assistant",15.95,16.77,17.81,19.44,19.97
+"129","Office Coordinator",15.86,16.69,17.74,18.28,19.41
+"130","Medical Receptionist",13.33,14.15,14.95,15.37,16.02
+"131","Legal Secretary",38582.21,43193.26,49790.58,59342.47,66095.43
+"132","Accounting Assistant",15.58,16.68,18.18,18.55,19.05
+"133","Accounting Clerk",15.3,16.34,17.53,17.83,17.94
+"134","Executive Administrative Assistant",40274.22,47362.9,51427.36,54556.26,57279
+"135","Secretary",12.21,13.37,14.56,14.91,16.03
+"136","Senior Customer Service Representative (CSR)",16.3,16.99,17.81,17.99,19.07
+"137","Stocker",11.16,11.33,12.11,12.75,14.51
+"138","Sr. Administrative Assistant",18.61,20.53,21.63,22.79,24.02
+"139","Payroll Administrator",17.97,19.66,21.41,22.46,23.39
+"140","Office Manager, Medical Office",16.65,17.8,18.96,19.8,21
+"141","Medical Biller",14.45,15.67,17.39,18.37,19.01
+"142","Dental Office Manager",19.03,20.41,22.2,24.31,25.28
+"143","Billing Specialist",15.77,16.53,17.75,18.52,19.31
+"144","Research Associate (Unspecified Type)",49622.46,53086.34,60908,65903.47,71666.96
+"145","Accounting Administrator",15.87,19.32,20.31,20.43,20.46
+"146","Contract Administrator",51539.45,57993.53,65086.6,69543.98,72375.22
+"147","Personal Banker",16.6,17.47,18.53,18.83,19.42
+"148","Patient Services Representative",14.76,15.31,16.22,16.86,17.53
+"149","Medical Billing Specialist",15.13,16.05,17.6,18.25,19.19
+"150","Accounting Specialist",17.98,18.77,19.8,20.71,21.58
+"151","Production Planner, Manufacturing",51797.19,56036.51,62601.87,66176.94,68936.22
+"152","Sales Coordinator",15.15,16.3,18.32,19.09,19.64
+"153","Teller",13.45,13.95,14.48,14.95,15.37
+"154","Business Office Manager",45329.59,48768.39,51571.13,55032.33,55435.18
+"155","Patient Care Coordinator",15.62,16.68,17.73,18.57,19.8
+"156","Customer Service Team Leader",12.41,15.06,16.67,17.87,17.81
+"157","Full Charge Bookkeeper",16.44,18.94,20.26,21.24,21.88
+"158","Personal Assistant",14.16,15.17,17.17,19.41,20.08
+"159","Bank Teller",13.17,13.86,14.13,14.77,15.21
+"160","Front Desk Receptionist",11.9,12.66,14.37,14.81,15.39
+"161","Accounts Payable Manager",50672.44,57405.9,61991.27,65157.63,67752.63
+"162","Front Desk Receptionist, Medical Office",12.79,13.8,15.01,15.43,15.8
+"163","Billing Manager",46702.36,53287.09,57354.07,61348.25,61473.76
+"164","Accounts Receivable Clerk",15.33,15.99,16.83,17.42,17.94
+"165","Patient Access Representative",13.88,14.95,15.86,16.91,17.54
+"166","Member Service Representative",11.69,13.44,15.68,16.36,16.99
+"167","Collections Specialist",15.49,16.62,18.17,19.25,19.83
+"168","Service Team Leader",10.95,13.32,17.82,19.61,18.36
+"169","Care Coordinator",17.09,17.77,19.01,20.72,24.21
+"170","Senior Executive Assistant",47706.63,60681.93,68532.64,70583.04,74607.08
+"171","Surgery Scheduler",16.04,16.48,17.71,19,19.74
+"172","Office Clerk, General",12.77,13.75,14.28,14.93,15.52
+"173","Logistics Specialist",44972.13,48743.64,53609.88,59453.97,62047.49
+"174","Administration Assistant",14.79,15.62,16.6,17.36,18.39
+"175","Data Entry Clerk",13.59,13.93,14.47,15.15,15.11
+"176","Fleet Dispatcher (Trucking & Transportation)",14.54,15.93,17.4,18.36,19.05
+"177","Accounting Associate",48992.5,48508.26,49511.74,49117.65,49393.95
+"178","Inventory Manager",45597.6,50033.55,56797.6,60727.11,64008.94
+"179","Human Resources Information Systems Analyst (HRIS)",54003.84,63929.2,73755.27,78435.8,83328.52
+"180","Data Processor",14.05,15.2,16.65,17.05,18.54
+"181","Payroll Coordinator",17.05,18.95,20.82,21.71,22.88
+"182","Accounts Receivable Manager",46667.94,54372.11,59465.3,64298.47,62480.62
+"183","Administrative Manager",48550.31,53686.37,59912.17,62836.02,66019.57
+"184","Administrative Associate",40459.57,41794.66,45880.31,46165.59,44868.84
+"185","Call Center Representative",13.54,14.36,15.48,16.39,15.52
+"186","Production Scheduler",51049.44,52961.2,57302.92,62256.92,64317.32
+"187","Front Desk Agent",11.15,11.82,12.05,12.42,13.31
+"188","Administrative Specialist",16.47,17.49,18.86,19.53,20.13
+"189","Client Services Associate",46806.84,50027.24,55109.84,52066.51,49773.57
+"190","Patient Account Representative",14.92,15.91,17.06,18.08,18.5
+"191","Payroll Clerk",15.38,16.68,17.63,18.23,19.2
+"192","Medical Secretary",14.05,15.07,16.25,17.31,17.81
+"193","Demand Planner",58235.62,64470.07,74122.32,79251.71,79923.02
+"194","Executive Secretary or Administrative Assistant",16.11,16.98,18.14,18.99,20.87
+"195","Scheduling Coordinator",15.28,16.2,17.24,18.17,18.39
+"196","Produce Clerk (Grocery)",10.94,11.71,12.87,13.74,15.47
+"197","Accounts Payable Coordinator",16.73,18.51,19.58,20.26,20.48
+"198","Mortgage Loan Processor",16.65,17.62,19.57,20.86,20.72
+"199","Human Resources (HR) Associate",45584.76,50335.59,55802.2,50097.55,51821.73
+"200","Volunteer Coordinator",15.71,16.95,18.51,19.51,19.43
+"201","Crew Leader",10.39,11.93,15.44,17.66,19.84
+"202","Farm Manager",40570.12,46231.07,49849.81,52436.4,54073.09
+"203","Farm Hand",11.1,11.84,13.3,13.99,13.18
+"204","Farmer",11.47,12.82,13.61,14.48,19
+"205","Kennel Manager, Dog Boarding",10.45,13.05,13.9,13.47,15
+"206","Farm Worker",10.36,12.27,13.47,14.67,13.12
+"207","Ranch Manager",40983.68,42752.71,46871.54,49378.13,NA
+"208","Medical Marijuana Grower",13.79,14.99,17.62,18.31,20
+"209","Animal Shelter Manager",34000,36366.22,37323.51,42000,38000
+"210","Farmworker, Farm and Ranch Animals",10.5,11.6,12.29,12.77,15.4
+"211","Grader",13.34,14.92,15,20.35,17.87
+"212","Farmworker / Laborer, Crop, Nursery, or Greenhouse",11.72,11.87,12.18,12.38,13
+"213","Farm, Ranch, or Other Agricultural Manager",44000,50000,55360,54750,NA
+"214","Farm Worker/Crop Field",10.51,13.48,14.11,12.51,17.49
+"215","Logger",11,15.39,17.4,20.35,22
+"216","Dog Kennel Manager",12.49,15,16,18,NA
+"217","Grader / Sorter, Agricultural Products",10.85,12.77,12,16.35,NA
+"218","Biomass Collector, Separator, or Sorter",10.72,11.16,11.66,NA,NA
+"219","Agricultural Equipment Operator",13.42,14.08,14.38,21,NA
+"220","Agricultural Inspector",39733.12,39769.93,43348.84,44449.44,50000
+"221","Animal Care Supervisor",15.26,18,23.78,NA,NA
+"222","Farm Labor Contractor",12.77,14.63,17,16.28,NA
+"223","Baler Operator",13.45,14.65,NA,NA,NA
+"224","Cannabis Cultivator",15,17,NA,NA,NA
+"225","General Manager, Farm",61390.66,66466.17,60678.22,60000,NA
+"226","Agriculture Laborer",11.24,12.31,11,11.25,NA
+"227","Swamper",15,17,20.95,NA,NA
+"228","Livestock Farmworker",13.71,12,14,NA,NA
+"229","Logging Equipment Operator",17.18,19.67,19,23,NA
+"230","Farm Machinery Operator",10,16,13.9,19.18,NA
+"231","Log Grader / Scaler",15.17,17.18,16.87,25,NA
+"232","Dog Day Care Manager",13,14.55,NA,NA,NA
+"233","Cattle Manager",35000,45000,NA,NA,NA
+"234","Farmer Field Crop",14,NA,NA,NA,NA
+"235","Chainsaw Operator Logging",15.53,NA,NA,NA,NA
+"236","Farm Worker Supervisor",14.25,NA,NA,NA,NA
+"237","Faller",30.49,58.96,NA,NA,NA
+"238","Breeding Manager",40000,46500,52000,NA,NA
+"239","Fishing Vessel Deckhand",NA,NA,NA,NA,NA
+"240","Marijuana Cultivator",14,NA,NA,NA,NA
+"241","Master Grower",65000,NA,NA,NA,NA
+"242","Animal Breeder",13,11.91,NA,NA,NA
+"243","Animal Caretaker Supervisor",NA,NA,NA,NA,NA
+"244","Brood Hatchery Manager",41500,70000,NA,NA,NA
+"245","Dog Day Care Assistant Manager",12.5,NA,NA,NA,NA
+"246","General Nursery Laborer",10.48,10.39,NA,NA,NA
+"247","Artificial Insemination (AI) Technician",NA,NA,NA,NA,NA
+"248","Breeding Technician",38250,NA,NA,NA,NA
+"249","First-Line Supervisor / Manager of Farming, Fishing, and Forestry Workers",11.05,NA,NA,NA,NA
+"250","Longliner Fisherman",NA,NA,NA,NA,NA
+"251","Apple Sorter",11.2,NA,NA,NA,NA
+"252","Artificial Inseminator",NA,NA,NA,NA,NA
+"253","Mechanical Engineer",64057.17,69938.86,81310.58,92924.3,102506.42
+"254","Project Engineer",61562.36,67027.33,79437.99,91505.52,102896.96
+"255","Electrical Engineer",68135.66,73547.53,85946.16,100320.18,114320.49
+"256","Civil Engineer",59408.9,64430.82,76704.82,89681.72,100571.76
+"257","Manufacturing Engineer",63438.68,69016.27,77789.99,83338.07,85939.81
+"258","Process Engineer",66875.12,72479.58,84627.4,94243.1,93550.39
+"259","Building Information Modeling (BIM) Coordinator",52305.22,58203.23,67134.78,69414.91,68557.38
+"260","Field Service Technician",16.96,19.38,22.62,25.05,26.19
+"261","Design Engineer",61745.05,66569.1,75761.47,83163.1,88529.53
+"262","Senior Mechanical Engineer",92453.39,90575.4,96447.86,105101.41,113524.01
+"263","Structural Engineer",62229.13,67166.76,79333.49,93078.87,107418.38
+"264","Architectural Designer",48610,52897.76,60841.59,67588.75,65566.87
+"265","Engineering Technician",19.07,20.38,24.18,27.05,30.33
+"266","Aerospace Engineer",70406.31,78613.61,95952.06,113986.3,135003.66
+"267","Controls Engineer",65724.39,72785.3,84953.31,94305.24,100142.34
+"268","Director of Engineering",109952.73,116015.78,129588.98,149263.4,153032.5
+"269","Electronics Technician",16.56,19.07,22.87,24.84,25.7
+"270","Mechanical Design Engineer",63928.01,69255.89,79418.07,86396.33,85602.21
+"271","Senior Electrical Engineer",96679.28,95846.66,101209.82,110465.81,118811.94
+"272","Project Manager, Engineering",67309.36,78380.07,92452.07,106689.77,118105.76
+"273","Test Engineer",66692,71669.11,82079.31,91878.91,101708.03
+"274","Industrial Engineer",62698.05,68360.23,79815.59,85256.08,87518.89
+"275","Environmental Health & Safety (EHS) Manager",62473.68,70224.79,82803.96,92506.41,96704.67
+"276","Staff Engineer",59192.45,65448.68,113723.65,131077.09,135772.6
+"277","Mechanical Designer",53953.23,57239.32,60127.24,65547.85,71562.11
+"278","Quality Assurance (QA) Technician",16.74,17.64,18.86,20.03,20.51
+"279","Chemical Engineer",68510.89,73636.12,90429.6,104020.29,125540.14
+"280","Computer Aided Design (CAD) Drafter",16.38,18.24,21.03,22.77,23.94
+"281","Field Engineer",62566.73,64726.45,70738.51,75287.37,82597.36
+"282","Environmental Engineer",58342.1,63633.26,76437.51,93324.64,104161.49
+"283","Quality Control (QC) Technician",16.83,17.58,19.02,19.96,20.81
+"284","Field Service Engineer",60744.78,65673.11,72143.54,75328.26,79540.03
+"285","Senior Project Engineer",78271.62,83501.41,91528.47,102357.3,110922.31
+"286","Vice President (VP), Engineering",142456.14,137579.43,154958.83,175377.04,182244.97
+"287","Safety Coordinator",18.01,19.22,23.01,24.03,24.65
+"288","Program Manager, Engineering",81509.84,94450.35,106908.7,123907.71,129668.56
+"289","Civil Engineer in Training",57865.15,59838.46,62886.06,64000,65000
+"290","Architect (but not Landscape or Naval)",50459.64,57835.77,66872.84,79271.89,89956.43
+"291","Automation Engineer",64855.72,73077.18,86859.74,94409.95,99708.09
+"292","Computer Aided Design (CAD) Designer",17.28,19.88,23.45,25.74,29.6
+"293","Design Architect",50742.3,55715.39,66553.5,83302.94,105674.07
+"294","Senior Engineering Manager",133303.98,138094.34,152649.86,151322.53,NA
+"295","Chief Engineer",50970.25,53704.75,68839.91,91366.47,100422.88
+"296","Manufacturing Engineering Manager",87223.65,87074.8,96672.13,109191.96,116105.71
+"297","Research and Development Engineer",69415.56,74122.22,86606.66,99724.74,105218.16
+"298","Supplier Quality Engineer (SQE)",63496.25,72446.42,82737.88,85727.07,88784.21
+"299","Landscape Architect",49145.91,53610.64,63693.27,73245.15,80460.53
+"300","Control Systems Engineer",71364.32,75699.01,87986.06,101253.09,108978.41
+"301","Research Engineer",74290.52,79337.93,90869.28,108886.4,117446.81
+"302","Landscape Designer",47984.2,50945.9,54960.22,54513.84,51706.06
+"303","Senior Project Manager, Engineering",103569.33,110063.16,118832.06,126688.04,NA
+"304","Design Engineering Manager",81342.18,88056.91,99772.33,112810.23,119753.64
+"305","Site Reliability Engineer (SRE)",83016.4,103619.63,122799.86,135475.44,138013.98
+"306","Senior Manufacturing Engineer",76296.65,86592.4,92785.64,97182.74,100047.47
+"307","Engineering Intern",17.29,18.22,25.31,NA,NA
+"308","Intern Architect",44895.9,47390.88,54378.68,59143.14,60000
+"309","Principal Systems Engineer",71491.13,103500.33,121916.42,136282.1,143872.92
+"310","Validation Engineer",65709.42,73719.28,90171.67,98108.98,107547.96
+"311","Materials Engineer",67659.4,74860.38,88428.54,96932.45,127450.98
+"312","Project Manager, Architecture",50868.24,57364.01,69921.88,84043.91,91306.94
+"313","Quality Engineer, Medical Devices",62286.6,71182.36,85313.5,95528.33,95204.93
+"314","Senior Quality Assurance (QA) / Test Automation Engineer",65327.62,84339.32,95318.48,101622.18,104663.67
+"315","Mechanical Engineering Manager",96817.61,91945.7,104162.98,118955.02,126534.22
+"316","Project Management Director",80000,88345.78,111839.37,129722.09,144459
+"317","Reliability Engineer",69832.1,80074.09,97677.99,107559.94,114777.1
+"318","Manufacturing Technician",18.37,19.33,20.58,23.09,25.28
+"319","Electrical Design Engineer",66756.16,71127.66,84114.71,103762.39,114328.53
+"320","Electrical Designer",24.04,25.02,28.4,30.59,36.21
+"321","Senior Mechanical Design Engineer",73107.01,83307.97,89353.2,98496.31,104982.39
+"322","Radio Frequency (RF) Engineer",73057.54,81482.02,99522.02,106481.01,116447.07
+"323","Production Technician",15.82,17.18,19.53,20.48,23.27
+"324","Computer Aided Design (CAD) Technician",16,18.53,21.68,22.59,24.85
+"325","Quality Assurance (QA) / Quality Control (QC) Engineer",59387.32,63771.19,72795.92,74652.93,79635.64
+"326","Architectural Intern",15.99,17.65,19.79,25.31,NA
+"327","Hardware Engineer",78444.2,83397.86,99236.94,117193.07,126704.36
+"328","Senior Principal Engineer",121223.65,131920.37,141438.93,152009.21,NA
+"329","Production Engineer",62602.97,70054.21,83853.02,80598.69,89814.23
+"330","Project Engineer, Construction",60742.16,65283.97,74322.06,76945.08,95000
+"331","Aerospace Systems Engineer",73841.21,80683.94,94938.71,115859.23,130951.59
+"332","Senior Test Engineer",1e+05,90976.44,94979.08,104833.27,112023.86
+"333","Geotechnical Engineer",59831.03,65235.69,75674.79,92295.15,106500.29
+"334","AutoCAD Designer",17.78,19.61,22.81,25.58,30.25
+"335","Biomedical Engineer",62774,68308.94,83302.51,96425.8,90872.25
+"336","Packaging Engineer",61857.2,68573.82,78256.19,88684.41,95982.98
+"337","Electronics Engineer",69888.51,76037.73,89122.34,98443.42,108163.98
+"338","Land Surveyor",15.88,17.42,22.89,24.81,27.61
+"339","Safety Officer",17.52,19.09,20.41,23.5,25.97
+"340","Transportation Engineer",61526.95,66550.25,78861.09,91809.39,103386.67
+"341","Water Resources Engineer",60376.63,66235.13,76614.87,97429.08,108839.81
+"342","Electrical Technician",17.23,19.83,22.48,24.87,27.45
+"343","Survey Party Chief",19.91,22.58,24.31,24.88,NA
+"344","System Integration Engineer",70498.3,79925.44,93182.25,101899.36,118893.88
+"345","Principal Mechanical Engineer",97778.24,108578.68,119927.35,128589.1,NA
+"346","Architectural Drafter",17.7,19.13,21.55,22.39,23.58
+"347","Senior Structural Engineer",83342.86,93370.57,104623.99,113457.05,NA
+"348","Senior Civil Engineer",78510.86,91906.6,99730.49,101977.58,NA
+"349","Principal Electrical Engineer",108138.09,124597.58,128547.22,137414.38,NA
+"350","Quality Control (QC) Specialist",17.21,18.95,19.92,21.84,23.96
+"351","Engineering Supervisor",72859.75,82623.63,96518.29,108233.15,112811.45
+"352","Manufacturing Process Engineer",64371.26,73520.31,82124.06,87397.05,87536.47
+"353","Graphic Designer",39579.82,44654.55,50151.47,51558.6,53147.9
+"354","Senior Graphic Designer",57554.47,62782.59,65483.62,67734.79,NA
+"355","UX Designer",64680.98,73060.15,84974.52,94830.73,94488.9
+"356","Interior Designer",41229.92,48693.07,56747.78,60484.1,60130.61
+"357","Creative Director",51073.85,59846.09,80253.06,102988.08,106954.31
+"358","Art Director",54261.79,59560.8,71268.68,76950.08,74220.21
+"359","Product Designer",72641.88,83908.9,96859.11,100329.24,80437.29
+"360","Merchandiser",13.17,13.23,13.48,14.17,14.44
+"361","Product Engineer",65079.87,69869.26,78485.54,86932.64,92204.92
+"362","User Experience Designer",65625.62,73988.52,87638.82,95031.15,111587.43
+"363","Product Development Engineer",65825.77,71814.71,82597.11,91567.08,99986.17
+"364","Web Designer",43694.51,49566.11,58011.07,61473.76,62333.23
+"365","Senior UX Designer",97434.37,105285.84,111279.31,117091.14,NA
+"366","Junior Graphic Designer",40424.48,42345.83,44297.48,43448.28,48453.61
+"367","Senior Product Designer",116622.47,122833.64,127519.03,119873.86,NA
+"368","Industrial Designer",50209.26,56803.58,67511.84,79909.04,91502.51
+"369","Graphic Artist / Designer",39139.57,44429.09,52208.48,55013.1,62764.01
+"370","Senior Interior Designer",61859.65,66804.23,73840.12,75301.38,NA
+"371","3D Artist",42674.45,50865.34,61252.35,70176.6,75243.12
+"372","Fashion Designer",53564.82,57778.25,68646.56,83251.58,90986.18
+"373","Visual Designer",54808.61,62600.5,72834.07,76325.06,76151.31
+"374","Motion Graphic Designer",48373.66,54508.62,65594.84,70553.9,71000
+"375","Retail Merchandiser",11.81,12.22,12.49,12.93,12.9
+"376","Senior User Experience Designer",92591.84,103014.44,110220.94,121417.88,NA
+"377","Sr. Art Director",78225.27,84110.66,87142.56,84205.9,NA
+"378","3D Artist",42674.45,50865.34,61252.35,70176.6,75243.12
+"379","Digital Designer",48889.21,53372.74,59917.17,65552.56,69187.84
+"380","Creative Services Manager",51355.52,59967.74,68852.79,73931.6,84386.95
+"381","Graphic Artist",13.32,15.93,17.61,18.46,18.97
+"382","Junior Interior Designer",41192.67,45046.73,51295.09,60000,NA
+"383","Lead UX Designer",93073.92,114568.51,127071.8,134799.68,NA
+"384","Floral Designer",12.05,12.63,14.05,14.48,14.91
+"385","Visual Merchandiser",13.94,15.64,16.81,16.96,16.48
+"386","Production Artist",14.87,17.27,18.53,20.22,20.77
+"387","Fire Sprinkler Designer",18.19,20.38,24.16,25.92,30.68
+"388","Designer, Kitchen",14.54,16.32,17.27,19.6,20.2
+"389","Product Design Engineer",61672.06,69472.22,79179.57,82707.44,86503.43
+"390","User Experience Director",102047.49,131785.76,142708.21,156425.07,NA
+"391","Graphic Design Specialist",43538.43,45331.87,51079.62,58750.26,59570.99
+"392","Project Manager, Interior Design",43348.84,51750.17,63226.8,72531.07,83480.37
+"393","Multimedia Designer",40968.2,49673.32,55620.37,67932.62,68895.19
+"394","Animator",50056.67,56621.89,64067.33,75349.56,58910.57
+"395","Lead Graphic Designer",44879.98,51944.83,59283.98,73510.85,NA
+"396","Product Developer",50470.1,60449.19,68133.22,79507.73,80000
+"397","Assistant Interior Designer",15.89,17.9,19.66,16.54,16.28
+"398","Assistant Fashion Designer",42116.73,45057.7,46456.15,50000,NA
+"399","Senior Industrial Designer",72932.61,80083.62,89753.16,97875.35,NA
+"400","Media Supervisor",74533.8,75782.19,76453.03,73500,NA
+"401","Freelance Graphic Designer",19.83,25.46,30.52,35.4,49.13
+"402","Production Designer",43038.99,45290.65,54605.68,62510.09,63615.14
+"403","Graphic Designer, Web",38000,44030.29,50835.07,56455.47,55000
+"404","Lead Painter",18.32,19.64,20.37,20.46,NA
+"405","User Experience Manager",87115.39,103914.42,122567.2,125434.45,NA
+"406","UX Manager",96123.99,110854.82,121745.62,138303.33,NA
+"407","Illustrator",16.42,19.77,22.3,27.5,36.03
+"408","Design Director, Interior Design",72807.83,76906.56,98331.98,120600.26,NA
+"409","Textile Designer",45000,56081.89,63867.68,71557.64,76484.36
+"410","Florist",10.36,12.1,13.07,13.28,14.9
+"411","Product Development Coordinator",45496.89,49522.97,52610.79,70000,65000
+"412","Production Artist (Graphic Arts)",14.68,16.15,18.34,18.53,23.82
+"413","Fine Artist, Including Painter, Sculptor, or Illustrator",15.08,19.11,20.75,21.3,30.34
+"414","Junior Art Director",45487.82,49343.75,55920.67,53457.94,NA
+"415","Product Design Manager",91343.08,118453.92,138260.54,93301.15,NA
+"416","Designer, Kitchen & Bath",14.74,15.87,18.72,19.17,20.03
+"417","Visual Merchandising Manager",53192.49,57306.69,72335.33,75648,63877.11
+"418","Animator, 3D",40926.32,51663.69,65494.9,69476.5,78610.81
+"419","Associate Art Director",46208.13,52576.38,66075.47,73132.55,72348.19
+"420","UX Director",111500,123890.49,145611.97,156751.3,NA
+"421","Production Manager, Theater",35053,45412.51,51046.26,58969.35,59938.9
+"422","Design Intern",15.11,15.33,NA,NA,NA
+"423","Merchandising Assistant",15.58,16.55,15.26,12.04,12.01
+"424","Artistic Director",44962.07,51733.69,58234.82,58662.22,NA
+"425","Senior Fashion Designer",67563.44,81156.1,96619.23,101736.48,NA
+"426","Technical Artist",50658.43,62935.67,79091.05,104693.68,NA
+"427","Tattoo Artist",35,51.39,100.51,103.23,100
+"428","Exhibit Designer",43687.53,47522.01,51476.59,57000,70496.45
+"429","Post Production Manager, Television, Video, or Motion Picture",62510.09,74190.17,82488.6,72944.08,NA
+"430","Concept Artist",46083.83,51190.57,59446.71,81389.19,77500
+"431","Photo Retoucher",14.83,19.5,20.41,28.67,29.67
+"432","Fashion Stylist",14.92,16.38,18.5,22.24,37.5
+"433","Package Designer",40761.38,52203.85,57949.53,62400,65000
+"434","Retoucher",21.77,26.33,29.49,30.13,NA
+"435","Interior Decorator",19.65,24.59,30,25.28,24.4
+"436","Director of Interior Design",68012.11,81702.67,92907.03,NA,NA
+"437","Structural Packaging Designer",49900.55,52853.25,65099.43,70290.58,73469.39
+"438","Senior Merchandiser",74375.18,87041.08,103705.84,105000,NA
+"439","Graphic Design Intern",14.37,14.16,16,NA,NA
+"440","Tool Designer, Industrial",21.09,22.64,30.17,27.79,NA
+"441","VFX Artist",61881.67,72413.79,95000,105000,NA
+"442","Visual Manager",13.27,16.25,20.41,23.25,28
+"443","Senior Animator",57250,68985.51,98421.25,107968.82,NA
+"444","Principle User Experience Designer",102854.57,114912.05,131819.61,144753.03,NA
+"445","Compositor",20.63,25.6,42,60.68,50.98
+"446","Multi-Media Artist or Animator",50752.38,52850.41,56969.22,64631.99,71266.66
+"447","Furniture Designer",39433.05,46704.29,61176.47,77511,77511
+"448","Associate Fashion Designer",57925.56,61043.74,66500,NA,NA
+"449","Assistant Merchandise Manager",14,12.82,16.08,14.74,NA
+"450","Visual Merchandising Director",90500,85766.33,111306.83,121763.45,NA
+"451","Graphic Artist / Animator",48795.75,46000,49910.04,75109.63,90000
+"452","Store Planner",50050.46,53823.87,56674.15,60000,65000
+"453","Project Manager, (Unspecified Type / General)",57836.82,65733.46,78539.65,88720.69,92163.57
+"454","Service Delivery Manager",67181.48,68204.74,84471.9,98186.09,111460
+"455","Property Manager",41622.14,46345.69,51612.85,55955.84,59642.93
+"456","Buyer",50153.09,54240.6,59260.42,60375.58,61581.28
+"457","Senior Business Analyst",71474.04,78494.86,86959.55,94029.4,97263.89
+"458","Senior Product Manager",103158.81,119596.4,127175.45,131945.22,130697.29
+"459","Management Consultant",71203.79,82525.04,103442.31,125391.98,128792.46
+"460","Business Analyst (Unspecified Type)",57844.28,61205.02,67562.91,71746.87,71474.94
+"461","Purchasing Manager",51028,60584.48,68168.81,74847.52,78604.36
+"462","Construction Estimator",50185.6,56716.89,65818.55,69388.07,73783.11
+"463","Assistant Manager",12.28,13.31,14.68,15.63,15.92
+"464","Event Coordinator",39350.45,42131.27,46229.9,49277.96,48771.98
+"465","Supply Chain Manager",63152.18,73723.5,85999.32,92264.16,95278.69
+"466","Information Security Analyst",60705.43,68401.91,82948.19,97460.26,106201.74
+"467","Facility Coordinator",16.23,17.69,21.6,23.58,24.9
+"468","Logistics Manager",50244.84,58795.96,66898.16,72074.23,79035.79
+"469","Event Manager",43643.23,50229.05,58018.44,63268.76,66980.46
+"470","Senior Buyer",57928.09,64830.47,70722.02,73448.62,74863.35
+"471","Assistant Property Manager",15.55,16.92,18.07,18.67,17.54
+"472","Contracts Manager",62891.41,73059.1,82134.32,90715.19,99241.64
+"473","Procurement Specialist",49863.6,56595.48,62332.11,65505.17,68690.39
+"474","Business Process / Management Consultant",65573.72,75938.97,91032.4,103683.86,116473.85
+"475","Business Consultant",64882.63,71990.88,82657.09,88246.4,98376.86
+"476","Security Supervisor",14.3,15.32,15.91,16.72,17.77
+"477","Security Analyst",60887.77,67706.1,77712.7,82724.86,95372.56
+"478","Cyber Security Engineer",77245.76,83747.99,104541.75,118502,125062.65
+"479","Claims Adjuster",45779.11,50880.68,56241.6,61705.42,66061.83
+"480","Procurement Manager",59848.99,72484.47,82418.16,91645.92,94113.87
+"481","Security Manager",54578.66,58438.9,67148.38,76417.12,80329.44
+"482","Materials Manager",57532.7,65033.59,75720.02,83031.61,87616.59
+"483","Implementation Consultant",61452.06,70747.67,80631.08,86888.7,88212.44
+"484","Program Analyst",57981.28,64316.51,74584.97,83610.72,94717.62
+"485","Social Media Coordinator",37902.93,41096.64,48335.22,50517.13,50980.39
+"486","Senior Estimator",65624.6,81676.63,89286.73,91856.9,NA
+"487","Claims Adjuster / Examiner / Investigator",46477.14,51254.49,56801.77,63995.94,70661.76
+"488","Client Services Director",54044.94,71587.78,88396.03,100959.16,112947.27
+"489","Information Security Manager",88081.99,94964.45,115812.67,122842.48,127708.06
+"490","Government Program Manager",57785.72,67518.91,84698.88,101927.65,114865.84
+"491","Director of Events",43941.33,51333.91,69351.51,80939.68,84461.72
+"492","Learning and Development Specialist",51877.95,58660.05,65674.8,70571.26,75864.94
+"493","Assistant Manager, Customer Service",12.58,13.53,15.01,15.32,16.11
+"494","Design Manager",63269.2,71220.54,80465.19,92231.46,93701.4
+"495","Insurance Claims Specialist",15.34,16.58,17.59,19.07,20.72
+"496","Cost Estimator",49703.44,54189.1,60725.09,65383.21,63996.49
+"497","Quality Assurance Coordinator",18.65,19.76,21.08,23.14,24.54
+"498","Reporting Analyst",51767.17,57945.27,64663.78,72135.85,73740.17
+"499","Senior Claims Adjuster",60932.42,66387.79,71207.39,74582.44,NA
+"500","Grants Manager",45729.66,54300.66,62101.11,65674.82,66207.42
+"501","Purchasing Agent (but not Wholesale, Retail, or Farm Products)",41868.4,47248.41,51330.98,58104.46,61058.84
+"502","Call Center Manager",48360.45,51525.08,58025.44,64736.46,68558.4
+"503","Business Operations Analyst",59574.14,64323.39,70349.1,73402.9,70328.18
+"504","Purchaser",16.74,18.18,19.99,20.05,21.37
+"505","Purchasing Coordinator",17.47,18.15,19.41,20.67,21.68
+"506","Project Analyst",54169.37,60027.47,67227.54,67828.68,81836.61
+"507","Business Process Analyst",57834.69,63483.25,71075.95,77777.66,90665.51
+"508","Business Intelligence Manager",88782.65,103779.33,114276.52,122611.38,NA
+"509","Regional Property Manager",60573.33,64993.97,72225.93,80729.47,84121.26
+"510","Education Program Coordinator",40598.87,44663.23,48476.98,53836.97,58578.64
+"511","Community Association Manager",44296.32,48949.37,55957.14,63482.8,63856.4
+"512","Application Support Specialist",50421.63,54218.4,65924.22,69397.08,69466.31
+"513","Regulatory Affairs Specialist",61256.58,68774.04,75989.11,76350.44,79886.53
+"514","Information Security Officer",68711.76,76530.99,93140.29,107837.65,114596.17
+"515","Technical Specialist",54867.4,59349.53,75908.38,82390.03,86665.12
+"516","Purchasing Specialist",44796.15,49185.83,56428.91,56263.92,58975.47
+"517","Facility Security Officer (FSO)",54778.51,63660.74,73714.63,81981.88,88427.48
+"518","Event Planner",39667.47,47328.91,54480.91,57545.92,63675.85
+"519","ERP Consultant",63677.95,76121.67,96394.78,106225.11,107376.81
+"520","Manager Trainee",45571.69,45966.73,44206.93,49534.43,47498.82
+"521","Strategy Manager",80000,91853.32,109435.65,120320,129632.5
+"522","Insurance Claims Adjuster",46081.87,51313.36,57568.41,61534.42,77250.24
+"523","Workforce Management Analyst",45504.52,52456.65,56820.91,63481.64,70399.2
+"524","Consulting Manager",101844.28,109449.62,122131.79,136274.69,132686.98
+"525","Regulatory Affairs Manager",80189.31,91489.75,109157.65,112335.24,119402.84
+"526","Strategic Sourcing Manager",71623.34,82979.94,96231.05,99908.46,106465.95
+"527","Policy Analyst",50528.27,58962.41,65652.46,75644.86,93500
+"528","Strategy Consultant",71834.24,83986.2,101455.91,117966.23,131505.15
+"529","Electrical Estimator",50565.15,59247.34,69614.08,75142.65,80719.58
+"530","Management Analyst",55406.72,62567.47,73269.6,81346.87,81320.14
+"531","Assistant Buyer",46107.17,48878.95,50630.03,50925.13,60000
+"532","Commercial Property Manager",49880.37,58888.62,64682.68,73108.3,79865.66
+"533","Security Director",43189.95,67050.96,77647.49,93286.29,96226.73
+"534","Technical Analyst",60482.37,62033.48,69117.97,73914.37,82134.49
+"535","Associate Project Manager (Unspecified Type / General)",55003.11,60243.69,66745.31,87859.53,85000
+"536","Environmental Health & Safety (EHS) Director",86417.36,98932.52,117266.27,126407.45,NA
+"537","Supply Chain Coordinator",45611.75,50362.96,53962.55,55744.02,53507.23
+"538","Compliance Coordinator",45548.11,49535.66,55952.19,57621.24,61044.33
+"539","Strategy Analyst",63774.59,70578.72,78963.63,80341.03,90276.24
+"540","Procurement Director",66128.71,80957.19,116212.19,126960.34,131764.04
+"541","Purchasing / Inventory Coordinator",15.6,17.18,17.85,20.36,20.39
+"542","Cost Analyst",54310.63,60256.29,71235.19,75319.69,73469.47
+"543","Real Estate Development Manager",61843.54,79389.19,98155,117391.97,119921.06
+"544","Estimator, Construction",47803.64,54488.88,62212.73,63020.73,69424.41
+"545","Lead Business Analyst",77601.03,94393.76,108525.37,107243,NA
+"546","Inventory / Purchasing Manager",46595.14,49944.41,58963.38,62939.98,65993.32
+"547","Property, Real Estate, or Community Association Manager",46834.9,51061.8,55486.71,62048.43,65292.37
+"548","Business Development Coordinator",43816.55,49512.64,58236.26,55043.13,56844.79
+"549","Senior Property Manager",67812.41,74169.7,82111.07,87182.28,NA
+"550","Project Control Specialist",59393.28,65649.61,83799.46,99098.39,100758.27
+"551","Manager, Change Management",60000,81199,98961.24,117150.89,117371.99
+"552","Distribution Manager",55073.31,57977.54,67354.08,73071.89,81423.86
+"553","Electrical Foreman",19.51,21.92,27.48,29.93,32.22
+"554","Assistant Construction Superintendent",53825.85,60782.3,69423.98,71939.38,70270.26
+"555","Carpenter Foreman",21.47,23.33,25.13,27.21,29.47
+"556","Electrician",15.54,18.79,23.59,25.59,28.3
+"557","Carpenter",15.81,18.49,20.82,24.04,25.37
+"558","Project Manager, Construction",53327.31,63264.98,76405.52,84688.33,87830.13
+"559","Construction Superintendent",52104.31,62861.79,74430.53,82242.26,86985.77
+"560","Assistant Project Manager, Construction",53756.55,61346.91,71705.58,65114.24,64920.02
+"561","Construction Foreman",18.77,20.35,23.74,25.94,28.21
+"562","Painter",13.81,15.6,18.05,19.35,20.22
+"563","Construction Project Manager",56556.44,67415.22,80907.09,89111.19,93315.05
+"564","Construction Superintendent, Commercial",54610.82,63862.39,75645.66,82776.29,88262.25
+"565","Plumber",15.55,18.7,23.09,25.24,27.19
+"566","Construction Laborer",14.62,15.59,17.88,19.8,23.25
+"567","Construction Manager",59095.07,64825.69,78624.75,88019.05,91778.86
+"568","Painting Supervisor",18.15,20.24,20.89,24.39,NA
+"569","Electrician Journeyman",20.67,23.05,25.46,27.28,28.94
+"570","Senior Project Manager, Construction",84245.24,103200.69,116262.4,118418.93,NA
+"571","Apprentice Electrician",14.44,15.85,18.88,20.54,22.74
+"572","General Contractor",15.58,18.61,24.98,31.37,40.25
+"573","Apprentice Plumber",14.65,15.68,17.66,18.18,17.47
+"574","Roofer",15.01,16.39,19.1,20.18,22.55
+"575","Construction Inspector",19.87,21.71,25.11,28.8,33.4
+"576","Master Electrician",26.71,26.68,30.08,30.89,NA
+"577","Lead Carpenter",21.36,23.91,24.85,25.79,NA
+"578","Concrete Finisher",15.16,17.72,19.79,20.94,22.62
+"579","Electrical Apprentice",14.11,15.74,18.46,20.3,19.55
+"580","Journeyman Plumber",17.59,21.44,25.22,26.98,29.11
+"581","Flooring Installer",13.7,15.42,18.78,20.99,24.63
+"582","Construction Worker",14.82,15.51,17.37,19.97,22.74
+"583","Project Superintendent",53945.12,66142.5,75391.94,83761.7,92697.37
+"584","Finish Carpenter",15.05,18.34,21.05,25.36,27.06
+"585","Glazier",15.26,17.3,20.93,22.73,25.92
+"586","Master Plumber",25.2,26.58,28.94,30.25,NA
+"587","Maintenance Electrician",20.76,23.59,24.69,26.06,27.01
+"588","Journeyman Carpenter",22.82,26.16,29.65,29.87,31.19
+"589","Pipefitter",17.19,21.04,28.22,29.55,32.52
+"590","FOREMAN",20.32,22.45,25.8,27.57,NA
+"591","Sheet Metal Worker",15.2,17.73,22.61,27.83,30.35
+"592","Construction Superintendent, Residential",48148.41,53754.94,62302.79,68938.3,71624.48
+"593","Construction Supervisor",49986.91,59154.97,68224.84,71753.89,75527.65
+"594","Industrial Electrician",20.33,23.01,26.91,28.75,29.38
+"595","Architectural Job Captain",59125.89,68514.73,71090.91,78020.21,NA
+"596","Drywall Finisher",14.59,16.67,19.79,21.75,24.24
+"597","Electrical Project Manager",60788.99,73610.74,82013.64,83142.76,89187.56
+"598","Painter, Construction and Maintenance",13.35,14.7,15.55,17.82,19.6
+"599","Fire Sprinkler Fitter",15.3,17.41,22.72,26.56,27.47
+"600","Concrete Foreman",15.39,21.12,22.85,25.73,26.92
+"601","Electrician Helper",13,14.54,16.98,18,17.3
+"602","Low Voltage Electrician",14.94,17.85,21.35,24.45,28.12
+"603","Master Carpenter",21.72,24.99,27.99,29.68,NA
+"604","Sheet Metal Mechanic",15.65,18.17,22.01,24.88,25.81
+"605","Construction Contractor",15.33,18.2,20.13,27.37,35.12
+"606","Sprinkler Fitter",15.87,18.12,22.18,29.45,30.07
+"607","Carpenter Apprentice",16.21,17.55,18.14,18.66,19
+"608","General Superintendent",75621.67,94182.43,101276.15,111164.18,NA
+"609","Director of Construction",87644.55,103483.91,122849.61,125669.09,NA
+"610","Mason",17.8,18.64,22.57,24.68,25.53
+"611","Elevator Mechanic",22.28,27.14,39.74,42.35,45.43
+"612","Sign Installer",13.82,16.07,18.09,19.87,21.2
+"613","Builder",13.71,14.94,17.46,19.57,23.56
+"614","Construction Scheduler",54353.86,70586.93,86675.74,104729.74,115513.74
+"615","Tile or Marble Setter",14.67,17.46,20.07,24.57,25.78
+"616","Plumbing Foreman",20.78,28.29,29.76,31.13,NA
+"617","Construction Coordinator",46005.24,51122.55,57242.8,61880.45,65836.89
+"618","Carpenter Supervisor",20,24.83,26.18,28.11,NA
+"619","Code Enforcement Officer",15.67,17.54,18.7,20.94,28.5
+"620","Operating Engineer",23.24,30.42,32.94,34.09,35.08
+"621","Building Inspector",43193.37,50837.75,54476.41,58925.57,59884.6
+"622","Granite Installer",14.42,15.55,18.43,19.73,22.05
+"623","Roofing Foreman",18.52,21.68,22.82,24.89,NA
+"624","Window and Door Installer",14.43,16.43,19.54,22.48,24.16
+"625","Insulation Installer",14.32,15.49,18.45,19.74,24.22
+"626","Insulator",15.57,17.19,21.41,22.55,25.71
+"627","House Painter",14,14.98,17.76,19.58,20.43
+"628","Pipelayer",14.5,17.22,18.63,19.96,20.27
+"629","HVAC Foreman",19.99,25.07,27.96,28.88,NA
+"630","Asbestos Removal Worker",17.63,18.25,20.55,22.98,30
+"631","Senior Construction Manager",82500,99780.73,111181.85,120085.81,NA
+"632","Bricklayer",15.51,19.21,25.11,26.59,29.66
+"633","Sign Maker",12.51,14.46,15.36,16.06,18.4
+"634","Utilities Superintendent",75231.65,76968.34,77285.95,84212.43,NA
+"635","Construction Administrator",48065.79,50763.34,55595.16,59547.82,71010.91
+"636","Home Inspector",39987.87,46115.04,53561.1,55971.19,66000
+"637","Plumbing Supervisor",17,26.75,28.83,30.9,NA
+"638","Lead Plumber / Foreman",19.4,23.19,26.7,30.14,NA
+"639","Plumber, Pipefitter, or Steamfitter",21.48,28.49,32.39,32.66,NA
+"640","Boilermaker",23.75,26.79,30.01,34.39,34.89
+"641","Commercial Electrician",19.15,23.19,27.19,25.59,NA
+"642","Directional Driller",16.85,19.93,21.26,23.58,23.95
+"643","Sheet Metal Worker Apprentice",15.08,16.42,18.3,17.66,NA
+"644","Carpenter Helper",13.73,14.76,16.19,17.04,17
+"645","Cement Mason or Concrete Finisher",15.48,17.91,21.49,21.59,24.77
+"646","Cabinetmaker, Bench Carpenter",17.46,19.77,20.55,21.82,NA
+"647","Water Superintendent",50401.58,58981.9,60272.81,70981.61,NA
+"648","Window Installer",13.96,15.63,18.25,21.36,22.66
+"649","Electrician - Certified",15.58,20.36,25.12,27.32,29.01
+"650","Painter Helper",11.95,13.28,15.13,14.78,15.35
+"651","Helper--Pipelayer, Plumber, Pipefitter, or Steamfitter",13.08,14.35,16.37,16.48,26
+"652","Asphalt Paver Operator",14.88,16.44,19.49,20.51,21.38
+"653","Elementary School Teacher",40168.15,41841.24,46094.65,52605.92,59650.66
+"654","High School Teacher",41757.54,44969.61,49920.39,56294.84,63500
+"655","Preschool Teacher, (but not Special Education)",12.08,12.87,13.63,14,14.4
+"656","Teacher Assistant",11.39,11.76,12.42,12.88,13.23
+"657","Daycare Teacher",10.15,10.88,11.91,12.06,12.21
+"658","Middle School Teacher",40543.22,43918.82,49333.22,53696.68,59360.66
+"659","Special Education Paraprofessional",12.89,13.42,14.39,15.33,16.23
+"660","Assistant Professor, Postsecondary / Higher Education",70463.61,69909.66,69908.22,67853.54,68564.27
+"661","Instructional Designer",53976.46,60856.45,67550.33,72617.58,75843.21
+"662","Special Education Teacher, Preschool, Kindergarten, or Elementary School",41741.06,44533.07,49580.53,55181.05,60845.38
+"663","Tutor",14.71,15.45,20.51,24.72,26.65
+"664","Associate Professor, Postsecondary / Higher Education",61024.86,68997.35,79873.05,80512.62,80118.26
+"665","Mathematics Teacher",41837.96,45931.21,50947.42,55525.14,62039.96
+"666","Special Education Teacher, Secondary School",40973.76,46627.71,50095.81,57722.05,64329.47
+"667","Toddler Teacher",11.31,12.12,12.87,13.42,13.61
+"668","Librarian",43999.97,47804.43,52130.53,56311.74,61245.07
+"669","Director, Child Care",31095.38,38321.32,39678.05,41967.26,46756.24
+"670","Teacher",43941.53,43882.04,49054.33,54315,62535.93
+"671","Professor, Postsecondary / Higher Education",61027.36,62094.55,69062.97,87433.68,100826.78
+"672","Teacher Aide",11.85,12.13,13.06,12.81,14.43
+"673","Education Paraprofessional",12.47,12.9,13.41,13.81,15.13
+"674","Nurse Educator",73434.82,72917.59,76703.44,79953.19,86161.67
+"675","Assistant Director, Child Care",13.53,14.06,14.65,15.04,15.3
+"676","Director, Preschool",35000,37944.11,41833.55,44878.19,49368.67
+"677","Education Program Manager",50138.2,54803.41,60837.77,67195.72,67856.07
+"678","Head Teacher",11.79,12.51,14.17,14.69,15.23
+"679","Admissions Director",48048.18,53039.74,61993.14,69045.92,69723.77
+"680","Education Director",50056.49,52674.31,62416.1,71541.1,81866.6
+"681","Instructor, Postsecondary / Higher Education",48351.35,48916.24,50166.11,51069.14,59106.26
+"682","Secondary School Teacher",38892.91,42596.34,48681.04,54698.85,62823.43
+"683","Assistant Principal",68745.19,71592.35,71426.76,75183.72,79462.29
+"684","Education Program Director",49434.66,53273.5,60803.61,66266,72205.58
+"685","Sr. Instructional Designer (Training & Development)",73072.65,80032.53,85284.02,89251.47,NA
+"686","Education Coordinator",42354.45,44868.58,51898.75,57444.56,51013.26
+"687","Art Teacher",38923.86,41599.88,46420.07,51876.3,62083.51
+"688","Early Childhood Educator (ECE)",13.05,13.45,14.06,15.09,15.55
+"689","Teaching Assistant (TA)",12.63,12.85,13.9,14.51,14.35
+"690","English as a Second Language (ESL) Teacher",42226.01,42836.97,45030.76,52402.44,55309.7
+"691","Adjunct Professor",31792,30960.98,31486.32,36984.16,34579.92
+"692","Special Education Teacher, Middle School",41589.16,45121.69,49876.77,57222.2,63119.88
+"693","Elementary School Principal",68073.01,75033.67,82090.22,87144.66,90741.09
+"694","Athletic Director",50223.51,53826.69,63543.74,75501.59,77658.64
+"695","Instructional Assistant",13.33,14.07,14.22,14.78,15.16
+"696","Assistant Director of Admissions (College/University)",44945.2,48521.5,52365.65,55102.1,59482.03
+"697","Substitute Teacher, K-12",12.27,12.56,12.37,13.65,14.24
+"698","Dean of Students",54570.13,58692.87,62516.35,72758.62,77645.53
+"699","Child Care Center Director",40895.77,41761.4,43752.87,45949.26,48899.25
+"700","Restoration Technician",14.54,15.54,17.06,17.61,20.96
+"701","Paraeducator",14.54,14.45,14.87,15.54,17.13
+"702","Education Manager",48538.56,52376.52,60093.38,64618.36,70467.95
+"703","Physical Education Teacher",41210.74,41386.36,45982.23,56686.8,64759.48
+"704","Clinical Educator",64369.16,72270.43,76959.19,79086.7,88985.7
+"705","Daycare Director",33129.14,35923.5,39989.18,39171.1,39465.55
+"706","Registrar, College Or University",41388.41,50299.12,59769.83,70853.33,76825.6
+"707","Pre-Kindergarten Teacher",13.11,13.67,13.75,14.33,14.73
+"708","Preschool Teacher Assistant",11.16,11.62,12.31,12.8,12.15
+"709","Nursing Instructor",62853.51,60723.46,64088.79,65350.28,63955.97
+"710","Lecturer / Speaker",48387.29,51613.37,51518.96,54298.84,61528.51
+"711","Archivist",39809.17,47550.76,52618.97,58012.72,55350
+"712","Program Management Director, Education",52082.29,53259.07,66052.37,73731.12,77040.12
+"713","Library Director",56000,50729.33,59078.26,70617.66,75738.76
+"714","Cosmetology Instructor",15.59,16.54,17.64,17.67,17.77
+"715","Wellness Coordinator",16.72,17.61,19.68,19.87,22
+"716","Instructional Paraprofessional",11.73,12.69,13.48,14.29,15.33
+"717","Educational Specialist",40025.5,46216.97,48493.72,54915.73,64403.1
+"718","Department Chair (College / University)",61890.53,70167.88,70618.51,87797.15,95649.95
+"719","Associate Director of Admissions (College/University)",50868.24,54921.35,61631.84,68134.12,57391.3
+"720","Records Manager",45508.67,56986.3,61226.04,68432.02,73134.3
+"721","Kindergarten Teacher (but not Special Education)",38893.2,40850.43,42679.43,48742.44,45005.96
+"722","Primary School Teacher",39923.97,40444.66,45570.09,47333.69,54263.05
+"723","Multimedia Specialist",40067.17,46536.75,53342.4,58977.34,68738.27
+"724","Special Education Assistant",13.82,14.44,17.03,17.29,20.47
+"725","Graduate Research Assistant (GRA)",29079,27903.78,28564.51,39995.89,NA
+"726","High School Principal",67249.17,84739.97,87624.08,93264.98,100413.25
+"727","Curriculum Developer",57583.51,58319.27,67991.17,72112.15,83102.24
+"728","Academic Dean",71145.46,79416.49,83235.63,101539.35,107840.97
+"729","Instructional Designer (Training & Development)",55617.67,59544.03,65925.31,68481.77,70003.52
+"730","Principal / Headmaster",58957.53,64734.19,85398.21,95585.66,95370.04
+"731","Dance Instructor",14.64,18.28,24.53,29.69,29.71
+"732","Assistant Director, Preschool",14.8,15.11,15.26,15.62,15.45
+"733","Dance Teacher",14.59,20.57,25.29,25.51,30.17
+"734","Childcare Teacher",9.24,10.39,11.54,11.79,12.72
+"735","Financial Aid Director",49434.82,53457.94,61976.13,67155.46,76560.78
+"736","Reading Specialist",43444.14,48152.04,52807.42,57615.43,59654.53
+"737","Educational Assistant",12.69,13.92,14.22,15.6,15.04
+"738","Department Administrator",57325.12,58077.56,68325.73,74463.26,98094.83
+"739","Middle School Math/Science Teacher",40825.77,43758.3,49354.02,57021.58,62443.37
+"740","Instructor, Gymnastics",9.86,12.1,15.31,19.28,23.96
+"741","Reference Librarian",45747.76,47096,48547.43,51585.26,59237.83
+"742","Director of Special Education",68048.68,68082.92,68256.29,74470.03,82382.21
+"743","Instructional Designer / Trainer",48705.17,57195.24,64870.9,73830.75,74779.27
+"744","Assistant Registrar",38526.51,44333.2,48297.45,45496.56,43235.95
+"745","Assistant Preschool Teacher",11.32,11.85,12.85,12.71,14.55
+"746","Multimedia Production Coordinator",37500,45422.91,53084.73,56376.28,67664.35
+"747","Teacher College/University (Unknown Type)",49316.4,46013.65,49229.28,50656.46,52441.89
+"748","Flight Instructor",24.76,24.66,25.6,33.43,38.57
+"749","Director of Alumni Relations",50066.46,60487.92,71683.88,76992.99,84334.7
+"750","School Superintendent",115356.89,110090.66,113694.73,125109.21,135236.77
+"751","Academic Coordinator",40919.81,43150.48,47753.71,49099.73,60399.16
+"752","Curator",34983.6,46055.73,51168.75,59816.27,81977.28
+"753","Restaurant Manager",41237.05,45163,47909.49,49456.1,50987.23
+"754","General Manager, Restaurant",41368.09,45676.07,49933.75,53782.29,56106.12
+"755","Line Cook",11.15,12.28,13.44,13.79,14.16
+"756","Server",7.82,8.12,8.27,7.89,6.67
+"757","Executive Chef",53078.85,55141.27,57573.71,63208.38,68729.93
+"758","Food Service Worker",10.33,11.02,12.07,12.56,13.07
+"759","Barista",10.44,11.12,12.12,12.4,12.38
+"760","Sous Chef",40435.33,43644.3,45614.69,47212.76,47984.95
+"761","Restaurant Assistant Manager",11.94,12.71,13.56,13.99,13.88
+"762","Deli Clerk",11.28,11.71,12.25,13.21,12.87
+"763","Kitchen Manager",13.32,13.61,14.79,15.17,15.38
+"764","Dishwasher",10.19,10.49,10.78,10.96,11.09
+"765","Cook, Restaurant",9.87,11.09,12.61,12.78,12.85
+"766","Prep Cook",10.94,11.71,12.41,12.67,12.92
+"767","Restaurant Host/Hostess",9.65,10.04,11.14,11.73,11.97
+"768","Bartender",8.66,8.66,8.44,8.5,9.06
+"769","Waiter/Waitress",6.95,7.21,7.55,8.04,6.5
+"770","Food Service Manager",12.84,13.76,14.52,16.3,17.75
+"771","Dietary Cook",11.21,11.74,12.22,13.02,13.73
+"772","Fast Food Worker",9,9.37,9.96,9.99,9.79
+"773","Cook, Institution and Cafeteria",10.46,11.81,13.13,13.76,14.58
+"774","Head Chef/Cook",11.26,12.43,13.98,14.45,15.13
+"775","Grill Cook",9.7,10.79,12.14,12.44,12.73
+"776","Bar Manager",11.99,12.02,12.02,12.08,12.29
+"777","Cook, Fast Food",8.97,9.28,9.98,9.8,9.34
+"778","Assistant Manager, Fast Food",11.4,11.98,12.75,12.86,11.95
+"779","Pizza Cook / Chef / Maker",8.85,10.03,11.64,12.22,14.7
+"780","Food and Beverage Manager",45932.92,48751.77,51245.11,52179.39,53476.12
+"781","Head Chef",41252.17,47175.52,47394.09,49871.93,50472.99
+"782","Food and Beverage Director",48538.56,58953.74,69216.83,73140.63,76369.08
+"783","Food Service Supervisor",13.53,13.99,14.75,15.88,17.12
+"784","Deli Associate",10.8,11.48,12.11,12.63,12.13
+"785","Deli Manager",14.22,14.96,16.22,16.89,18.54
+"786","Kitchen Chef",11.61,12.72,14.24,15.39,15.21
+"787","General Manager, Food Service",39227.61,42930.19,49098.55,55406.98,58978.13
+"788","Catering Sales Manager",40045.81,44544.64,49409.83,49928.2,51758.9
+"789","Catering Manager",40297.75,45943.36,48479.81,50265.86,50090.91
+"790","Busser",8.89,9.14,9.94,9.79,7.12
+"791","Front of House Manager",38535.79,40289,43395.34,41464.14,40188.2
+"792","Cook Supervisor",12.25,13.35,14.66,14.75,15.54
+"793","Executive Sous Chef",51743.54,54823.95,56985.8,57964.7,NA
+"794","Restaurant Supervisor",12.75,13.97,14.68,15.08,15.84
+"795","Chef de Cuisine",49527.57,51275.85,57211.2,63578.55,NA
+"796","Kitchen Supervisor",12.54,14.03,15.3,15.37,15.58
+"797","Chef Manager",45645.99,48995.25,52911.96,54127.84,NA
+"798","Floor Manager",14.5,14.81,15.83,15.42,16
+"799","Banquet Manager",38736.77,45482.68,45912.77,51049.01,56268.8
+"800","Cafeteria Worker",10.01,10.36,11.34,11.81,12.22
+"801","Fast Food Manager",10.51,11.34,11.97,12.45,13
+"802","Cafe Manager",12.35,13.67,14.51,15.72,14.85
+"803","Personal Chef",19,19.97,21.48,25.16,25.09
+"804","Host/Hostess",9.69,10.12,11.28,11.95,12.29
+"805","Cafeteria Manager",13.04,13.54,14.4,15.34,17.43
+"806","Kitchen Worker",10.08,10.28,11.55,11.71,12.77
+"807","Director of Dining Services",55177.72,60392.75,63915.56,65123.46,NA
+"808","Food And Beverage Supervisor",13.75,15.18,15.24,15.88,15.06
+"809","Private Chef",58700,61538.53,68063.75,74829.65,76533.18
+"810","Dining Room Manager",44027.03,45969.74,43602.7,46130.2,49285.07
+"811","Food Server",10.05,10.18,11.17,11.33,11.28
+"812","Coffee Shop Manager",12.82,13.23,13.74,15.67,15.03
+"813","Front of House Manager, Restaurant",11.49,13.2,15,14.91,17.42
+"814","Banquet Captain",13.37,13.25,14.44,15.22,15
+"815","General/Institution Cook",12.14,12.77,13.66,15.06,NA
+"816","Director of Catering",54745.19,60989.09,65191.92,68600.49,NA
+"817","Assistant Restaurant Manager",37911.11,39471.03,43577.87,45044.28,46579.13
+"818","Food Runner",9.23,9.98,10.33,11.19,11.06
+"819","Dietary Supervisor",14.35,14.12,14.79,15.74,17.24
+"820","Banquet Server",10.25,11.08,13.11,14.03,13.15
+"821","Assistant Kitchen Manager, Restaurant",12.88,13.71,14.38,14.88,14.23
+"822","Catering Coordinator",12.7,14.17,14.94,16.72,16.23
+"823","Food Server, Kitchen",9.84,10.95,11.49,12.29,12
+"824","Greeter",11.31,11.62,12.22,12.44,12.48
+"825","Pastry Cook",12.47,14.12,14.32,14.98,15.14
+"826","Cook, Short Order",9.2,10.68,12.3,12.22,12.3
+"827","Assistant Food and Beverage Manager",40755.52,43518.31,47571.08,45596.86,47400.87
+"828","Sushi Chef",11.47,13.06,15.28,16.64,19.58
+"829","Pizza Store Manager",9.67,12.22,14.74,15,15
+"830","Banquet Chef",46129.79,50165.94,55732.94,55551.95,NA
+"831","Restaurant and Bar Manager",40520.86,46016.72,47447.75,45452.07,49761.49
+"832","Food Preparation Worker",9.83,10.94,11.58,11.01,11.93
+"833","Food And Beverage Attendant",9.95,10.63,10.69,12.42,10.29
+"834","Restaurant Server",9.67,10.22,10.5,9,7.5
+"835","Corporate Chef",68355.58,71663.81,79737.4,75171.72,NA
+"836","Chef de Partie",15.14,15.01,17.49,15.78,NA
+"837","Catering Assistant",11,12.77,14.23,15.31,14.87
+"838","Beverage Manager",51781.22,54083.86,53710.45,52477.13,NA
+"839","Breakfast Cook",10.04,10.64,11.24,12.85,13
+"840","Catering Director",48757.43,51628.13,57378.69,64895.59,NA
+"841","Host / Hostess of Restaurant, Lounge, or Coffee Shop",10.02,10.21,10.48,13.12,11.98
+"842","Dining Room Supervisor",14.53,14.87,15.73,13.75,NA
+"843","Counter Attendant, Cafeteria, Food Concession, or Coffee Shop",9.32,10,11.28,12.48,11.37
+"844","Executive Pastry Chef",45604.16,57925.56,62363.86,63186.91,NA
+"845","Pantry Cook",11.31,12.1,14.12,13.24,14.38
+"846","Sommelier",49664.66,49814.48,52029.36,51395.14,47500
+"847","Hotel Room Service Attendant",9.87,10.18,11.73,11.31,9.65
+"848","Kitchen Helper / Aide",10.23,10.71,11.55,11.47,12.59
+"849","Pantry Chef / Garde Manger",12.08,12.26,14.12,14.39,14.45
+"850","Kitchen Hand",10.14,10.22,12.14,13.9,14
+"851","Combined Food Preparation and Serving Worker, Including Fast Food",9.05,9.72,9.25,11,14
+"852","Kitchen Manager, Restaurant",12.92,12.92,12.21,14.68,NA
+"853","Operations Manager",52242.93,58979.5,67370.95,74126.5,80475.77
+"854","Director of Operations",64620.29,72148.88,87209.03,101541.71,113960.85
+"855","Executive Director",55004.18,60953.79,72168.26,88604.01,102495.14
+"856","General / Operations Manager",49301.57,53833.84,63180.19,73562.75,82260.32
+"857","Operations Supervisor",53735.06,55390.06,59399.98,62553.73,67165.75
+"858","Chief Executive Officer (CEO)",101801.02,115493.97,129656.82,156588.66,190620.24
+"859","Chief Financial Officer (CFO)",93493.1,101952.61,119126.82,143132.42,151096.65
+"860","Vice President (VP), Operations",94382.3,100123.53,117661.88,135754.21,148211.27
+"861","Chief Operating Officer (COO)",92099.29,101124.18,123482.16,149574.89,172170.44
+"862","Program Manager, Non-Profit Organization",45366,50677.4,55885.76,60694.91,60899.15
+"863","President",99095.05,109609.25,124050.82,149868.35,168885.72
+"864","General Manager",42303.48,48470.15,53817.11,60426.93,69325.07
+"865","Assistant General Manager (AGM)",40069.96,43423.83,49612.15,54393.51,59370.42
+"866","Operations Director",58520.07,64842.8,81018.63,99114.77,113763.89
+"867","Facilities Manager",56350.51,60416.97,66580.88,72222.92,79101.29
+"868","Vice President (VP), Finance",101477.83,104690.1,122498.3,147469.71,151396.41
+"869","Program Manager (Unspecified Type / General)",63729.53,74451.57,89412.27,99641.27,108108.26
+"870","Chief Information Officer (CIO)",107650,122240.46,128238.01,165613.18,184363.9
+"871","Chief Technology Officer (CTO)",102063.28,119305.41,133951.23,163862.13,185082.33
+"872","Sr. Operations Manager",82677.36,95261.56,103764.57,114021.56,NA
+"873","Project Manager, Operations",60215.62,68080.4,78953.89,86725.9,89170.63
+"874","Vice President (VP), General Manager",96561.92,96605.93,107911.85,139008.83,152539.59
+"875","Business Operations Manager",56088.8,71133.29,80808.24,84336.43,81737.91
+"876","Executive Director, Non-Profit Organization",53144.55,55319.26,65637.25,73650.78,83125.93
+"877","Retail General Manager (GM)",43466.21,49099.01,54250.36,62265.4,65998.46
+"878","Sr. Project Manager, Operations",76306.13,84225.81,96624.72,107517.28,116198.03
+"879","Chief Operations Officer (COO)",80944.52,90183.33,103310.27,130990.73,149314.55
+"880","Facilities Director",56645.48,68060.1,76897.45,91119.12,96879.79
+"881","Operations Administrator",45118.25,50214.95,55155.12,62047.21,69667.89
+"882","Chief Marketing Officer (CMO)",85301.24,95884.75,134766.7,178329.13,198627.53
+"883","Senior Vice President (SVP), Operations",130159.78,146911.9,169097.99,180802.54,NA
+"884","Area Operations Manager",52172.46,56441.23,67270.01,75440.5,81953.79
+"885","Assistant Director, Non-Profit Organization",45334.09,50254.19,58863.64,60588.37,69144.21
+"886","Small Business Owner / Operator",59179.54,59376.28,56464.86,63569.2,75856.76
+"887","Associate Director, Non-Profit Organization",54306.98,62327.69,70192.7,73998.3,81347.82
+"888","Director, Supply Chain Management",83190.68,93616.55,116090.49,132442.55,134482.23
+"889","Assistant Operations Manager",44578.18,49397.89,55468.18,59321.42,62309.37
+"890","Facilities Coordinator",18.93,19.63,20.37,21.38,23.25
+"891","Continuous Improvement Manager",64953.58,76171.8,88195.92,98532.68,100283.2
+"892","Director, Customer Service",57456.46,82585.39,93095.38,103299.7,108865.6
+"893","Engagement Manager",60708.43,66561.83,83023.67,107597.87,119265.12
+"894","Regional Operations Director",75000,81995.64,94816.13,105592.38,111830.02
+"895","President and CEO",90000,120944.83,129982.73,145611.17,186022.18
+"896","Director of Strategy",85000,97724.62,123308.55,145114.37,149690.41
+"897","Senior Program Manager (Unspecified Type / General)",94596.83,111838.57,127709.25,138457.76,NA
+"898","Operations Coordinator (Unspecified Type)",43231.32,46447.42,50116.46,55621.16,57445.14
+"899","Senior Director, Operations",101568.54,126004.42,144274.06,153810.3,NA
+"900","Vice President (VP), Product Management",136462.14,127702.07,160465.01,175365.27,183246.3
+"901","General Manager, Regional",56422.44,68103.37,79142.27,94145.11,103832.13
+"902","Vice President (VP), Operations and Administration",80643.23,106915.29,124870.08,134575.33,NA
+"903","Vice President (VP) Finance & Chief Financial Officer (CFO)",114522.62,113752.57,130350.11,155435.67,160207.67
+"904","Chief Compliance Officer",69038.77,85995.5,103022.47,144107.47,142680.91
+"905","Assistant Vice President (AVP), Regional Director",75000,84789.99,98649.92,121366.37,142694.19
+"906","Chief Information Security Officer",106175.58,123550.26,130406.39,168141.12,181697.44
+"907","Development Manager, Non-Profit Organization",45062.67,50980.49,56824.9,60462.05,59072.01
+"908","Vice President (VP) of Product Development",120404.97,137253.38,165489.5,183893.41,NA
+"909","Clinical Operations Manager",66426.53,72102.69,81391.82,89637.36,91040.99
+"910","Chief Nursing Officer (CNO)",119886.71,120691.73,122751.7,136242.74,148644.28
+"911","Director, Financial Planning & Analysis",99809.5,94922.2,121048.74,134966.17,136743.28
+"912","Chief Human Resources Officer (CHRO)",103662.48,129904.24,149051.76,169732.18,NA
+"913","Director, Operations and Administration",57720.72,69136.5,83984.78,92570.94,99758.17
+"914","Branch Manager, Wholesale Distributor",54347.4,59245.02,61189.24,68421.59,70968.43
+"915","Division General Manager",66973.76,79454.15,84122.98,108412.35,121494.67
+"916","Vice President (VP), Strategy",123667.63,135446.79,160867.76,179019.59,NA
+"917","District Operations Manager",51450.04,63270.14,67697.87,76514.19,79738.49
+"918","Senior Director of Strategy",108206.43,135813.58,162890.04,173187.25,NA
+"919","Revenue Manager",51485.97,61044.68,79593.23,81257.21,73099.49
+"920","Senior Project Manager (Unspecified Type / General)",79771.37,93348.9,106718.27,110431.13,NA
+"921","Government Affairs Director",62447.43,81166.22,93510.75,111892.12,120742.71
+"922","Director, Housekeeping",39493.67,49618.46,57474.76,60884.97,63650.82
+"923","Chief Executive Officer (CEO), Non-Profit Organization",66649.76,85607.04,85455.03,114645.69,135741.52
+"924","Vice President (VP), Technology",129345.45,131448.04,162481.18,174967.47,NA
+"925","Field Operations Manager",53675.32,57605.34,65390.59,75391.19,84673.73
+"926","Director, Risk Management / Risk Control",79074.94,91722.41,108428.51,123442.06,131526.25
+"927","Facilities / Maintenance Director",56222.22,57952.86,67445.74,77530.33,79789.79
+"928","Field Marketing Manager",56606.94,66033.3,80462.63,90063.35,93989.36
+"929","Regional Manager, Services Company",61169.69,63498.68,75153.2,87976,95057.69
+"930","Customer Relationship Management (CRM) Manager",49937.58,66907.73,79770.2,89832.56,80000
+"931","Vice President (VP), Marketing & Communications",99369.13,109664.24,131453.74,151883.78,NA
+"932","Director, Product Development",101774.86,118532.84,139693.36,145758.31,NA
+"933","Vice President (VP), Quality",117883.79,133432.29,151218.94,176286.37,NA
+"934","Area Manager, Retail",50471.68,52896.1,60344.51,62313.63,66292.41
+"935","Director of Program Management",97863.5,126364.78,146803.02,152801.14,NA
+"936","Club General Manager",39584.24,46848.33,59230.15,72882.66,91498.96
+"937","Vice President, Chief Operating Officer (COO)",120000,114276.34,126368.11,144885.43,154988.39
+"938","Division Operations Manager",61114.36,64628.64,71257.84,87975.64,99602.87
+"939","Director of Strategic Planning",77506.72,96200.27,113253.19,134964.37,147238.24
+"940","Director of Revenue Management",77216.02,91746.73,103658.88,113945.96,NA
+"941","Senior Vice President (SVP), Marketing",169380.53,154424.51,180344.05,195846.59,NA
+"942","Product Development Director",86798.91,116254.34,128633.01,132086.15,NA
+"943","Chief Development Officer (CDO)",91369.53,108105.57,119673.64,128507.11,NA
+"944","Assistant Director of Operations",45708.77,52950.59,62783.23,74810.34,87000
+"945","Vice President (VP), Commercial Lending",85536.51,99348.47,107948.15,115942.77,NA
+"946","Director, Student Services",49744.73,54249.7,62678.35,67184.3,67886.01
+"947","Deputy Executive Director, Non-Profit Organization",52335.97,65684.59,78739.4,84142.37,96782.78
+"948","Ambassador",13.43,14.52,17.83,17.17,19
+"949","Chief Administrative Officer (CAO)",90000,91811.23,111208.91,133189.44,147681.47
+"950","Director, Community Relations",57984.88,54083.14,65658.33,72687.6,77263.04
+"951","Director, Career Services",55245.96,59801.73,68438.87,70413.99,NA
+"952","Chief Strategy Officer",146308.08,153394,192744.56,211914.44,NA
+"953","Registered Nurse (RN)",27.57,29.14,31.86,34.53,36.25
+"954","Licensed Practical Nurse (LPN)",19.45,20.23,21.38,22.29,23.07
+"955","Physical Therapist (PT)",67719.19,70995.59,78314.15,84374.62,88138.37
+"956","Registered Nurse (RN), Critical Care",27.06,29.51,33.05,37.52,40.27
+"957","Pharmacy Technician",12.78,13.92,16.1,17.59,19.01
+"958","Registered Nurse (RN), Emergency Room",27.27,29.46,33.02,36.6,39.27
+"959","Family Nurse Practitioner (NP)",92098.99,97106.05,102441.41,104369.99,107021.27
+"960","Physician Assistant (PA)",91567.31,96985.38,106080.44,112639.04,115602.1
+"961","Registered Nurse (RN), Operating Room",28.62,30.57,33.41,37.08,39.85
+"962","Radiographer",20.53,22.78,24.68,26,28.95
+"963","Accounting Intern",15.35,15.08,15,NA,NA
+"964","Dental Hygienist",31.47,33.69,36.12,36.59,36.46
+"965","Phlebotomist",13.49,14.33,15.91,17.21,18.17
+"966","Certified Pharmacy Technician (CPHT)",13.35,14.71,16.22,17.34,18.37
+"967","Licensed Vocational Nurse (LVN)",21.45,22.67,24.12,24.68,24.71
+"968","Occupational Therapist (OT)",34.46,35.88,39.39,41.48,43.85
+"969","Wound Care Nurse",29.16,29.33,31.55,30.23,30
+"970","Staff Nurse",27.48,29.36,31.93,34.98,36.45
+"971","Practice Manager",53601.82,56675.39,61113.73,64621.15,66894.52
+"972","Charge Nurse (RN)",28.94,30.84,33.26,36.48,38.44
+"973","Speech-Language Pathologist (SLP)",34.27,36.18,40,42.77,44.83
+"974","Registered Nurse (RN) Supervisor",33.77,32.4,34.45,36.01,36.19
+"975","Certified Surgical Technologist (CST)",18.62,20.28,22.73,25.74,27.61
+"976","Medical Technologist",23.69,25.09,27.33,29.58,31.54
+"977","Pharmacist",54.04,55.63,58.77,60.35,60.36
+"978","Nurse Case Manager",66250.72,70574.4,73410.03,76508.02,79575.88
+"979","Radiologic Technologist",21.6,22.65,24.47,26.63,28.64
+"980","Respiratory Therapist",24.04,25.29,27.77,29.91,31.4
+"981","Dialysis Registered Nurse (RN)",30.84,32.51,34.73,36.54,37.98
+"982","Safety Manager",57681.76,63812.13,74638.44,81190.31,83690.39
+"983","Surgical Technologist",19.44,20.43,22.68,24.81,26.31
+"984","Medical Laboratory Technician",18.59,19.53,21.36,22.75,25.1
+"985","Veterinarian",79348.7,84112.56,90231.62,93647.17,97971.31
+"986","Veterinary Technician",13.08,14.29,16.16,17.47,18.46
+"987","Nursing Manager",80421.57,80881.41,84963.22,91125.77,94611.5
+"988","Registered Respiratory Therapist (RRT)",23.62,24.78,27.21,29.6,31.45
+"989","Primary Care Registered Nurse (RN)",26.8,28.23,29.82,33.52,35.23
+"990","Medical Coder",16.73,18.37,20.67,21.74,23.15
+"991","Registered Dental Hygienist (RDH)",33.48,35.45,36.92,37.12,37.19
+"992","Director, Nursing",81523.77,87385.52,91032.72,98566.65,99505.68
+"993","Clinical Nurse Manager",77650.3,77903.65,83260.26,87475.13,91388.83
+"994","Clinical Supervisor",57124.85,57342.22,60369.51,61154.34,63757.84
+"995","Nurse Practitioner (NP)",92487.47,97742.58,103713.46,108951.74,111004.81
+"996","Practice Administrator",57883.6,66107.95,72935.85,77584.31,81169.84
+"997","Registered Dietitian",50261.95,52860.44,59461.12,61263.82,64436.5
+"998","Neonatal Intensive Care Unit (NICU) Registered Nurse",27.95,29.85,32.81,37.16,41.49
+"999","Assistant Director of Nursing (ADON)",69628.94,71008.65,73750.52,74241.7,77333.86
+"1000","Clinical Director",73330.29,74367.96,78607.62,83565.25,85849.76
+"1001","Certified Professional Coder (CPC)",17.23,18.57,21.11,22.19,22.27
+"1002","Computed Tomography (CT) Technologist",25.54,26.9,29,31.96,34.41
+"1003","Psychiatric Nurse (RN)",29.47,30.57,32.44,34.61,36.13
+"1004","Optician",12.97,14.27,16.61,17.93,19.91
+"1005","Nursing Director",79865,82234.18,85395.89,90613.37,95912.79
+"1006","Service Coordinator",15.86,17.3,18.54,19.66,19.8
+"1007","Chief of Staff",77433.83,86919.69,109597.5,136507.94,148614.7
+"1008","MRI Technologist",27.63,29.39,31.81,34.8,35.75
+"1009","Psychiatric Nurse Practitioner (NP)",104726.8,111382.39,117214.24,119919.7,118943.12
+"1010","Certified Ophthalmic Assistant (COA)",15.06,16.63,18.39,19.77,20.47
+"1011","Nurse, Intensive Care Unit (ICU)",27.74,30.37,34.09,39.18,41.73
+"1012","Activity Director",14.9,15.48,16.49,17.01,18.71
+"1013","Paramedic",17.26,18.08,19.05,20.16,21.62
+"1014","Sonographer",26.39,29.2,33.25,35.3,38.16
+"1015","Cardiac Sonographer",27.58,29.16,32.34,35.42,38.54
+"1016","Speech Language Pathologist (SLP), Clinical Fellowship Year (CFY)",33.52,34.46,35,25,32.5
+"1017","Clinical Manager",60123.41,68710.77,71755.64,74423.9,76905.57
+"1018","MDS Coordinator",26.73,28.9,30.18,31.14,31.75
+"1019","Veterinary Assistant",11.93,13,14.67,14.91,15.45
+"1020","Advanced Registered Nurse Practitioner (ARNP)",91663.5,97003.72,102925.81,108519.88,108909.64
+"1021","Family Physician / Doctor",182838.53,192749.72,193794.16,198288.02,202235.17
+"1022","Optometrist",102230.76,108484.01,115855.3,120775.75,122614.6
+"1023","Dietary Aide",10.23,10.87,11.7,12.03,12.71
+"1024","Emergency Medical Technician (EMT) - Basic",13.08,13.65,14.95,15.52,15.85
+"1025","Safety Director",52431.53,63355.81,76043.72,87597.11,96797.43
+"1026","Lab Technologist",16.5,17.94,19.55,22.08,25.66
+"1027","Licensed Registered Occupational Therapist",34.79,35.75,38.64,41.96,43.7
+"1028","Ophthalmic Technician",14.56,16.17,18.67,20.13,21.92
+"1029","Radiation Therapist",30.03,31.25,34.24,39.83,42.36
+"1030","Acute Care Nurse Practitioner (ACNP)",97534.87,102323.15,109326.07,117279.85,116080.6
+"1031","Certified Clinical Hemodialysis Technician",14.39,15.53,17.15,18.9,20.13
+"1032","Dentist",120608.33,130919.97,141843.37,152288.31,158069.61
+"1033","Ultrasound Technologist",26.06,29.57,32.59,35.74,37.61
+"1034","Surgical Technician",17.81,19.62,21.37,24.33,26.37
+"1035","Medical / Clinical Laboratory Technologist",22.57,24.48,27.6,29.91,31.6
+"1036","Medical / Clinical Laboratory Technician",17.41,18.55,20.28,22.22,25.1
+"1037","Food Service Director",43381.63,46335,53537.07,59581.95,62647.28
+"1038","Clinical Pharmacist",107238.26,115027.34,122649.72,124810.31,128237.43
+"1039","Medical Records Clerk",13.33,13.78,14.38,14.74,15.4
+"1040","Labor And Delivery Nurse",26.85,29.29,32.61,35.55,38.91
+"1041","Nurse Anesthetist (CRNA)",147113.72,152785.31,163886.06,173519.14,187389.54
+"1042","Registered Psychiatric Nurse (RPN)",29.05,30.35,32.38,34.29,36.54
+"1043","Nursing Supervisor",31.13,34.35,35.57,38.51,43.14
+"1044","Athletic Trainer",40118.47,41414.61,46991.48,49939.72,58468.2
+"1045","Diagnostic Medical Sonographer",26.3,28.98,33.02,35.85,39.65
+"1046","Mental Health Technician",12.83,13.51,14.87,15.22,16.11
+"1047","Radiology Technologist",21.55,22.95,24.34,26.67,28.01
+"1048","Behavioral Health Technician",14.05,14.75,15.02,15.75,16.4
+"1049","Pediatrics Nurse Practitioner (NP)",86734.9,91559.68,92861.85,97772.57,99696.13
+"1050","Nuclear Medicine Technologist",29.15,30.32,33.28,35.75,38.47
+"1051","Dietitian",48387.49,52741.37,59202.19,62606.05,65092.38
+"1052","Emergency Room (ER) Technician",13.55,14.7,15.85,17.19,17.75
+"1053","Certified Nurse Assistant (CNA)",12.5,12.96,13.59,14.19,14.8
+"1054","Medical Assistant",14.05,14.98,16.42,17.34,18.22
+"1055","Dental Assistant",14.19,15.4,17.86,19.35,20.53
+"1056","Caregiver",11.45,11.82,12.27,12.74,12.99
+"1057","Medical Assistant (Certified)",13.86,14.96,16.53,17.65,18.35
+"1058","Patient Care Technician",13.47,14.08,15.08,15.93,16.82
+"1059","Certified Medical Assistant (CMA)",13.74,14.97,16.41,17.38,18.37
+"1060","Physical Therapist Assistant",23.01,24.68,27.18,28.54,30.38
+"1061","Certified Occupational Therapy Assistant (COTA)",24.93,25.86,27.39,29.1,30.33
+"1062","Registered Medical Assistant (RMA)",13.73,14.63,16.07,17.29,18.02
+"1063","Sterile Processing Technician",14.93,15.65,17.47,18.85,19.44
+"1064","Registered Dental Assistant (RDA)",14.46,17.04,19.87,21.42,23.05
+"1065","Home Health Aide",10.82,11.37,12.14,12.25,12.62
+"1066","Expanded Functions Dental Assistant (EFDA)",16.76,18.23,20.42,22.28,23.58
+"1067","Patient Care Assistant (PCA)",12.11,12.66,13.71,14.95,15.68
+"1068","Physical Therapy Assistant",22.95,24.9,26.7,28.63,31.06
+"1069","State Tested Nursing Assistant (STNA)",11.69,12.29,13.02,13.79,14.23
+"1070","Orthodontic Assistant",14.77,16.35,19.08,20.68,22.01
+"1071","Massage Therapist",18.42,20.07,22.79,27.27,33.45
+"1072","Nursing Assistant",13.09,14,14.95,15.12,15.5
+"1073","Speech-Language Pathology Assistant (SLPA)",21.9,24.36,26.52,28.23,27.5
+"1074","Certified Clinical Medical Assistant",13.52,14.38,15.87,16.72,17.67
+"1075","Dental Assistant (Registered)",14.57,16.95,19.49,21.08,22.96
+"1076","Credentialing Specialist",17.27,18.49,20.12,20.67,20.08
+"1077","Personal / Home Care Aide",10.72,11.32,12.13,12.27,12.84
+"1078","Home Health Aide (HHA), Certified",11.81,12.35,12.59,12.96,13.28
+"1079","Live-In Caregiver",11.59,12.16,12.32,12.94,14.51
+"1080","Medical Scribe",11.79,13.18,15.53,17.06,16.51
+"1081","Medical Office Assistant",13.45,14.17,15.03,15.95,16.67
+"1082","Dialysis Technician",14.79,15.46,17.8,19.88,20.65
+"1083","Authorization Specialist",14.81,16.06,16.82,17.47,18.4
+"1084","Nurse's Aide (Certified)",11.65,12.29,13.46,13.89,14.45
+"1085","Dental Assistant (Certified)",14.49,16.55,18.2,19.76,21.56
+"1086","Occupational Therapy Assistant (OTA)",24.33,25.64,27.12,29.3,31.22
+"1087","Direct Care Worker (DCW)",10.41,11.09,11.5,11.53,11.97
+"1088","Endoscopy Technician",15.05,16.01,17.98,19.17,19.61
+"1089","Physical Therapy Aide",11.86,12.35,13.85,14.69,16.08
+"1090","Treatment Coordinator, Dental",15.92,17.4,19.24,20.69,23
+"1091","Chiropractic Assistant",12.54,13.2,14.75,15.31,16.31
+"1092","Licensed Massage Therapist (LMT)",18.47,20.33,21.04,25.16,30.95
+"1093","Medication Aide",12.25,13.08,14.08,13.87,14.95
+"1094","Licensed Nursing Assistant (LNA)",13.28,13.93,14.83,15.96,17.56
+"1095","Certified Medication Aide",12.07,13.03,13.75,14.53,14.69
+"1096","Nurse Navigator",69449.48,68911.81,72732.16,76372.12,80812.25
+"1097","Dental Assistant Lead",17.52,19.06,20.65,21.13,NA
+"1098","Medical Transcriptionist",14.86,14.87,15.51,16.8,18.28
+"1099","Patient Transporter",11.88,12.24,13.2,13.93,15.06
+"1100","Home Health Care Provider",9.92,10.12,9.89,10.84,11.64
+"1101","Certified Dialysis Technician",14.86,16.26,17.62,19.93,21.35
+"1102","State Tested Nurses Aide (STNA)",11.22,11.94,12.71,13.41,13.28
+"1103","Certified Medication Technician (CMT)",12.4,13.09,13.46,14.56,14.81
+"1104","Certified Home Health Aide (CHHA)",12.16,12.55,12.78,13.34,14.32
+"1105","Orthodontic Treatment Coordinator",17.31,18.48,20.25,22.28,24.48
+"1106","Nurse Assistant",12.92,13.35,14.64,14.56,14.88
+"1107","Home Care Aide",12.61,12.77,12.31,13.23,13.26
+"1108","Lead Medical Assistant",16.9,18.27,19.44,20.32,NA
+"1109","Home Health Caregiver",10.66,11.29,11.21,12.3,12.67
+"1110","Sterile Processing Supervisor",19.58,21.81,23.15,22.98,NA
+"1111","Personal Caregiver",10.72,12.09,13.44,14.34,14.68
+"1112","Certified/Registered Dental Assistant (CDA/RDA)",13.52,17.06,19.38,21.04,22.47
+"1113","Rehabilitation Technician",12.41,12.48,12.78,14.57,15.15
+"1114","Senior Caregiver",10.79,11.92,13.27,13.79,14.81
+"1115","Licensed Physical Therapist Assistant (LPTA)",24.11,24.55,28.02,29.92,30.4
+"1116","Dental Assistant, Registered Expanded Function (RDAEF)",20,21.44,25.53,24.86,25.21
+"1117","Sterile Processing Manager",59861.21,73856.43,77901.05,75903.35,NA
+"1118","Hospice Aide",13.27,13.67,13.89,15.01,15.09
+"1119","Resident Assistant",11,11.47,12.73,13.15,13.42
+"1120","Certified Hemodialysis Technician",14.68,16.13,17.4,18.7,20.98
+"1121","Authorization Coordinator",14.72,16.36,17.3,18.32,19.24
+"1122","Clinical Assistant",13.89,14.92,16.27,18.22,17.75
+"1123","Patient Care Associate",13.33,13.94,14.51,16.58,17.95
+"1124","Certified Dental Assistant (CDA)",14.52,15.88,17.58,18.57,21.01
+"1125","In-Home Support Services (IHSS) Caregiver",12.45,12.77,12.56,12.94,12.86
+"1126","Sterilization Technician",13.5,14.48,15.72,16.62,18.05
+"1127","Decision Support Analyst",55286.7,62192.48,72045.07,88062.95,86325.39
+"1128","Restorative Aide",12.22,12.85,13.43,13.69,15.54
+"1129","Residential Support Worker",12.89,12.92,12.97,13.36,15.17
+"1130","Dental Assistant, Surgical",14.85,16.5,19.13,19.93,21.13
+"1131","Personal Support Worker (PSW)",13.32,14.18,14.87,16.07,15.82
+"1132","Rehabilitation Aide",11.56,12.6,13.89,14.43,15.41
+"1133","Optometric Assistant",13.23,13.89,16.19,15.57,16.8
+"1134","Health Care Aide",12.48,12.43,13.45,13.03,13.2
+"1135","Medical Assistant Supervisor",18.37,18.55,18.91,21.11,NA
+"1136","Pharmacy Assistant",12.91,13.36,15.21,18.33,22.96
+"1137","Central Service Technician",15.07,15.58,17,16.39,17.47
+"1138","Certified Paraoptometric Assistant (CPOA)",14.62,15.52,15.26,17.25,NA
+"1139","Certified Caregiver",13.98,11.85,14.15,13.7,13.66
+"1140","Hemodialysis Technician",15.02,16.63,18.51,20.36,21.08
+"1141","Occupational Therapist Assistant",24.17,25.02,28.74,30.21,31.31
+"1142","X-Ray Certified Dental Assistant",13.47,15.1,18.03,18.64,20.11
+"1143","Licensed Massage Therapist",16,21.58,22.68,26.25,37
+"1144","Physical Therapist Aide",12.07,12.03,14.72,15.16,21.69
+"1145","Physical Therapy Technician",10.91,12.04,12,14.09,14.8
+"1146","Pharmacy Clerk",11.85,11.87,12.1,14.2,12.75
+"1147","Certified Registered Medication Aide",12.4,12.75,13.52,14.54,14.21
+"1148","Clinical Medical Assistant",13.16,14.47,15.71,17.41,17.56
+"1149","Nurse Aide, Orderly, or Attendant",10.77,12.06,12.21,12.75,13.65
+"1150","Home Care Worker",10.71,11.29,12.9,13.51,14.38
+"1151","Resident Care Aide",10.89,11.25,11.85,11.9,14
+"1152","Residential Caregiver",10.17,11.81,11.7,11.61,12.14
+"1153","Human Resources (HR) Manager",53196.67,60834.01,69861.81,74480.86,76358.37
+"1154","Human Resources (HR) Generalist",48461.8,53791.02,58635.62,59872.97,60319.15
+"1155","Human Resources (HR) Director",56831.36,66888.17,82730.49,96350.04,100942.36
+"1156","Human Resources (HR) Coordinator",18.29,19.67,20.54,20.95,20.98
+"1157","Recruiter",43339.22,51211.45,60127.99,64053.61,65152.98
+"1158","Human Resources (HR) Business Partner",61839.22,68729.85,77128.69,82389.31,86884.6
+"1159","Human Resources (HR) Administrator",43585.3,48858.94,53351.11,55641.38,58775.01
+"1160","Vice President (VP), Human Resources (HR)",80000,96974.18,120480.36,143598.78,150514.1
+"1161","Director of Human Resources (HR)",59012.18,70150.16,87644.81,102172.53,109009.48
+"1162","Talent Acquisition Specialist",48049.03,55108.48,62737.55,68376.28,69398.48
+"1163","Training & Development Manager",56168.17,67770.64,77958.3,88973.58,87476.12
+"1164","Senior Human Resources (HR) Generalist",55107.46,65654.92,69609.91,70581.85,73322.34
+"1165","Recruiting Coordinator",47871.3,50486.59,53325.64,53960.57,56462.83
+"1166","Training Coordinator",45101.65,48917.77,51927.89,55430.4,59708.17
+"1167","Senior Recruiter",45279.91,61625.75,76139.32,82867.21,86356.89
+"1168","Sr. Human Resources (HR) Manager",79517.19,89603.5,93993.15,97222.23,NA
+"1169","Training Manager",53739.95,61385.01,70020.33,76636.23,79789.26
+"1170","Benefits Specialist",44941.84,50703.68,55682.6,56041.47,58191.44
+"1171","Talent Acquisition Manager",54220.48,70319.64,81105.97,91904.46,96450.22
+"1172","Corporate Recruiter",45180.99,57308.17,64959.7,69778.06,72042.91
+"1173","Training Specialist",48401.53,53961.63,61221.59,63260.51,63869.9
+"1174","Corporate Trainer",46068.39,51474.72,58407.65,63817.26,73319.37
+"1175","Training & Development Specialist",50131.81,53759.26,60823.46,63346.22,71108.2
+"1176","Sr. Human Resources (HR) Business Partner",82321.38,91874.55,100237.73,102763.49,NA
+"1177","Technical Recruiter",43603.23,59396.31,74964.24,74980.09,90783.06
+"1178","Recruiting Manager",48718.72,62184.36,78899.35,86668.26,84240.12
+"1179","Benefits Manager",59201.5,65560.89,73893.44,83226.59,87728.17
+"1180","Compensation Analyst",57684.4,63016.67,70512.16,70999.75,82533.73
+"1181","Training Director",61767.91,70448.9,82462.66,100743.17,107617.96
+"1182","Training Instructor",49117.58,54510.12,59261.3,61790.81,66263.8
+"1183","Human Resources (HR) Representative",43396.2,48829.76,55604.77,56954.34,57808.16
+"1184","Benefits Administrator",46008.55,50624.8,58194.19,62294.22,62301.38
+"1185","Technical Trainer",55441.88,60228.06,69964.53,74996.03,78266.56
+"1186","Payroll & Benefits Administrator",45140.57,48862.2,53661.8,56508.15,60674.71
+"1187","Benefits Analyst",51245.38,55433.1,63763.72,66027.08,66230.91
+"1188","Human Resources (HR) Recruiter",44876.81,47953.41,56511.98,58575.72,61445.11
+"1189","Employment, Recruitment, or Placement Specialist / Recruiter",40058.82,45883.27,51290.53,53483.58,61039.11
+"1190","Senior Technical Recruiter",66702.36,88301.94,95781.98,96198.69,NA
+"1191","Trainer, Employee / Human Resources (HR)",12.46,14.83,17.37,19.09,21.95
+"1192","Payroll & Benefits Manager",52123.2,60392.56,69390.59,71877.79,79247.93
+"1193","Talent Acquisition Coordinator",19.73,21.47,23.61,22.95,NA
+"1194","Recruiting Specialist",44715.58,51779.11,58941.82,57027.78,51332.29
+"1195","Talent Acquisition Director",79921.75,108606.17,121257.41,128287.98,NA
+"1196","Human Resources Information Systems Manager (HRIS)",70951.57,78128.38,91274.61,98417.37,108352.57
+"1197","Diversity Manager",69826.14,75996.03,85544.62,96264.08,103114.35
+"1198","Employee Relations Manager",54456.51,67503.95,76358.4,85091.79,84873.16
+"1199","Senior Analyst, Compensation",69822.81,81171.54,87122.41,94039.66,97800.21
+"1200","Regional Human Resources (HR) Manager",70848.38,83629.76,89588.57,90831.22,NA
+"1201","Retirement Plan Specialist",42234.06,47929.91,55180.2,64422.39,69347.36
+"1202","Software Trainer",51197.25,57315.02,64534.04,62927.48,66567.85
+"1203","Consultant, Learning and Development",55192.98,67135.74,79224.49,89040.38,98365.82
+"1204","Staffing Manager",43728.06,47058.13,51424.29,56204.02,65000
+"1205","Sales Trainer",51636.54,60348.31,69122.72,73260.19,77502.11
+"1206","Executive Recruiter",47384.67,53596.48,71791.07,93532.82,118183.47
+"1207","Organizational Development Manager",64176.41,77946.06,89321.53,97425.18,101451.98
+"1208","Outreach Specialist",40421.83,43226.4,48667.26,49726.43,60781.71
+"1209","Recruitment Manager",49716.16,57787.1,69647.64,78168.48,87352.18
+"1210","Senior Corporate Recruiter",69624.11,77593.56,83714.47,85934.1,NA
+"1211","Compensation Manager",72318.38,90887.5,98905.11,112564.1,113127.43
+"1212","Customer Service Trainer, Call Center",14.15,16.08,17.3,18.2,16.18
+"1213","Staffing Specialist",15.13,15.7,18.07,17,16
+"1214","Technical Training Instructor",52795.86,59404.16,70556.69,72724.69,70189.72
+"1215","Senior Benefits Analyst",66956.17,72924.69,78048.22,80904.24,NA
+"1216","People Operations Manager",74991.6,83758.29,87428.57,NA,NA
+"1217","Training Supervisor",53239.28,56554.32,62628.68,61698.72,70780.56
+"1218","Learning Specialist",53747.88,54362.08,59298.12,61337.97,67407.41
+"1219","Staff Development Coordinator",26.73,25.48,28.85,31.12,31.59
+"1220","Technical Sourcer",60334.72,79499.57,92717.51,86380.66,NA
+"1221","Organizational Development Director",85304.73,104117.23,127526.58,129455.63,NA
+"1222","Pension Administrator",43685.14,46283.19,58178.74,62742.29,69410.86
+"1223","Campus Recruiter",49319.82,62150.49,68973.93,59072.01,NA
+"1224","Training Development Director",73679.33,91674.41,106620.03,115848.47,NA
+"1225","Healthcare Recruiter",40241.43,46017.85,53388.81,61767.97,62000
+"1226","Leave of Absence Administrator",38000,49499.77,52294.54,63881.68,67060.18
+"1227","Assistant Human Resources (HR) Manager",45241.88,55039.52,59014.11,65318.62,63860.09
+"1228","Manager, Compensation & Benefits",61429.98,75803.06,85067.65,95985.41,96916.52
+"1229","Training Facilitator",41906.55,49074.87,55802.98,58816.7,66911.74
+"1230","Workers' Compensation Administrator",44673.82,49420.47,55800.98,63434.47,75000
+"1231","Project Manager, Training & Development",50675.95,65624.6,74729.5,80106.51,82859.32
+"1232","Education Consultant",50420.13,58566.96,63166.6,67652.81,67976.86
+"1233","Career Development Specialist",41659.79,43324.69,47959.62,51070.64,49416.43
+"1234","Senior Talent Acquisition Manager",78119.23,95520.06,116360.47,118987.56,NA
+"1235","Assistant Director of Human Resources (HR)",40000,57072.66,71619.36,75784.23,76163.62
+"1236","Talent Acquisition Consultant",47767.77,60581.43,67254.12,82337.54,102439.02
+"1237","Consultant, Education/Training",44000,63408.96,68826.74,73781.17,73259.7
+"1238","Benefits Director",85165.67,107500,122053.07,125824.15,NA
+"1239","Vocational Training Instructor",43909.09,41184.12,47174.88,49220.89,50379.58
+"1240","Physician Recruiter",47689.73,58552.62,69592.2,74535.83,78613.78
+"1241","Compensation Specialist",53101.52,58560.49,71093.71,70791.26,77419.35
+"1242","Information Technology (IT) Trainer",56946.5,54531.53,64999.79,74132.9,85292.36
+"1243","Stock Plan Administrator",72264.25,83306.18,98626.84,102021.1,NA
+"1244","Global Mobility Specialist",55490.3,61000.16,75413.41,81211.83,NA
+"1245","Recruitment Consultant",40298.51,50936.35,64637.32,63871.29,74750
+"1246","Analyst, Compensation & Benefits",55728.6,63201.52,70694.57,74551.8,75000
+"1247","Educational Consultant",44206.69,57931.03,63423.94,69647.54,75054.51
+"1248","Compensation Consultant",66015.52,77747.42,89124.78,102894.55,115959.3
+"1249","Director, Compensation",117449.3,125190.71,147150.3,154191.08,NA
+"1250","Staffing Recruiter",14.92,15.34,16.13,16,NA
+"1251","Job Developer",15.58,17.23,16.5,17.59,19.11
+"1252","Director of Program Management, Human Services",41445.78,53085.11,62644.98,72099.95,75020.88
+"1253","Software Engineer",77435.44,85763.65,97215.47,107425.81,116079.04
+"1254","Senior Software Engineer",103389.84,113794.72,119151.26,123713.6,125128.97
+"1255","Software Developer",63800.84,70783.34,83744.28,93982.83,98389.99
+"1256","Information Technology (IT) Manager",64677.97,69168.81,80803.04,94346.94,100752.77
+"1257","Systems Administrator",51648.16,58475.94,64602.93,71553.91,76917.11
+"1258","Information Technology (IT) Director",78671.89,84604.18,99512.54,124554.21,132801.06
+"1259","Data Scientist",85254.42,95785.8,110252.62,121877.86,134109.92
+"1260","Sr. Software Engineer / Developer / Programmer",83464.37,97083.73,104357.51,113115.2,115069.1
+"1261","Product Manager, Software",80061.88,94110.69,106551.23,114101.68,125349.47
+"1262","Web Developer",50762.19,58415.17,67513.46,72504.83,80478.11
+"1263","Senior Systems Engineer",91230.47,95335.12,102393.37,112980.47,123299.42
+"1264","Project Manager, Information Technology (IT)",63651.37,73104.66,89166.72,102586.36,111933.84
+"1265","Information Technology (IT) Support Specialist",41599.96,47792.68,53097.92,58896.24,64625.21
+"1266","Network Engineer",60084.62,68426.76,78301.06,86554.32,94273.95
+"1267","Business Analyst, IT",60065.17,66234.06,77359.2,86494.76,90184.62
+"1268","Support Technician, Information Technology (IT)",16.08,17.83,20.67,22.74,25.37
+"1269","Information Technology Specialist",47412.65,50675.14,58893.15,71288.97,83772.43
+"1270","Front End Developer / Engineer",61125.85,73369.68,85268.52,88835.37,92279.88
+"1271","Quality Assurance (QA) Engineer",61202.61,68169.59,79183.92,83103.79,85462.62
+"1272","Information Technology (IT) Consultant",64181.22,72071.9,87387.88,101989.02,114822.93
+"1273","Software Engineer / Developer / Programmer",68548.55,76740.48,88650.79,96870.95,98543.37
+"1274","Data Engineer",77541.36,88202.26,103615.98,117463.99,117775.72
+"1275","Operations Analyst",51708.31,57808.38,63869.15,64971.12,70391.55
+"1276","Senior Project Manager, IT",89692.23,92813.47,106853.37,119312.9,123385.12
+"1277","Systems Analyst",57446.15,62577.26,71816.66,78018.2,85113.03
+"1278","Lead Software Engineer",94257.79,99251.39,118165.57,126486.11,132396.15
+"1279","Business Intelligence (BI) Analyst",60489.16,68656.68,78621.18,86044.1,94004.9
+"1280","Business Systems Analyst",59659.12,65690.05,77761.55,85249.35,89086.48
+"1281","Help Desk Technician",15.75,17.36,19.93,21.07,22.03
+"1282","Solutions Architect",74611.51,94627.37,117117.13,129828.3,136913.45
+"1283","Technical Support Specialist",45950.3,48833.06,54854.2,60749.61,71836.97
+"1284","Principal Software Engineer",109959.82,117950.36,133045.47,143018.26,148281.52
+"1285","Systems Engineer, IT",62533.9,70150.49,78558.67,86007.3,94487.67
+"1286","Network Administrator",49403.37,54492.09,61966.07,67490.44,73874.09
+"1287","Product Owner",69029.69,79578.58,96903.97,108264.05,114718.31
+"1288","Development Operations (DevOps) Engineer",74745.05,88145.99,105381.03,123131.01,130638.63
+"1289","Applications Engineer",63592.23,70370.52,80314.02,90707.78,90854.46
+"1290","Test / Quality Assurance (QA) Engineer (Computer Software)",58711.54,66137.73,78180.81,85474.03,87092.88
+"1291","Network Technician",18.16,19.82,23.28,27.85,31.09
+"1292","System Administrator, Computer / Network",52427.82,56918.94,63384.03,68059.11,73464.5
+"1293","Cyber Security Analyst",63471.67,72369.82,88865.49,101551.39,112831.34
+"1294","Database Administrator (DBA)",55976.48,63885.92,79073.58,90395.7,99029.18
+"1295","Software Engineering Manager",121730.1,130351.91,138147.95,145659.24,145769.39
+"1296","Senior Systems Administrator",68681.49,75448.25,82955.4,88688.59,93066.67
+"1297","Technical Project Manager",70023.33,81546.96,94952.66,109650.96,113855.17
+"1298","Business Intelligence (BI) Developer",62058.59,73572.05,90613.35,98868.08,100584.1
+"1299","Salesforce Administrator",58139.94,66591.68,82195.85,90517.97,96906.94
+"1300","Systems Engineer (Computer Networking / IT)",66189.61,69988.7,76345.73,85449.17,92882.63
+"1301","Application Developer",59622.19,67110.08,81312,88188.56,93101.34
+"1302","Sr. Network Engineer",71387.51,88699.06,98646.28,106596.51,110819.45
+"1303","Junior Software Engineer",61843.7,63314.11,75489.12,61041.89,NA
+"1304","Vice President (VP), Information Technology (IT)",104963.96,126546.27,133695.54,151397.61,164379.78
+"1305","Program Manager, IT",84335.03,91433.66,106553.98,122673.34,130268.02
+"1306","Associate Software Engineer",70809.26,72689.89,93739.38,105822.97,99989.73
+"1307","Programmer Analyst",57390.44,62937.56,71822.28,78867.96,83376.9
+"1308","Full Stack Software Developer",65986.21,75924.1,93454.08,103816.89,100383.9
+"1309","Technical Program Manager (TPM)",90661.72,106171.83,126366.92,138088.92,141694.82
+"1310","Security Engineer",72195.27,86495.82,102858.62,115976.62,119121.87
+"1311","Technical Consultant",68391.87,73294.66,84584.33,97795.33,107710.09
+"1312","Software Development Manager",98813.59,102416.42,118475.29,129804.45,136557.27
+"1313","Senior Systems Analyst",75506.21,78868.95,86897.32,93753.75,98957.91
+"1314","Technical Support Engineer",58865.71,61518.03,69757.9,77073.52,79921.29
+"1315","Analytics Manager",72930.82,88614.56,102213.1,110666.6,116077.23
+"1316","Senior Data Scientist",106812.15,122663.41,131315.73,140325.11,143516.79
+"1317","Team Leader, IT",60103.33,66648.98,85583.35,98818.17,106014.9
+"1318","Software Architect",85672.45,101551.7,119821.59,129845.98,138170.34
+"1319","Quality Assurance Analyst",47996.04,52985.37,62676.23,69785.04,77304.99
+"1320","Senior Technical Consultant",92665.15,91842.84,102160.45,113773.69,123109.03
+"1321",".NET Software Developer / Programmer",54461.89,65827.78,80678.58,93176.57,101267.19
+"1322","Software Development Engineer (SDE)",104753.87,110075.22,126029.03,137050.11,120556.53
+"1323","Senior Web Developer",80101.68,86477.53,92947.9,96480.35,NA
+"1324","Systems Specialist",54035.6,57570.69,63877.6,71609.4,73213.12
+"1325","Computer / Network Support Technician",15.76,17.61,21.45,22.65,24.52
+"1326","Content Manager",46055.98,55148.55,65002.23,74523.63,76703.91
+"1327","ScrumMaster",69426.4,83055.07,101182.22,109253.21,115973.25
+"1328","Director of Analytics",102009.75,103084.97,124300.82,141007.7,145466.95
+"1329","Senior Database Administrator (DBA)",87536.87,102387.45,113753.73,118668.75,NA
+"1330","Certified ScrumMaster (CSM)",69014,83228.21,102258.58,111150.21,115122.71
+"1331","Embedded Software Engineer",73808.33,80853.15,94162.19,107177.95,123872.42
+"1332","Support Analyst, Information Technology (IT)",49320.72,50833.06,58425.85,65962.41,69442.95
+"1333","Certified ScrumMaster (CSM)",69014,83228.21,102258.58,111150.21,115122.71
+"1334","Geographic Information Systems (GIS) Analyst",46170.45,52616.54,61062.43,64470.62,88886.25
+"1335","Implementation Manager",60411.23,68326.74,81058.3,87977.05,101195.84
+"1336","Digital Strategist",44933.09,57291.66,69419.82,90805.68,103912.85
+"1337","Staff Software Engineer",80575.68,114184.66,144734.14,148826.54,145668.91
+"1338","Test / Quality Assurance (QA) Analyst, (Computer Software)",50698.57,57846.18,71309.25,75010.24,83827.47
+"1339","Computer Programmer",58320.7,60143.12,70780.31,78419.51,86649.13
+"1340","Software Engineering / Development Director",134936.31,121788.37,135568.06,153545.64,163281.34
+"1341","Senior Solutions Architect",112586.66,127101.11,141130.95,143734.11,NA
+"1342","Project Coordinator, Information Technology (IT)",49854.71,53534.67,61968.11,67010.35,70113.73
+"1343","Java Developer",60720.89,74493.19,85981.96,100361.93,106283.29
+"1344","Technical Support Manager",53437.79,66697.4,75715.03,92527.98,97866.71
+"1345","Senior Program Manager, IT",110897.43,130483.47,140314.49,142918.7,NA
+"1346","eCommerce Manager",45235.9,58431.85,72336.45,79188.89,102439.02
+"1347","Data Manager",53963.54,60676.26,73693.33,85599.2,83576.68
+"1348","Technical Product & Program Manager",80000,95913.07,108458.56,120606.01,124001.42
+"1349","Network Administrator, IT",48765.16,53088.95,61328.6,66933.09,70893.69
+"1350","Technical Support Analyst",47552.4,49888.67,55509.54,58208.04,60352.87
+"1351","Senior Systems Engineer (Computer Networking / IT)",84475.01,92821.68,104584.2,115611.2,NA
+"1352","System Administrator, Windows Server",52215.13,60569.7,67558.7,76277.25,78375.64
+"1353","Maintenance Director",46248.22,50710.8,56695.17,64291.61,73593.25
+"1354","Maintenance Technician",16.06,17.62,19.74,20.89,23.57
+"1355","Automotive Service Technician / Mechanic",13.25,15.17,19.28,22.41,24.64
+"1356","Maintenance Supervisor",16.59,19.02,20.8,22.25,23.72
+"1357","HVAC Service Technician",15.48,18.71,23.65,25.82,28.09
+"1358","Maintenance Manager",56284.32,63989.63,69739.95,77724.36,82755.81
+"1359","Maintenance Mechanic",17.48,19.78,22.04,23.58,25.28
+"1360","HVAC Technician",15.65,17.78,22.24,25.4,27.53
+"1361","Diesel Mechanic",16.29,19.54,22.36,24.47,25.61
+"1362","Heating, Air Conditioning, or Refrigeration Mechanic / Installer",14.66,16.82,20.64,23.32,25.59
+"1363","Heavy Equipment Mechanic",17.24,20.46,23.65,25.21,27.15
+"1364","Aircraft and Powerplant (A&P) Mechanic",19.74,22.65,25.69,28.4,30.56
+"1365","Maintenance and Repair Worker, General",13.19,14.48,15.75,17.64,19.92
+"1366","Diesel Technician",17.06,19.44,23.58,25.72,26.96
+"1367","Service Manager Automotive",44392.58,49954.16,53993.74,59759.89,62631.5
+"1368","Handyman",14.93,18.84,21.59,24.91,26.09
+"1369","Facility Manager",50768.54,56839.56,65214.12,70371.74,74537.53
+"1370","Shop Foreman",17.44,19.35,23,24.89,25.66
+"1371","Building Maintenance Worker",14.13,14.75,16,17.82,19.38
+"1372","Maintenance Technician, Apartments",14.89,15.8,17.05,17.79,18.31
+"1373","Biomedical Equipment Technician (BMET)",20.71,22.44,25.32,29.25,29.9
+"1374","Facilities / Maintenance Supervisor",16.21,18.25,19.34,22.18,23.95
+"1375","Fire Alarm Technician",16.43,19.52,23.82,26.55,29.99
+"1376","Maintenance Engineer",14.96,15.37,18.03,20.25,21.52
+"1377","Computer Technician",14.55,15.54,17.91,19.68,21.4
+"1378","Automotive Technician",12.68,15.54,19.84,23.11,24.65
+"1379","Millwright",19.83,22.34,25.62,28.38,29.35
+"1380","Mechanic",14.89,16.4,19.9,21.92,24.84
+"1381","Automobile Mechanic",14.07,15.22,17.67,18.82,20.75
+"1382","Maintenance Planner",59187.31,64404.23,74465.97,76725.22,77303.35
+"1383","Tire Technician",12.28,13.38,14.76,15.08,16.26
+"1384","Machinery Maintenance Mechanic",16.99,19.4,23.1,24.1,25.69
+"1385","Maintenance Supervisor / Superintendent",53095.72,59254.25,66432.42,69570.44,79118.79
+"1386","Avionics Technician",17.81,22.59,26.75,29.03,30.38
+"1387","HVAC Service Manager",60831.62,68854.11,74424.96,75872.17,NA
+"1388","Aircraft Mechanic / Service Technician",19.32,22.31,25.66,29.6,31.57
+"1389","HVAC Refrigeration Technician",16.26,20.17,24.46,26.96,29.99
+"1390","Painter Automotive",13.31,16.81,19.14,20.52,20.89
+"1391","Lube Technician",11.19,11.99,12.6,12.72,12.23
+"1392","Lineman",18.24,22.21,30.89,34.47,36.09
+"1393","Auto Body Technician",13.83,15.44,17.92,20.29,20.31
+"1394","Building Maintenance Engineer",19.17,22.02,25.09,26.01,28.12
+"1395","HVAC Mechanic",15.1,18.41,24.38,25.8,28.35
+"1396","Diesel Shop Foreman / Mechanic",19.7,19.7,23.5,25.53,27.29
+"1397","Automotive Service Technician",11.85,13.11,18.48,21.17,25.62
+"1398","Telecommunications Technician",17.28,19.75,22.03,25.69,30.34
+"1399","Senior Maintenance Technician",22.45,24.05,25.08,26.92,NA
+"1400","Maintenance Worker",12.68,14.14,15.93,18.31,20.31
+"1401","Utility Locator",15.17,16.46,18.89,21.18,21.91
+"1402","Aircraft Maintenance Manager",87428.57,77507.5,83477.94,91914.35,NA
+"1403","Facilities Supervisor",52085.33,55838.48,63175.31,62550.2,67557.75
+"1404","Security or Fire Alarm Systems Installer",15.14,17.79,20.54,24.61,27.26
+"1405","Maintenance Coordinator",15.36,17.34,19.82,20.62,24.82
+"1406","Cabinet Installer",14.83,15.69,18.56,20.9,23.09
+"1407","Cable Technician",14.93,17.04,19.18,23.6,25.95
+"1408","Locksmith",13.82,16.77,19.54,21.55,23.95
+"1409","Auto Body Repair Technician",13.75,15.34,18.23,19.57,20.31
+"1410","Installation Technician",15.89,17.57,20.49,21.53,23.44
+"1411","Forklift Mechanic",17.36,20.63,23.11,24.5,26.01
+"1412","HVAC Maintenance Technician",15.48,17.18,20.13,22.37,24.99
+"1413","Biomedical Technician",20.24,20.78,23.15,25.82,27.81
+"1414","Computer Repair Technician",13.32,14.44,15.48,17.4,20
+"1415","HVAC Controls Technician",18.38,23.9,28.14,31.45,33.46
+"1416","Electrical Supervisor",24.09,25.06,29.88,32.34,NA
+"1417","Seamstress",10.88,12.78,14.2,14.63,15.07
+"1418","Building Superintendent",49434.66,46433.08,47538.13,53391.31,63285.12
+"1419","Installation Manager",49963.66,53678.62,59495.28,65077.48,66369.07
+"1420","Aircraft Maintenance Technician",20.26,24.36,28.05,29.02,34.16
+"1421","Journeyman Lineman",20.95,31.62,37.37,39.26,41.07
+"1422","Ammonia Refrigeration Technician",18.83,21.57,25.51,27.88,30.01
+"1423","Maintenance Supervisor, Apartments",16.68,18.77,20.43,21.99,22.2
+"1424","Small Engine Mechanic",12.17,13.69,15.22,16.39,16.37
+"1425","Industrial Mechanic",19.55,21.29,25.7,25.59,27.53
+"1426","Appliance Technician",15.5,17.18,18.31,20.62,27.41
+"1427","Alarm Technician",16.15,17.64,20.26,24.16,28.79
+"1428","HVAC Installer",13.87,15.84,20.57,23.01,25.51
+"1429","Rigger",15.97,17.5,23.23,24.85,25.92
+"1430","Copier Technician",14.44,16.22,17.88,20.71,23.42
+"1431","Equipment Manager",45715.94,50829.56,66005.93,69329.67,78706.73
+"1432","Building & Facility Manager",50000,59283.12,61123.98,67186.28,66229.98
+"1433","Collision Repair Technician",14.67,15.33,18.36,20.06,20.78
+"1434","HVAC Installation Technician",14.56,16.95,20.99,24.98,26.78
+"1435","Mechanic Foreman",20,20.73,23.56,24.99,26.88
+"1436","Heavy Equipment Technician",20.08,24.05,25.54,27.07,NA
+"1437","Pool Technician",13.32,14.92,16.82,18.54,19.77
+"1438","Refrigeration Mechanic",16.88,21.19,24.45,27.55,29.38
+"1439","Instrument and Electrical Technician",25.05,29.86,30.93,33.26,38.26
+"1440","Facilities Assistant",15,15.61,18.17,19.39,19.74
+"1441","Apprentice Lineman",18.26,19.71,26.29,25.98,NA
+"1442","Swimming Pool & Spa Servicer / Technician",12.15,14.1,16.73,18.78,20.24
+"1443","Line Service Technician",13.18,14.57,15.85,16.5,19
+"1444","Marine Mechanic",14.61,16.95,18.88,22.67,21.79
+"1445","Aviation Maintenance Technician",19.88,22.78,25.39,30.52,34.24
+"1446","Fleet Mechanic",18.43,21.16,25.04,23.83,NA
+"1447","Trailer Mechanic",14.7,17.06,18.6,21.82,22.49
+"1448","Aviation Mechanic",19.91,22.59,28.19,29.05,30.29
+"1449","Plant Maintenance Manager",70861.34,82438.66,92442.97,92492.26,NA
+"1450","Wind Turbine Technician",20.49,22.54,27.42,29.17,NA
+"1451","Auto Glass Technician",14.98,17.28,18.48,20.16,21.82
+"1452","Mechanic Aircraft",19.49,22.4,26.13,29.76,30.89
+"1453","Paralegal",39901.4,43927.99,51205.24,56052.16,60154.94
+"1454","Legal Assistant",15.14,16.02,18.59,20.2,23.84
+"1455","Associate Attorney",65594.93,75427.46,96045.77,106306.95,107968.3
+"1456","Attorney / Lawyer",64230.74,74980.44,97542.26,112657.4,128338.64
+"1457","Corporate Counsel",78945.83,103599.49,128543.61,145996.33,155766.38
+"1458","General Counsel",76758.32,107697.58,141426.44,174763.96,198157.22
+"1459","Senior Paralegal",58984.66,65617.79,72351.79,73568.74,NA
+"1460","Legal Counsel",74931.29,100856.7,129376.23,146996.54,168537.91
+"1461","Litigation Paralegal",42448.38,49614.64,55850.8,63812.86,65617.13
+"1462","Associate General Counsel",79664.29,97295.27,140812.98,172797.81,194370.95
+"1463","Title Clerk",13.16,14.49,15.4,16.72,17.61
+"1464","Paralegal / Legal Assistant",41553.36,43922.17,52281.95,57891,60828.29
+"1465","Senior Counsel",134559.09,154188.57,169553.82,176126.79,NA
+"1466","Legal Administrative Assistant",39315.83,43254.36,51026.27,57117.59,63803.1
+"1467","Staff Attorney",58449.95,66022.21,76738.31,87376.93,93350.46
+"1468","Corporate Paralegal",51243.96,58810.64,67377.45,74560.24,74551.57
+"1469","Assistant General Counsel",71618.69,104451.18,140703.66,169486.97,182803.63
+"1470","Escrow Officer",40209.24,45644.32,49092.2,55750.32,59006.73
+"1471","Law Firm Partner",118407.94,149248.43,184813.17,211705.26,NA
+"1472","Law Clerk",15.34,16.31,18.77,16.65,18.27
+"1473","Intellectual Property (IP) Paralegal",48387.3,59006.98,66583.35,78770.36,82840.06
+"1474","Immigration Paralegal",41477.67,48914.27,55162.45,65748.3,65003.14
+"1475","Real Estate Paralegal",38212.41,44907.99,52701.53,58091.64,59455
+"1476","Immigration Attorney / Lawyer",60760.6,65512.42,81469.52,92646.26,91000
+"1477","Senior Attorney",91475.41,110633.51,138304.18,142819.06,NA
+"1478","Associate Attorney (Law Firm)",68167.27,78297.04,100923.58,98252.19,99989.73
+"1479","Title Processor",14.95,15.37,17.48,17.36,18.83
+"1480","Attorney / Lawyer (Corporate, in-house)",77712.55,88869.88,121169.3,130825.67,143384.16
+"1481","Attorney / Lawyer, (Law Firm)",70469.04,85865.35,110910.66,130263.22,151593.27
+"1482","Litigation Attorney",72256.76,82038.58,106169.95,125015.22,132165.36
+"1483","Title Examiner",37131.79,40652.51,45634.78,48399.46,51427.68
+"1484","Senior Corporate Counsel",126252.42,141442.25,155656.8,171184.95,NA
+"1485","Patent Attorney",98682.9,120418.48,154121.54,175031.79,182131.52
+"1486","Patent Agent",85741.35,94852.65,119418.72,121462.39,131469.48
+"1487","Entry-Level Attorney",60254.36,60515.23,55481.06,99500,NA
+"1488","Corporate Lawyer",96472.15,102201.83,114698.63,130240.69,157038.8
+"1489","Criminal Defense Lawyer",61980.32,75418.22,90825.95,103297.33,103709.97
+"1490","Legal Administrator",41093.48,51070.64,60114.14,63890.13,69590.89
+"1491","Corporate Attorney",87671.47,99232.87,122604.46,145533.1,177525.69
+"1492","Deputy General Counsel",103083.14,152847.62,198018.59,203372.52,NA
+"1493","Litigation Support Specialist",41352.44,58704.29,66258.89,67349.31,66906.58
+"1494","Managing Attorney",76708.42,98425.46,114170.14,148981.05,NA
+"1495","Tax Attorney",85209.8,85206.36,124662.48,138417.48,154184.06
+"1496","Paralegal or Legal Assistant",37000,41174.53,58392.87,54047.41,55000
+"1497","Intellectual Property (IP) Specialist",44062.32,51239.1,71392.56,76222.77,80808.54
+"1498","Title Officer",39547.85,41761.24,51394.69,54681.19,64434.33
+"1499","Family Law Attorney",58959.22,69315.7,83576.1,95000,97529.56
+"1500","Legal Analyst",56324.68,57106.63,67091.67,67249.17,67970.93
+"1501","Docketing Specialist",41516.85,56324.05,65876.95,71180.18,77884.62
+"1502","Abstractor",15.72,16.33,18.08,18.29,20.94
+"1503","Conflicts Analyst",48612.1,50649.68,66339.99,73378.65,83843.75
+"1504","Attorney, Government",54404.99,64150.41,94203.53,108000,129180.24
+"1505","Legal Specialist",50000,60955.14,65404.58,74802.48,70733.47
+"1506","Real Estate Attorney",61041.89,76591.46,98632.57,98263.52,120000
+"1507","Paralegal Supervisor",54766.02,62497.74,67618.28,77782.77,NA
+"1508","Immigration Consultant",51475.91,57863.99,73206.85,96851.86,80500
+"1509","Legislative Assistant",38123.12,40795.94,51997.09,48500,62400
+"1510","Public Defender",48987.4,52731.01,70293.25,71603.86,78570.06
+"1511","Paralegal Manager",74000,83175.54,83030.33,92903.23,NA
+"1512","Prosecutor",54304.58,62037.62,68361.64,94087.5,97017.72
+"1513","Title Examiner, Abstractor, or Searcher",12.54,15.72,17.96,21.99,22.25
+"1514","Ombudsman",50915.62,50556.2,69183.75,69271.63,95296.56
+"1515","Court Reporter",80950.62,43711.21,44119.86,51787.6,58531.15
+"1516","Legal Intern",15.01,17.44,NA,NA,NA
+"1517","Junior Associate Attorney",63840.2,69766.14,65000,NA,NA
+"1518","Paralegal Assistant",15.58,16.91,18.16,25.96,NA
+"1519","Senior Legal Assistant",45298.09,60095.45,61606.57,67246.62,NA
+"1520","Intellectual Property (IP) Attorney",96500,104804.68,146499.86,178984.22,160000
+"1521","Assistant District Attorney",54700,58128.8,72062.66,73653,78441.14
+"1522","Legal File Clerk",12.85,13.8,14.4,15.54,14.42
+"1523","Trial Lawyer",70733.47,78610.81,92825.63,98263.52,157266.48
+"1524","Administrative Law Judge, Adjudicator, or Hearing Officer",75000,59271.88,81664.86,82697.31,109416.5
+"1525","Title Abstractor",36105.83,40902.44,50000,42000,47916.67
+"1526","Calendar Docket Clerk, Legal",15.32,17.89,22,26,NA
+"1527","Intellectual Property (IP) Assistant",45000,48611.53,56500,67434.37,77225.66
+"1528","Managing Partner, Law Firm",154363.71,197840.03,217241.38,NA,NA
+"1529","Title Searcher",12.77,14.97,15.69,15.74,20.48
+"1530","Estate Planning Attorney",55000,72718.31,102439.02,103668.94,1e+05
+"1531","Intellectual Property (IP) Lawyer",100841.27,101736.48,134498.35,171184.07,169400
+"1532","Legislative Aide",37531.91,45519.84,55385,50851.49,NA
+"1533","Counsel, Patent",139992.52,165179.25,179453.62,250000,NA
+"1534","Senior Attorney / Lawyer (Corporate, in-house)",92500,138627.15,141030.6,193166.93,NA
+"1535","Divorce Lawyer",75000,80509.82,102549,126298.81,115000
+"1536","Mediator",51,70,75,170,213
+"1537","Assistant Attorney General",67722.52,78320.55,89581.59,93537.42,NA
+"1538","District Attorney",57271.48,69710.58,78616.51,90000,107500
+"1539","Legal Records Clerk",13.03,13.07,14.89,17.14,23
+"1540","Legal Executive /General Counsel",1e+05,140300.05,148738.09,199411.16,NA
+"1541","Wholesale Title Clerk, Auto/Truck",13.51,14.71,15.18,16.18,21.5
+"1542","Litigation Support Supervisor",75000,63464.57,85000,65991.29,NA
+"1543","Assistant City Attorney",66735.52,80981.38,83552.97,76892.97,NA
+"1544","Legal Advisor",60000,68467.15,77663.8,94000,106000
+"1545","Clerk, Legal",14.52,14.38,16.71,18.74,NA
+"1546","Judge, Magistrate Judge, or Magistrate",52414.19,56460.18,59542.97,79496.86,90000
+"1547","Lawyer, Public Interest",52881.27,59178.4,73469.39,79479.59,113000
+"1548","Regulatory Lawyer",88300,109287.88,108331.04,158790.93,NA
+"1549","Bankruptcy Attorney",63097.67,80500,126968.5,120000,NA
+"1550","Sr. Staff Attorney",83523.99,82976.23,86255,95198.25,NA
+"1551","Associate Attorney / Lawyer (Corporate, in-house)",62027.58,75986.84,95691.21,137358.34,90000
+"1552","Foreign Service Officer",55018.12,78640.45,88529.42,116186.13,NA
+"1553","Field Service Supervisor",46828.43,53769.89,63529.68,68338.2,69712.42
+"1554","Laborer",14.2,15,16.37,17.13,18.01
+"1555","Housekeeper",10.15,10.96,11.93,12.7,14.03
+"1556","Custodian",11.49,12.18,12.91,13.7,14.73
+"1557","Maid or Housekeeping Cleaner",10.34,11.67,12.73,14.32,15.42
+"1558","Housekeeping Supervisor",13.37,13.88,14.11,14.91,15.38
+"1559","Janitor",11.14,11.67,12.45,13.03,13.17
+"1560","Landscaper",12.77,13.86,14.95,15.45,18.32
+"1561","Cleaner",11.58,12.08,13.04,13.9,14.95
+"1562","Pest Control Technician",14.77,15.41,16.99,17.93,18.13
+"1563","Landscape Foreman",13.84,15.93,17.31,18.68,19.91
+"1564","Janitor or Cleaner (but not Maid or Housekeeping Cleaner)",10.98,11.69,12.13,12.63,13.19
+"1565","Housekeeping Manager",40249.26,40321.21,45681.79,46094.34,46425.67
+"1566","Housekeeper, Hospital",10.77,11.46,12.11,12.32,12.35
+"1567","Executive Housekeeper",32173.87,38455.76,41471.45,42254.78,42322.47
+"1568","Arborist",17.86,18.77,21.55,23.35,24.19
+"1569","Groundskeeper",12.18,12.57,13.96,16.01,15.97
+"1570","Hotel Housekeeping Aide/Attendant/Assistant",9.97,10.07,10.86,10.8,11.12
+"1571","Pesticide Handler / Sprayer / Applicator, Vegetation",14.01,15.77,16.91,17.81,17.35
+"1572","Landscape Laborer",12.14,13.08,14.61,14.67,14.39
+"1573","Head Custodian",12.47,14.01,15.09,15.53,17
+"1574","Irrigation Technician",14.31,15.53,17.81,19.07,19.94
+"1575","Housekeeping Aide",11.62,12,12.32,12.61,13.49
+"1576","Gardener",13,14.49,16.22,19.93,20.4
+"1577","Director of Environmental Services",45571.88,58482.95,70230.88,72043.93,83308.62
+"1578","Tree Trimmer",14.75,16.18,17.58,19.89,19.62
+"1579","Landscape Manager",42500,46984.88,50139.67,54514.18,60842.65
+"1580","Custodian Janitor",11.06,11.73,12.84,13.09,13.35
+"1581","Golf Course Superintendent",49736.24,55535.63,62549.36,63058.97,NA
+"1582","Landscaping or Groundskeeping Worker",12.49,12.86,14.25,14.88,15.4
+"1583","Caretaker",11.78,12.24,11.86,12.89,14
+"1584","Residential Remodeler",13.58,16.19,18.28,21.9,24.12
+"1585","Maid",10.05,10.14,11.46,14.16,12.51
+"1586","Head Housekeeper",10.37,11.66,11.95,12.4,12.96
+"1587","Landscaping Supervisor",16.13,16.6,18.69,19.26,NA
+"1588","Groundsman",13.84,14.14,15.25,16.15,17.81
+"1589","Custodial Supervisor",13.46,14.89,15.65,17.05,16.77
+"1590","Grounds Maintenance Foreman",13.76,15.75,19.01,20.17,NA
+"1591","School Custodian",11.57,12.77,13.79,14.6,14.78
+"1592","Houseman",10.53,11.26,11.72,12.1,14.45
+"1593","Janitorial Supervisor",12.32,13.52,15.48,15.41,15.36
+"1594","First-Line Supervisor / Manager of Landscaping, Lawn Service, and Groundskeeping Workers",11.68,13.47,15.08,15.93,17.3
+"1595","Landscape Gardener",13.2,14.09,15.95,18.56,25.21
+"1596","Carpet Cleaner",12.44,13.99,14.72,15.02,17.26
+"1597","Tree Trimmer / Pruner",14.28,16.26,18.86,18.14,22.5
+"1598","Caretaker, Grounds",12.76,13.88,13.48,15.33,16.28
+"1599","Housecleaner",10.82,13.17,15.05,19.82,20.19
+"1600","Window Cleaner",12.4,15.64,16.87,17.25,20
+"1601","Senior Facilities Manager",85307.6,90223.8,99863.5,108376.21,NA
+"1602","Environmental Services Director",51756.11,54695.63,66667.17,72932.87,NA
+"1603","Building & Grounds Supervisor",52740.37,52587.98,50330.38,60834.57,NA
+"1604","Custodial Manager",43612.52,45740.33,54382.72,55000,NA
+"1605","General Duty/ Housekeeper",10.07,10.29,10.33,10.34,15.31
+"1606","Housekeeping Supervisor/Inspector",11.03,11.64,12.39,12.73,13.31
+"1607","Sexton",13.69,16.4,16.19,13.44,NA
+"1608","First-Line Supervisor / Manager of Housekeeping and Janitorial Workers",12.57,13.48,13.68,14.39,NA
+"1609","Director of Buildings and Grounds",62207.28,57632.73,74463.26,83147,NA
+"1610","Building Cleaner",10.26,12.21,12.77,14.24,14.83
+"1611","Greenskeeper",11.17,11.24,12.36,14.72,14.03
+"1612","Exterminator",14.41,15.04,16.17,17.07,20
+"1613","Golf Groundskeeper",10.85,11.19,11.77,11.12,15.84
+"1614","Landscaping Contractor",10.24,19.44,20.23,19.65,40
+"1615","Housekeeping Head",12.25,12.33,12.63,12.5,NA
+"1616","Hotel Housekeeper",9.77,10.12,10.6,9.99,12
+"1617","Assistant Executive Housekeeper",9.88,10.81,12.2,12.56,16
+"1618","Night Cleaner",10.32,11.78,11.99,14,13
+"1619","Window Washer",12.76,14.85,15.09,15.48,20.35
+"1620","Tree Surgeon",17.49,17.8,20.43,25,NA
+"1621","Consultant, Cleaning Services",12.6,15,15.58,25,NA
+"1622","Laundry Supervisor",11.88,13,14.93,16.99,NA
+"1623","Irrigation Worker",12.19,13.5,14.24,16.25,NA
+"1624","Houseperson",10.8,11.71,12.98,11.72,NA
+"1625","Pest Control Worker",14.8,14.14,17.21,20,15
+"1626","Laundry Manager",45000,40975.61,58828,71215.54,NA
+"1627","Crime Scene Cleaner",15.47,16,21.32,17,NA
+"1628","Domestic Laundry Worker",9.39,13.02,10.17,13,NA
+"1629","Project Manager, Landscaping",15.58,16,19.53,20,NA
+"1630","Crew Supervisor, Window Washers",9.06,11.25,15,NA,NA
+"1631","Cleaner Hospital",9.36,10.34,10.75,10.5,12.77
+"1632","Housekeeping Director, Hospital",13.48,12,27.5,28.32,NA
+"1633","Medical Housekeeper",9.62,11.5,13.29,13.13,NA
+"1634","Housekeeping Dispatcher",11.5,12.39,NA,NA,NA
+"1635","Branch Manager, Janitorial Services",50000,48186.53,63863.91,57391.3,NA
+"1636","Steam Cleaner",11.25,NA,NA,NA,NA
+"1637","Associate Vice President (AVP), Facilities",125000,142500,NA,NA,NA
+"1638","Clean Room Supervisor",19.53,NA,NA,NA,NA
+"1639","Exterminator, Licensed",14.55,19,NA,NA,NA
+"1640","Store Cleaning Manager",11.86,NA,NA,NA,NA
+"1641","Steward/Night Cleaner",10.34,12.25,NA,NA,NA
+"1642","Fumigator",15,15.25,NA,NA,NA
+"1643","Clean Room Inspector",NA,NA,NA,NA,NA
+"1644","General Manager, Laundry",42700,80000,NA,NA,NA
+"1645","Campground Attendant",10.17,NA,NA,NA,NA
+"1646","Clean Room Manager",13.48,NA,NA,NA,NA
+"1647","Production Supervisor",54256.13,57168.25,60503.53,63845.04,66230.01
+"1648","Welder",16.21,17.63,19.56,20.73,22.69
+"1649","Heavy Equipment Operator",16.72,18.27,20.16,22.09,24.7
+"1650","Quality Manager",63362.94,70452.62,81569.25,89090.15,92534.44
+"1651","Production Manager, Manufacturing",60136.4,65755.2,72576.43,78004.42,82226.26
+"1652","Quality Assurance (QA) / Quality Control (QC) Inspector",15.16,16.59,19.27,20.76,23.25
+"1653","Warehouse Supervisor",48474.77,50606.96,53321.27,55646.21,58951.61
+"1654","Production Operator",14.87,16.11,18.23,18.95,20.64
+"1655","Quality Assurance Manager",61026.02,68538.9,79788.48,92252.45,96328.32
+"1656","Welding Inspector (Certified)",23.54,25.32,27.81,29.05,31.84
+"1657","Machinist",14.97,17.34,20.62,22.6,24.77
+"1658","Quality Assurance (QA) Specialist",50922.3,56398.52,65758.97,69391.92,72076.38
+"1659","Plant Manager, Manufacturing",74408.47,79344.25,88541.46,100571.91,104425.87
+"1660","Computer Numerically Controlled (CNC) Operator and Programmer",15.04,17.68,20.55,23.01,25.46
+"1661","Equipment Operator",16.03,17,18.64,20.13,22.94
+"1662","Production Worker",12.99,13.61,15.03,15.47,16.43
+"1663","Production Supervisor, Manufacturing",55259,58001.76,61221.52,65930.94,67775.88
+"1664","Quality Assurance (QA) Director",77038.61,82107.28,96439.8,122992.18,129923.91
+"1665","Assembler",13.88,14.64,15.81,16.89,18.32
+"1666","Baker",11.36,12.31,13.53,14.14,15.43
+"1667","Computer Numerically Controlled (CNC) Machinist",15.4,17.3,20.53,22.51,24.61
+"1668","Quality Control Inspector",14.86,15.94,18.58,20.01,21.95
+"1669","Meat Cutter",12.95,14.33,16.2,17.58,18.2
+"1670","Warehouse Lead",15.71,16.66,17.54,18.64,19.36
+"1671","Computer Numerically Controlled (CNC) Operator",14.76,15.89,17.65,18.9,19.85
+"1672","Quality Control Manager",53267.65,63351.95,73205.82,79764.68,83690.54
+"1673","Production Team leader",15.09,17.3,18.85,20.32,21.88
+"1674","Machine Set Up Operator",14.44,15.43,16.94,19.12,20.42
+"1675","Production Manager, Print",43459.55,49052.1,54867.64,60927.19,67047.72
+"1676","Production Lead, Manufacturing",17.36,17.99,19.51,21.74,24.14
+"1677","Cake Decorator",11.85,12.71,14.32,14.92,15.15
+"1678","Water Treatment Operator",16.04,17.87,21.07,23.16,25.17
+"1679","Machine Operator",14.46,15.79,17.11,18.19,19.28
+"1680","Process Technician",19.57,20.09,22.02,23.86,25.01
+"1681","Manufacturing Supervisor",60250,62654.53,67535.93,70239.18,70337.1
+"1682","Assembly Line Worker, Factory",13.56,14.27,15.38,16.88,19.14
+"1683","Fabricator",14.28,16.35,19.24,20.71,22.66
+"1684","Manufacturing Manager",73751.6,78113.84,88929.11,91724.01,95713.19
+"1685","Quality Control (QC) Supervisor",53585.19,55802.42,63193.92,68525.74,74400.22
+"1686","Press Operator",14.03,15.29,16.9,19.52,21.5
+"1687","Quality Assurance Supervisor",56630.64,58056.48,62755.21,66282.77,69033.19
+"1688","Tool and Die Maker",15.06,19.66,22.57,25.87,28.12
+"1689","Waste Water Plant Operator",16.35,18.08,21.11,22.81,24.89
+"1690","Tig Welder",15.57,17.56,20.01,21.57,22.96
+"1691","Machinist Set Up Operator",14.05,16.62,19.71,21.18,23.89
+"1692","Manufacturing Worker",13.65,14.9,16.49,17.86,18.66
+"1693","Test Technician",18.72,20.02,22.88,24.65,27.19
+"1694","Computer Numerically Controlled (CNC) Programmer",18.02,19.99,22.81,26.83,29.21
+"1695","Chemical Operator",17.67,19.75,23.19,24.66,26.65
+"1696","Production Associate",14.66,15.11,15.66,17.26,17.89
+"1697","Metal Fabricator",14.82,16.62,19.08,20.37,21.97
+"1698","Framer - Construction",14.58,16.24,18.79,19.5,20.22
+"1699","Manufacturing Team Leader",16.62,18.5,19.73,21.63,23.83
+"1700","Production Manager, (Unspecified Type)",44959.49,54966.65,63351.38,69225.12,68130.8
+"1701","Picker",13.94,13.94,14.4,14.75,16
+"1702","Assembly Line Machine Operator",13.41,14.35,15.32,15.96,15.93
+"1703","Cabinet Maker",13.48,15.3,17.71,19.91,22.27
+"1704","Packaging or Filling Machine Operator / Tender",13.92,14.91,16.26,18.49,18.86
+"1705","Project Manager, Manufacturing",57242.95,64417.34,79574.05,85274.73,84672.54
+"1706","Meat Clerk",11.28,11.86,12.73,13.65,15.21
+"1707","Mig Welder",15.59,16.41,18.04,18.46,20.15
+"1708","Industrial Painter",14.6,16.62,18.85,20.11,21.56
+"1709","Dental Laboratory Technician",13.39,15.21,18.21,20.26,22.51
+"1710","Laser Machine Operator (Metal Fabrication)",14.8,16.17,18.08,19.5,21.29
+"1711","Pipe Welder",19.2,22.25,25.61,28.12,29.42
+"1712","First-Line Supervisor / Manager of Production and Operating Workers",51051.9,52841.7,59074.47,61159.96,70057.36
+"1713","Screen Printer",10.99,12.55,14.37,15.48,16.07
+"1714","Bakery Manager",14.91,16.29,17.26,17.71,18.57
+"1715","Pastry Chef",11.81,14.3,15.9,16.89,16.74
+"1716","Crew Chief",11.22,14.61,18.22,21.77,23.27
+"1717","Structural Metal Fabricator / Fitter",15.94,17.86,20.18,21.02,21.38
+"1718","Bakery Clerk",11.19,11.55,12.09,13.42,13.97
+"1719","Warehouse Team Leader",15.34,16.33,17.42,18.22,20.06
+"1720","Heavy Machine Operator",14.46,16.09,17.59,18.78,21.82
+"1721","Brewer",14.5,15.39,18.11,20.73,25
+"1722","Press Brake Operator",14.53,16.15,17.7,19.58,20.72
+"1723","Technical Designer, Apparel",43133.82,51380.23,63240.83,79216.31,83716.57
+"1724","Demand Planning Manager",75813.85,81277.26,94379.36,103394.32,103890.91
+"1725","Ramp Agent",12.93,13.92,17.03,18.08,27.95
+"1726","Quality Assurance Inspector, Manufacturing",14,16.34,19.58,20.89,20.66
+"1727","Senior Quality Assurance (QA) / Quality Control (QC) Inspector",18.74,20.17,21.5,25.44,27.97
+"1728","Combo Welder",16.47,18.85,22.31,23.03,24.13
+"1729","Injection Molding Technician",14.79,17.17,19.43,21.12,23.61
+"1730","Assembly Line Worker",12.8,14,15.55,15.72,17.79
+"1731","Production Foreman",17.19,19.08,21.43,22.49,24.71
+"1732","Toolmaker",16.31,18.94,23.17,26.65,26.59
+"1733","Digital Press Operator",14.66,15.8,18.5,18.64,19.62
+"1734","Ironworker",18.09,21.99,25.08,28.3,30.3
+"1735","Laundry Attendant",9.99,10.11,10.37,11.06,12.1
+"1736","Print Press Operator",14.39,15.27,17.57,18.99,22.31
+"1737","Chemical Process Operator",19.84,22.93,27.09,26.71,30.91
+"1738","Scheduling Manager",44325.67,48552.11,60200.66,71722.05,83329.09
+"1739","Production Specialist",15.45,16.24,17.34,18.3,22.38
+"1740","Dental Technician",13.88,15.37,17.78,20.22,21.96
+"1741","Production Planning Manager",57808.16,69525.5,82423.06,87023.65,88815.1
+"1742","Electronics Assembler",13.41,15.01,15.61,17.35,17.58
+"1743","Printing Machine Operator",13.81,15.37,16.77,17.09,19.27
+"1744","Butcher",12.03,13.2,15.14,17.58,19.46
+"1745","Stationary Engineer",24.54,27.65,32.37,32.75,32.17
+"1746","Water Plant Operator",16.04,17.54,19.12,22.4,23.36
+"1747","Marketing Manager",48387.44,59781.18,70321.03,77616.95,80099.54
+"1748","Marketing Director",48280.61,60489.59,85939.51,106496.46,112536.11
+"1749","Marketing Coordinator",41372.48,45055.42,50082.71,52232.86,53748.92
+"1750","Business Development Manager",53386.4,63887.83,78059.52,87159.94,92580.39
+"1751","Senior Marketing Manager",87893.61,85059.47,97165.22,108281.2,116192.33
+"1752","Digital Marketing Manager",47828.48,60767.79,72546.6,82409.15,91879.24
+"1753","Vice President (VP), Marketing",81024.42,102412.29,128343.44,152591.94,164681.6
+"1754","Social Media Manager",40734.74,49736.3,62062.41,69286.21,63871.29
+"1755","Business Development Director",67187.14,79674.46,98862.96,121221.56,128565.23
+"1756","Communications Manager",45651.74,56134.21,69743.34,81070.25,79679.7
+"1757","Business Director",55971.19,62236.27,72249.63,119992.55,114854.15
+"1758","Product Marketing Manager",76829.38,86530.18,97024.03,103719.2,112225.28
+"1759","Vice President (VP), Business Development",81160.61,93915.26,120402.16,144991.66,151921.16
+"1760","Product Management Director",122446.21,144843.52,154486.82,157277.73,NA
+"1761","Project Manager, Marketing",48947.08,59262.98,68927.37,76697.65,82855.97
+"1762","Brand Manager",48751.97,63386.93,77451.56,82263.09,80811.22
+"1763","Marketing Communications Manager",44887.09,56798.07,67892.8,76181.02,80908.57
+"1764","Communications Coordinator",40900.11,44665.24,48961.85,51432.51,54034.72
+"1765","Account Director",57287.59,77539.49,96715.08,106059.05,122478.8
+"1766","Product Development Manager",56340.2,71599,84562.02,101582.12,103243.13
+"1767","Content Marketing Manager",48533.29,61142.54,73689.33,82075.93,88964.17
+"1768","Category Manager",64639.5,75487.19,90928.17,97309.88,97493.17
+"1769","Director, Marketing and Communications",57325.12,57034.05,77930.97,92947.82,98379.91
+"1770","Sales and Marketing Coordinator",40222.38,45660.68,50093.14,55370.11,50814.09
+"1771","Strategic Partnership Manager",59363.81,71324.23,86330.34,100896.36,102670.93
+"1772","Account Supervisor",46083.83,71340.82,76538.07,76441.97,75635.06
+"1773","Senior Product Marketing Manager",119276.35,125844.19,134152.53,141868.96,NA
+"1774","Program Manager, Marketing",58931.36,67876.23,82937.49,92865.53,96039.65
+"1775","Marketing Operations Manager",62100.51,74533.3,86395.92,95900.02,98854.16
+"1776","Social Media Marketing Manager",40697.87,50173.77,65605.66,72157.9,70791.26
+"1777","Marketing Communications Coordinator",39934.72,45046.56,50792.73,54725.99,60000
+"1778","Digital Project Manager",50844.4,61372.58,72990.92,82176.65,87333.19
+"1779","Associate Director, Creative Services",61041.89,77605.73,93283.53,102503.25,105922.31
+"1780","Associate Marketing Manager",57449.17,64302.17,74337.95,80400.82,72000
+"1781","Brand Strategist",48625.27,60621.46,77914.74,98237.8,98263.52
+"1782","Director of Digital Marketing",67441.02,100244.24,119713.06,124573.05,NA
+"1783","Marketing & Business Development Manager",49170.21,55194.26,68980,79423.2,84900.8
+"1784","Brand Marketing Manager",45678.54,66338.28,79419.33,86971.35,81349.69
+"1785","Pricing Manager",68484.15,78584.92,88829.29,96359.07,87764.31
+"1786","Product Manager, eCommerce",59209.74,85984.83,100814.53,101390.04,99750
+"1787","Product Marketing Director",112880.95,140109.89,149624.45,153667.69,NA
+"1788","Digital Marketing Director",66789.66,91032.67,115337.12,120164.35,NA
+"1789","Senior Business Development Manager",83401.9,98393.9,113505.82,124694.52,NA
+"1790","Product Line Manager",77728.76,79722.67,96413.31,110723.7,121295.16
+"1791","Media Director",46831.67,91051,106053.11,91535.31,NA
+"1792","Associate Brand Manager",59167.99,71392.34,80524.16,78242.86,78613.78
+"1793","Director, Marketing & Business Development",55955.06,67972.33,89927.35,107952.86,109063.77
+"1794","Director of Marketing",59590.21,85822.2,105350.55,119047.64,NA
+"1795","Search Engine Optimization (SEO) Manager",49434.82,62446.68,79736.75,86081.45,77884.62
+"1796","Product Manager, Financial Services",75008.03,89414.42,103062.3,116308.13,116996.95
+"1797","Senior Marketing Coordinator",55179.85,63097.97,66908.75,66860.92,NA
+"1798","Director of Innovation",78751.7,90057.42,111684.48,132392.12,139394.7
+"1799","Assistant Marketing Manager",48240.26,56920.63,59469.46,58417.99,56030.5
+"1800","Online Community Manager",45707.3,54448.82,65494.89,76841.48,79621.05
+"1801","Corporate Communications Manager",52380.95,70441.37,83200.55,96021.05,98799.68
+"1802","Graphic Design Manager",47101.57,62002.93,64956.55,66519.95,NA
+"1803","Demand Generation Manager",77891.98,87596.16,95350.95,107350.64,NA
+"1804","Media Manager",42159.15,62396.5,71931.76,80517.48,88223.15
+"1805","Senior Brand Manager",80227.14,101930.06,113446.29,114568.75,NA
+"1806","Channel Marketing Manager",63615.14,73823.24,84538.72,95383.42,106999.81
+"1807","Media Planner",44984.14,51713.14,56374.81,73000,56100
+"1808","Marketing Automation Manager",57194.14,74094.65,82959,89956.96,127450.98
+"1809","Media Buyer",41409.65,47495.98,51881.86,56935.66,63871.29
+"1810","Traffic Manager",39907.79,44023.02,55516.31,59780.07,61283.91
+"1811","Marketing Executive",45447.19,49734.61,61035.31,82630.65,98869.63
+"1812","Global Product Manager",93140.33,100668.27,122576.64,127086.45,NA
+"1813","Regional Marketing Manager",56000,64947.49,79954.13,84611.95,97412.26
+"1814","Senior Communications Manager",72644.46,96428.75,110200.47,124340.14,NA
+"1815","Demand Generation Director",99493.44,129415.51,135260,146586.2,NA
+"1816","Senior Product Management Director",134912.16,155163.27,168962,171581.01,NA
+"1817","Media Production Manager",54518.24,62041.81,70403.7,75000,NA
+"1818","Sales and Business Development Director",75400.5,91691.2,117814.06,119434.42,NA
+"1819","Global Marketing Manager",78817.83,92951.46,111556.61,126756.24,NA
+"1820","Content Director",65968.19,86180.53,99823.21,118099.95,NA
+"1821","E-Mail Marketing Manager",66553.83,76255.98,77794.94,NA,NA
+"1822","Assistant Product Manager",57601.7,55086.54,62504.51,84575.08,61500
+"1823","Associate Media Director",93318.49,96345.19,96687.13,85329.38,NA
+"1824","Marketing & Business Development Director",57828.77,81222.36,100851.98,110933.22,NA
+"1825","Business Development Officer",49604.15,57145.44,69495.93,78055.11,75965.47
+"1826","Group Product Manager",134319.72,151350.9,173434.41,138449.11,NA
+"1827","Senior Project Manager, Advertising",74686.77,81982.08,88052.15,87395.44,NA
+"1828","Director of Strategic Alliances",81450.9,107050.31,130240.69,150608.85,NA
+"1829","Assistant Brand Manager",58832.69,62260.46,80428.31,73000,NA
+"1830","Marketing Supervisor",56390.86,59788.88,61811.51,69848.55,NA
+"1831","Digital Strategy Director",93459.98,95317.8,115881.63,144874.3,NA
+"1832","Online Marketing Manager",40694.59,58643.59,71170.28,79341.42,60652.39
+"1833","Strategic Planner",50615.23,59245.43,74874.24,99754.23,114522.94
+"1834","Search Engine Marketing (SEM) Manager",51545.68,65261.7,80291.13,85896.02,NA
+"1835","Vice President (VP), Marketing & Business Development",70521.3,104360.58,145573.96,149497.3,NA
+"1836","Product Manager, Banking",67670.4,79028.44,95504.61,103267.5,129715.57
+"1837","Senior Account Director",70000,102179.98,123444.9,137529.41,NA
+"1838","Marketing Administrator",41187.39,43357.63,49077.85,57474.15,60000
+"1839","Group Account Director",106488.18,125363.34,142708.89,151450.35,NA
+"1840","Advertising Manager",48538.56,55366.95,69862.17,85410.99,89904.13
+"1841","Advertising Coordinator",40646.73,44588.66,46828.44,52457.14,47500
+"1842","Commercial Director",81349.69,131973.08,138870.8,136723.59,NA
+"1843","Director, Consumer Insights",97500,119167.88,139344.96,152052.38,NA
+"1844","Marketing Research Director",75986.84,97635.23,119290.43,128463.08,NA
+"1845","Manager of Paid Search",67104.9,79823.72,89693.59,NA,NA
+"1846","Creative Manager, Advertising",61828.15,68804.33,70062.15,63514.52,NA
+"1847","Marketing Associate",44156.93,48760.39,56169.52,55925.36,57534.62
+"1848","Technical Writer",49950.31,57080.37,66008.37,72640.17,75235.21
+"1849","Communications Specialist",42385.85,51208.66,58893.72,61433.54,65072.97
+"1850","Director of Communications",49356.13,58757.17,78392.71,97603.59,104371.81
+"1851","Video Producer",41807.07,51469.03,60746.63,68577.06,65900.24
+"1852","Film / Video Editor",40257.35,44992.13,51799.04,60014.03,62464.7
+"1853","Copywriter",41769.95,51071.09,60940.78,60740.34,57675.1
+"1854","Relationship Manager",48511.13,55062.64,65861.38,83591.8,93038.75
+"1855","Editor",40883.59,48973.04,56972.64,61635.46,66836.26
+"1856","Content Writer",38932.8,45844.37,56432.1,59812.08,61476.91
+"1857","Technical Director",48479,59053.34,85711.6,130576.92,139632.06
+"1858","Photographer",13.48,15.53,19.3,20.51,22.8
+"1859","Public Relations (PR) Manager",41105.91,58711.96,75384.15,80541.99,76472.16
+"1860","Communications Director",48898.36,52259.6,69213.47,88097.71,96795.3
+"1861","Senior Technical Writer",73294.79,80044.77,87076.49,92136.88,NA
+"1862","Videographer",39574.75,42560.12,48549.03,55628.39,61147.29
+"1863","Digital Media Specialist",42644.23,47511.08,53533.04,57603.42,58480.97
+"1864","Senior Copywriter",57429.81,70266.17,76500.7,79249.62,84887.05
+"1865","Audio/Visual Technician",15.06,17.54,20.81,22.97,24.98
+"1866","News Producer",32264.3,40150.79,56395.06,71281.68,74000
+"1867","Reporter",34635.87,42081.17,56006.07,62519.5,58413.48
+"1868","Production Assistant",14.45,15.2,16.62,16.07,17.18
+"1869","Managing Editor",48433.29,51272.82,62056.92,75070.77,77385.83
+"1870","Sr. Editor",59670.3,70241.91,75154.38,77698.57,NA
+"1871","Campaign Manager",44189.4,57368.06,70893.81,79641.17,80884.45
+"1872","Audio Engineer",19.52,18.56,23.45,25.58,29.66
+"1873","Communications Associate",42083.62,49422.69,53454.81,57229.19,48494.85
+"1874","Public Relations (PR) Specialist",40978.88,48764.78,59149.17,59958.1,64944.05
+"1875","Web Content Specialist",40816.12,46683.94,51809.99,61130.07,65043.01
+"1876","Social Media Director",44924.67,54624.92,83894.92,102298.8,125500
+"1877","Proposal Writer",48900.25,55633.35,65802.25,73359.83,78770.21
+"1878","Music Director",38944.92,35447.1,41369.73,43278.16,40518.22
+"1879","Social Media Strategist",39574.65,51015.18,63978.1,77023.07,67500
+"1880","Senior Communications Specialist",65287.83,71266.05,78119.35,80599.39,NA
+"1881","Marketing Communications Director",47324.18,52926.22,75976.02,90833.65,102345.88
+"1882","News Anchor",35796.14,48283.02,60803.8,71275.21,86204.23
+"1883","Writer",41509.34,49234.62,57855.36,66445.24,68437.78
+"1884","Major Gifts Officer",55895.43,65429.19,73610.47,78423.44,81154.43
+"1885","Executive Producer",49131.76,62791.3,86989.17,112505.86,125013.99
+"1886","Medical Writer",70959.75,73751.1,78722.09,100264.91,85243.4
+"1887","Sign Language Interpreter",24.13,25.09,30.33,33.73,39.14
+"1888","Interpreter",16.49,18.4,20.09,23.96,28.97
+"1889","Medical Interpreter",18.09,19.27,23.08,24.41,25.63
+"1890","Associate Editor",40149.74,47301.18,51207.22,56320.57,58208.32
+"1891","Development Officer",43067.47,50645.64,60314.06,65638.54,69338.7
+"1892","Public Relations (PR) Director",51259.24,86011.7,101941.47,103952.73,NA
+"1893","Development Coordinator, Non-profit Organization",39499.33,41175.38,46570.3,48309.2,48961.38
+"1894","Associate Producer, Film/TV",41117.6,51403.29,58714.34,73436.31,52500
+"1895","Web Content Manager",41156.69,53491.28,63296.3,63740.98,71591.75
+"1896","Public Relations Coordinator",38674.52,43364.62,50069.58,54936.59,50881.17
+"1897","News Reporter",29831.88,40132.01,53559.37,64782.02,81389.19
+"1898","Journalist",31229.23,40197.06,48070.36,60493.29,59394.18
+"1899","Data Science Manager",129171.68,141019.58,150750.75,139821.43,NA
+"1900","Film/TV Producer",50683.71,58645.92,71427.76,86519.26,114842.37
+"1901","Senior Marketing Associate",62415.67,68272.8,70087.82,67500,NA
+"1902","Lighting Designer",51745.46,57750.64,59042.64,68784.46,73784.39
+"1903","Athletic Coach",35661.75,39438.7,44326.2,49671.64,53929.67
+"1904","Translator",19.13,19.3,19.98,25.09,26.49
+"1905","Web Content Editor",36768.25,46233.22,53265.67,64980.42,67480.71
+"1906","Musician or Singer",19.29,43.98,48.73,46.65,48.65
+"1907","Stripper/Exotic Dancer",19.83,20.47,25.89,20.83,25
+"1908","Editorial Assistant",35785.55,36757.61,41320.87,57344,62255.87
+"1909","Media Specialist",40412.45,44724.48,50135.93,53100.67,60000
+"1910","Donor Relations Manager",41815.45,48723.51,58055.8,63475.6,70411.35
+"1911","Annual Giving Manager",45751.99,52518.54,57765.08,66786.76,69673.44
+"1912","Communications Technician",15.74,17.51,24.63,26.8,30.49
+"1913","Director of Community Engagement",60000,58708.97,66339.2,71722.5,83523.99
+"1914","Photographer, Commercial",35171.33,41159.37,49105.16,60767.17,63542.01
+"1915","Fundraising Manager",53575.23,56238.84,59809.04,57434.61,NA
+"1916","Radio Show Host",38000,38755.34,44233.29,51109.69,56336.27
+"1917","Community Relations Specialist",40501.85,49872.12,57082.93,59549.78,59159.66
+"1918","Technical Editor",41901.53,50878.55,63797.63,73894.6,75595.81
+"1919","Senior Video Editor",55832.17,61732.73,69420.72,83989.79,NA
+"1920","Communications Assistant",37560.23,40402.59,41034.33,50000,66000
+"1921","Freelance Writer",15.58,20.19,25.28,30.04,49.13
+"1922","Public Relations (PR) Associate",41044.32,45924.33,61096.62,64000,NA
+"1923","Broadcast Engineer",51204.25,53560.94,59495.24,65531.7,77637.23
+"1924","Creative Services Director",70633.57,81394.66,92435.84,100989.44,NA
+"1925","Interpreter or Translator",19.73,20.23,21.94,27.67,28.09
+"1926","Photo Editor",40000,45772.44,59479.28,66973.26,60834.84
+"1927","Director of Public Relations (PR)",61426.35,77967.4,93594.07,110310.44,NA
+"1928","Senior Writer",57708.7,71136.84,76111.34,83323.62,NA
+"1929","Sr. Manager, Corporate Communications",94929.46,102156.89,114696.54,108053.28,NA
+"1930","Account Executive, Public Relations (PR)",41322.39,49398.53,53875.11,61828.95,90000
+"1931","Church Organist",17190.34,17610.3,19773.93,19336.25,NA
+"1932","Corporate Communications Director",87893.14,102601.46,132391.68,138812.76,NA
+"1933","Staff Writer",35698.56,45302.94,50567.14,49151.43,64000
+"1934","Junior Copywriter",43203.41,44706.47,52514.8,NA,NA
+"1935","Vendor Relationship Manager",54343.83,59353.03,72199.35,86680.82,103662.48
+"1936","Radio Producer",35602.71,44324.74,50454.75,53000,52071.91
+"1937","Master Control Operator",11.98,12.98,15.76,17.04,20.84
+"1938","Editorial Director",66128.8,89119.62,100961.81,101340.17,NA
+"1939","Public Relations (PR) and Marketing Coordinator",36380.85,41518.12,47899.53,50615.23,45000
+"1940","Online Marketing Content Writer",39305.93,43960.82,52782.49,60983.61,75394.36
+"1941","Actor / Actress",49178.35,49468.98,52619.81,72000,50000
+"1942","Information Specialist",40691.93,45453.89,50867.99,51985.23,60934.43
+"1943","Marketing Copywriter",43746.33,47926.03,53797.58,54044.94,62000
+"1944","Social Media Associate",39937.34,46029.76,63871.29,NA,NA
+"1945","Music Producer",49566.52,49862.44,54495.41,58326.38,57325.12
+"1946","Corporate Communications Specialist",47820.08,55358.93,60448.22,67563.44,67500
+"1947","Drone Pilot",20.39,22.4,27.23,35.75,NA
+"1948","Radio Tower & Radar Technician",18.77,20.52,23.74,27.05,25.96
+"1949","Military Pilot, Jet",68444.47,85892.69,99380.5,117109.79,NA
+"1950","Army Sergeant, Infantry",32553.54,37765.81,50868.24,66466.17,NA
+"1951","Marine Corp Corporal, Ground Combat",28265.43,26000,50118,NA,NA
+"1952","Army Staff Sergeant, Infantry (Light Infantry)",54013.14,50615.23,NA,NA,NA
+"1953","Navy Petty Officer 2nd Class, Surface Vessels",31778.48,49166.38,49948.31,NA,NA
+"1954","Army Private First Class, Infantry (Light Infantry)",23781.85,NA,NA,NA,NA
+"1955","Unmanned Aerial Vehicle (UAV) Pilot",50868.24,76302.36,1e+05,NA,NA
+"1956","Officer in Command",NA,72262.47,102927.79,145005.77,NA
+"1957","Army Corporal, Infantry",27310.91,42000,NA,NA,NA
+"1958","Chief Helicopter Pilot",68784.46,89000,95000,NA,NA
+"1959","Military Pilot, Non-Jet",52380.95,78446.89,90989.01,102439.02,117916.22
+"1960","Drone Operator",45494.51,67249.17,NA,NA,NA
+"1961","Military Pilot (Unspecified Type)",65000,82121.84,90000,90000,NA
+"1962","Navy Petty Officer 1st Class, Surface Vessels",50000,69634.27,67407.41,NA,NA
+"1963","Air Force Senior Airman, Air",37854.25,29698.75,NA,NA,NA
+"1964","Navy Petty Officer 3rd Class, Aviation",26129.76,29422.72,NA,NA,NA
+"1965","Army Staff Sergeant, Infantry",46000,54349.75,NA,NA,NA
+"1966","Air Force Staff Sergeant, Air",45774.8,53453.17,NA,NA,NA
+"1967","Army Sergeant, Cavalry",41730.66,47500,44000,NA,NA
+"1968","Marine Corp Lance Corporal, Ground Combat",23178.65,45000,NA,NA,NA
+"1969","Army Captain, Infantry",72153.95,82316,NA,NA,NA
+"1970","Army Private First Class, Infantry (Mechanized)",23958.33,NA,NA,NA,NA
+"1971","Navy Petty Officer 3rd Class, Surface Vessels",25610,29859.53,NA,NA,NA
+"1972","Army Sergeant, Airborne",38500,40444.44,37619.11,NA,NA
+"1973","Army Sergeant First Class, Infantry",61673.62,59628.06,NA,NA,NA
+"1974","Navy Petty Officer 2nd Class, Aviation",51923.08,50000,58958.11,NA,NA
+"1975","Air Force Lieutenant Colonel, Air",120340.79,105450,NA,NA,NA
+"1976","Army Corporal, Infantry (Light Infantry)",28540.8,44218.58,NA,NA,NA
+"1977","Coast Guard Captain, Small Boats",27,19.65,20,NA,NA
+"1978","Marine Corp Staff Sergeant, Ground Combat",57000,66148.5,NA,NA,NA
+"1979","Navy Chief Petty Officer, Surface Vessels",76500,63615.14,NA,NA,NA
+"1980","Soldier",29277.45,35000,50000,NA,NA
+"1981","Air Force Captain, Air",95273.24,NA,NA,NA,NA
+"1982","Army Sergeant First Class, Airborne",69500,57000,NA,NA,NA
+"1983","Navy Seaman, Surface Vessels",22002.24,NA,NA,NA,NA
+"1984","Air Force Master Sergeant, Air",57297.2,83200,NA,NA,NA
+"1985","Air Force Major, Air",111000,NA,NA,NA,NA
+"1986","Air Force Staff Sergeant, Aerospace",34000,NA,NA,NA,NA
+"1987","Army 2nd Lieutenant, Infantry",40000,NA,NA,NA,NA
+"1988","Army Corporal, Infantry (Mechanized)",28500,29221.08,NA,NA,NA
+"1989","Marine Corp Corporal, Logistics Combat",25703.28,NA,NA,NA,NA
+"1990","Unmanned Aircraft Systems (UAS) Pilot",20.49,NA,NA,NA,NA
+"1991","Air Force Airman 1st Class, Air",24370.54,NA,NA,NA,NA
+"1992","Coast Guard Petty Officer 2nd Class, Small Boats",35250,NA,NA,NA,NA
+"1993","Navy Petty Officer 2nd Class, Submarines",50868.24,NA,NA,NA,NA
+"1994","Air Force Colonel, Air",133131.06,NA,NA,NA,NA
+"1995","Air Force Technical Sergeant, Air",52380.95,NA,NA,NA,NA
+"1996","Army 1st Sergeant, Airborne",89321.51,NA,NA,NA,NA
+"1997","Army Staff Sergeant, Airborne",46500,NA,NA,NA,NA
+"1998","Navy Petty Officer 1st Class, Aviation",57000,NA,NA,NA,NA
+"1999","Navy Petty Officer 1st Class, Submarines",58554.89,NA,NA,NA,NA
+"2000","Unmanned Aerial Vehicle (UAV) Operator",51414.69,NA,NA,NA,NA
+"2001","Air Force Senior Airman, Aerospace",27834,NA,NA,NA,NA
+"2002","Army Major, Infantry",NA,NA,NA,NA,NA
+"2003","Coast Guard Petty Officer 3rd Class, Small Boats",NA,NA,NA,NA,NA
+"2004","Navy Chief Petty Officer, Aviation",NA,NA,NA,NA,NA
+"2005","Navy Commander, Aviation",120009,NA,NA,NA,NA
+"2006","Unmanned Aircraft Systems (UAS) Operator",NA,NA,NA,NA,NA
+"2007","Air Force Airman Basic, Air",33000,NA,NA,NA,NA
+"2008","Air Force Chief Master Sergeant, Air",NA,NA,NA,NA,NA
+"2009","Army Corporal, Armor",28673.56,NA,NA,NA,NA
+"2010","Army Private First Class, Armor",18000,NA,NA,NA,NA
+"2011","Army Private First Class, Infantry",29500,NA,NA,NA,NA
+"2012","Army Sergeant First Class, Cavalry",74328.57,NA,NA,NA,NA
+"2013","Army Sergeant Major, Infantry",73547.8,NA,NA,NA,NA
+"2014","Army Staff Sergeant, Armor",NA,NA,NA,NA,NA
+"2015","Coast Guard Seaman/Airman/Fireman, Aviation",19950,NA,NA,NA,NA
+"2016","Navy Lieutenant Commander, Surface Vessels",NA,NA,NA,NA,NA
+"2017","Navy Lieutenant, Surface Vessels",NA,NA,NA,NA,NA
+"2018","Navy Petty Officer 3rd Class, Submarines",35000,NA,NA,NA,NA
+"2019","Navy Seaman, Aviation",44000,NA,NA,NA,NA
+"2020","Enforcement Manager",NA,NA,NA,NA,NA
+"2021","Career Manager",NA,NA,NA,NA,NA
+"2022","Mental Nurse",NA,NA,NA,NA,NA
+"2023","Nurse Intern",NA,NA,NA,NA,NA
+"2024","Dispensary Nurse",NA,NA,NA,NA,NA
+"2025","Med Nurse",NA,NA,NA,NA,NA
+"2026","Manager Associate",NA,NA,NA,NA,NA
+"2027","Primary Nurse",NA,NA,NA,NA,NA
+"2028","Master of Nursing",NA,NA,NA,NA,NA
+"2029","Camp Nurse",NA,NA,NA,NA,NA
+"2030","Certified Wound Nurse",NA,NA,NA,NA,NA
+"2031","Parish Nurse",NA,NA,NA,NA,NA
+"2032","Bed Manager",NA,NA,NA,NA,NA
+"2033","Export Assistant",NA,NA,NA,NA,NA
+"2034","Operation Excellence Manager",NA,NA,NA,NA,NA
+"2035","Rigging Manager",NA,NA,NA,NA,NA
+"2036","Research Site Manager",NA,NA,NA,NA,NA
+"2037","Faculty Manager",NA,NA,NA,NA,NA
+"2038","Junior Nurse",NA,NA,NA,NA,NA
+"2039","Floater Administrative Assistant",NA,NA,NA,NA,NA
+"2040","Rn Analyst",NA,NA,NA,NA,NA
+"2041","Rooms Manager",NA,NA,NA,NA,NA
+"2042","Works Manager",NA,NA,NA,NA,NA
+"2043","IPT Engineer",NA,NA,NA,NA,NA
+"2044","Night Nurse",NA,NA,NA,NA,NA
+"2045","Spa Assistant",NA,NA,NA,NA,NA
+"2046","QA Administrative Assistant",NA,NA,NA,NA,NA
+"2047","Complaints Manager",NA,NA,NA,NA,NA
+"2048","Data Base Engineer",NA,NA,NA,NA,NA
+"2049","Autopsy Assistant",NA,NA,NA,NA,NA
+"2050","Software Executive",NA,NA,NA,NA,NA
+"2051","Nurse Mentor",NA,NA,NA,NA,NA
+"2052","Nurse II",NA,NA,NA,NA,NA
+"2053","Software Packager",NA,NA,NA,NA,NA
+"2054","Truck Stop Manager",NA,NA,NA,NA,NA
+"2055","Radiology Administrator",NA,NA,NA,NA,NA
+"2056","Physician Manager",NA,NA,NA,NA,NA
+"2057","State Registered Nurse",NA,NA,NA,NA,NA
+"2058","Senior Business Assistant",NA,NA,NA,NA,NA
+"2059","Occupational Health Registered Nurse",NA,NA,NA,NA,NA
+"2060","Assistant Administrative Officer",NA,NA,NA,NA,NA
+"2061","Substitute School Nurse",NA,NA,NA,NA,NA
+"2062","Medical Nurse",NA,NA,NA,NA,NA
+"2063","Airworthiness Engineer",NA,NA,NA,NA,NA
+"2064","Outpatient Nurse",NA,NA,NA,NA,NA
+"2065","Registry Nurse",NA,NA,NA,NA,NA
+"2066","Nursing Home Nurse",NA,NA,NA,NA,NA
+"2067","Staff Nurse III",NA,NA,NA,NA,NA
+"2068","Assistant Trainer",NA,NA,NA,NA,NA
+"2069","Chemo Nurse",NA,NA,NA,NA,NA
+"2070","Nurse Team Leader",NA,NA,NA,NA,NA
+"2071","Customer Relations Administrator",NA,NA,NA,NA,NA
+"2072","Medical Imaging Assistant",NA,NA,NA,NA,NA
+"2073","Managerial Assistant",NA,NA,NA,NA,NA
+"2074","Session Assistant",NA,NA,NA,NA,NA
+"2075","Diabetic Nurse",NA,NA,NA,NA,NA
+"2076","Nurse III",NA,NA,NA,NA,NA
+"2077","Nurse Investigator",NA,NA,NA,NA,NA
+"2078","Recovery Room Nurse",NA,NA,NA,NA,NA
+"2079","SCM Engineer",NA,NA,NA,NA,NA
+"2080","Extended Care Assistant",NA,NA,NA,NA,NA
+"2081","Nursing Officer",NA,NA,NA,NA,NA
+"2082","Correctional Registered Nurse",NA,NA,NA,NA,NA
+"2083","Lead Clinical Nurse",NA,NA,NA,NA,NA
+"2084","Radiology Nurse Manager",NA,NA,NA,NA,NA
+"2085","Nurse Assistant Manager",NA,NA,NA,NA,NA
+"2086","Neurology Nurse",NA,NA,NA,NA,NA
+"2087","Master of Nursing",NA,NA,NA,NA,NA
+"2088","File Manager",NA,NA,NA,NA,NA
+"2089","Registered School Nurse",NA,NA,NA,NA,NA
+"2090","Execution Manager",NA,NA,NA,NA,NA
+"2091","Float Pool Nurse",NA,NA,NA,NA,NA
+"2092","Perinatal Nurse",NA,NA,NA,NA,NA
+"2093","Rapid Response Nurse",NA,NA,NA,NA,NA
+"2094","HR Site Manager",NA,NA,NA,NA,NA
+"2095","Bistro Manager",NA,NA,NA,NA,NA
+"2096","Turnover Manager",NA,NA,NA,NA,NA
+"2097","Deputy Assistant Director",NA,NA,NA,NA,NA
+"2098","Regional Clinical Specialist",NA,NA,NA,NA,NA
+"2099","Software Engineer Level 2",NA,NA,NA,NA,NA
+"2100","Nurse Advocate",NA,NA,NA,NA,NA
+"2101","Registered Nurse Liaison",NA,NA,NA,NA,NA
+"2102","Associate Nurse",NA,NA,NA,NA,NA
+"2103","Ob Registered Nurse",NA,NA,NA,NA,NA
+"2104","Lactation Nurse",NA,NA,NA,NA,NA
+"2105","Competition Manager",NA,NA,NA,NA,NA
+"2106","On Call Nurse",NA,NA,NA,NA,NA
+"2107","Wound Specialist",NA,NA,NA,NA,NA
+"2108","Diabetes Nurse",NA,NA,NA,NA,NA
+"2109","Child Nurse",NA,NA,NA,NA,NA
+"2110","Skilled Nurse",NA,NA,NA,NA,NA
+"2111","Machine Vision Engineer",NA,NA,NA,NA,NA
+"2112","Peritoneal Nurse",NA,NA,NA,NA,NA
+"2113","Renal Nurse",NA,NA,NA,NA,NA
+"2114","Nursing Team Leader",NA,NA,NA,NA,NA
+"2115","Distribution Administrator",NA,NA,NA,NA,NA
+"2116","Trades Manager",NA,NA,NA,NA,NA
+"2117","Mountain Manager",NA,NA,NA,NA,NA
+"2118","Clerical Administrative",NA,NA,NA,NA,NA
+"2119","Ambulatory Registered Nurse",NA,NA,NA,NA,NA
+"2120","Home Health Nurse",26.88,28.06,28.7,30.24,27.76
+"2121","Nanny",13.1,14.83,15.63,16.72,16.36
+"2122","Personal Care Assistant (PCA)",11.07,11.5,11.88,12.09,13.13
+"2123","General Manager, Hotel",45320.94,49220.38,55078.95,64870.55,79460.04
+"2124","Direct Support Professional",11.76,12.06,12.39,12.87,12.95
+"2125","Personal Trainer",15.17,17.93,25.36,30.95,43.92
+"2126","Front Office Manager",35389.08,41220.43,46308.79,50263.14,46354.2
+"2127","Child Care / Day Care Worker",9.67,9.98,10.93,11.17,11.79
+"2128","Babysitter",10.12,11.2,12.53,14.36,12.7
+"2129","Concierge",13.83,14.35,15.06,15.58,15.95
+"2130","Porter",11.74,12.21,13.11,14.3,15.96
+"2131","Program Assistant (Unspecified Type)",15.75,16.41,16.45,17.3,17.7
+"2132","Funeral Director",39667.37,42551.25,47846.53,55398.29,58236.35
+"2133","Personal Care Attendant (PCA)",10.66,11.32,12.04,12.04,12.06
+"2134","Salon Manager",12.03,13.71,14.44,14.6,14.78
+"2135","Front Desk Manager",12.8,13.4,14.41,15.17,17.35
+"2136","Health Coach",18.36,19.98,22.12,22.89,25.31
+"2137","Hair Stylist",9.78,10.23,11.84,11.44,12.31
+"2138","Cosmetologist",9.69,10.7,11.78,12.61,14.57
+"2139","Flight Attendant",20.6,22.49,29.58,38.69,64.36
+"2140","Assistant General Manager, Hotel",39321.27,40229.89,44660.42,47832.14,47354.64
+"2141","Beauty Advisor",11.24,12.07,13.28,14.6,15.96
+"2142","Hairstylist",9.2,10.7,11.39,11.61,11.48
+"2143","Stylist",9.84,10.64,11.26,11.79,11.05
+"2144","Hotel Manager",40207.54,44964.44,50427.55,58885.53,67262.16
+"2145","Strength and Conditioning Coach",38477.37,39711.89,45618.58,49766.08,54044.94
+"2146","Childcare Worker",9.88,10.59,11.25,11.87,12.24
+"2147","Dog Groomer",10.86,12.07,14.74,15.55,17.25
+"2148","Funeral Director/Embalmer",35355.21,41567.41,48362.26,50044.66,54870.96
+"2149","Program Assistant, Non-Profit Organization",38981.3,39622.8,41375.85,44900.53,40000
+"2150","Child Care Provider",9.95,10.85,10.99,12.65,13.32
+"2151","Life Enrichment Coordinator",14.27,15.19,15.5,17.34,16.53
+"2152","Esthetician",13.21,13.93,15.75,18,19.4
+"2153","Hospitality Manager",46580.29,47962.55,54595.73,53878.6,57104.09
+"2154","Fitness Instructor",15.14,19.69,22,25.07,24.72
+"2155","Medical Esthetician",15.44,16.26,17.87,18.79,23.31
+"2156","Guest Services Manager",40057.59,41557.22,47869.45,50125.36,49142.5
+"2157","Dog Trainer",12.26,12.83,14.21,14.46,15.53
+"2158","Childcare Provider",9.81,10.12,11.36,12.12,11.22
+"2159","Spa Manager",43909.09,41400.43,44826.85,49158.2,47051.96
+"2160","Activities Coordinator",13.95,14.4,15.95,15.86,17.12
+"2161","Companion",10.9,11.63,12.77,14.74,13.84
+"2162","Shift Manager, Hotel Front Desk",10.64,11.31,11.61,11.79,13.8
+"2163","Barber",12.14,14.73,14.73,18,14.74
+"2164","Recreation Coordinator",14.59,15.64,16.42,21.83,20.76
+"2165","Makeup Artist",16.32,16.81,20.4,24.3,24.44
+"2166","Direct Care Provider",11.19,11.1,11.72,12.58,10.79
+"2167","Valet",10.32,10.68,10.91,13.88,10.5
+"2168","Kennel Technician",9.31,10.06,11.01,11.79,NA
+"2169","Dog Kennel Attendant",9.86,10.72,11.76,10.85,NA
+"2170","Fitness Manager",36938.25,41744.02,48092.07,46773.69,40591
+"2171","Yoga Instructor",20.78,24.1,25.17,35.75,30
+"2172","Animal Care Technician",13.44,14.1,14.73,15.82,21.95
+"2173","Care Provider",10.8,11.18,12.15,12.26,11.72
+"2174","Dog Bather",9.89,10.3,10.84,11.29,NA
+"2175","Professional Organizer",23,25.26,25.33,30.72,40
+"2176","Nurse Home Care",24.92,25.98,28.84,30.34,29.79
+"2177","Dog Walker",14.24,15,19.74,15,15.36
+"2178","Nail Technician",11.04,11.29,11.55,14.94,15.17
+"2179","Recreation Supervisor",38121.34,42259.48,47603.8,52196.24,61026.88
+"2180","Beauty Consultant",13.44,13.88,14.91,15.53,14.6
+"2181","Wellness Coach",13.1,16.21,19.84,26.49,55
+"2182","Daycare Assistant",9.91,10.27,11.19,12,11.47
+"2183","School Bus Monitor",10.64,11.19,11.66,12.5,12.75
+"2184","Aesthetician/Esthetician",13.79,14.59,15.46,19.7,20.17
+"2185","Animal Control Officer",13.52,14.59,15.63,17.97,20.99
+"2186","Hairdresser, Hairstylist, or Cosmetologist",9.17,9.72,10.23,10.49,12.1
+"2187","Daycare Provider",9.42,9.95,11.81,12.78,11.77
+"2188","Child Care Assistant",10.15,10.3,11.99,10.92,10.17
+"2189","Pet Groomer",10.85,11.91,13.54,15.4,16.59
+"2190","Resident Services Coordinator",16.89,17.89,19.04,20.9,19.43
+"2191","Assistant Golf Professional",11.08,12.15,13.61,14.02,12.21
+"2192","Exercise Specialist",15.52,16.52,19.7,22.24,21.54
+"2193","Guest Services Manager, Hotel",39507.25,39492.03,43250.17,47605.8,52116.3
+"2194","Hairdresser",12.77,11.47,13.85,10.86,13.85
+"2195","Assistant Front Office Manager",39012.47,44410.99,44382.75,42954.73,49008.89
+"2196","Spa Director",49440.55,60483.49,62854.57,61277.16,NA
+"2197","Doorman",15.79,16.93,19,20.13,14.54
+"2198","Animal Caretaker",11.87,12.93,12.27,14.24,15.25
+"2199","Esthetician (Non-Medical)",12.21,14.59,14.83,15.43,20
+"2200","Licensed Medical Aesthetician",15.01,16.16,18.74,19.88,18.68
+"2201","Camp Counselor",9.18,9.67,11.1,11.14,NA
+"2202","Personal Care Provider",10.21,10.21,11.06,12.17,12.54
+"2203","Slot Technician",13.94,14.44,16.61,19.37,20.66
+"2204","Zookeeper",11.02,12.38,14.78,16.52,18.43
+"2205","In-Home / Live-In Babysitter",10.81,12.21,12.14,14.55,15.1
+"2206","Casino Shift Manager",46451.61,47797.8,51264.17,55955.06,59926.79
+"2207","Case Management Coordinator",17.98,18.86,19.9,22.63,22.24
+"2208","Head Golf Professional",50413.93,50019.81,51287.1,54981.82,NA
+"2209","Bellman",9.56,10.09,13,11.5,14.24
+"2210","Private Duty Companion",12.21,12.8,12.85,14.43,14.87
+"2211","Animal Technician",15.17,15.26,15.56,19.53,23.94
+"2212","Tour Guide",11.9,12.18,14.58,14.87,17.69
+"2213","Nursery Worker",9.95,11.86,12.22,14.42,15
+"2214","Direct Support Worker",9.98,10.84,11.37,11.78,12.12
+"2215","Fitness Specialist",14.79,15.21,18.15,22.63,25
+"2216","Motel Manager",23781.01,26693.56,28000,33657.42,35492.96
+"2217","Nanny or Aupair",14.74,14.89,15.81,19.37,19.51
+"2218","Executive Steward",49120.96,58722.84,63434.47,66988.85,NA
+"2219","Pilates Instructor",24.72,25.53,31.75,36.57,37.34
+"2220","Security Officer",12.74,13.24,14.31,14.54,14.91
+"2221","Security Guard",12.37,12.96,13.21,13.97,14.69
+"2222","Police or Sheriff's Patrol Officer",47028.01,49248.66,54854.18,63843.35,68196.21
+"2223","Intelligence Analyst",57853.92,64885.52,74330.55,88278.28,92895.47
+"2224","Correctional Officer",16.26,16.98,18.32,19.62,21.76
+"2225","Fire Fighter",42565.57,43471.8,49443.01,60805.5,72420.75
+"2226","Security Officer Armed",14.28,15.2,16.25,17.43,18.76
+"2227","Lifeguard",9.89,10.29,11.32,12.34,14
+"2228","Corrections Officer",16.77,17.93,20.29,23.78,26.81
+"2229","Deputy Sheriff",40370.51,42445.1,44601.94,50375.94,59364.86
+"2230","Flagger",13.29,14.22,15.07,16.27,21.5
+"2231","Police Officer",49159.24,49633.13,56225.38,62045.16,77379.59
+"2232","Police Sergeant",58926.73,59670.56,70819.38,81150.74,NA
+"2233","Detention Officer",16.54,17.23,20.74,22.17,26.76
+"2234","Armed Security Guard",13.49,14.97,15.37,16.63,17.56
+"2235","Asset Protection Associate",13.75,14.73,15.11,16.45,15.9
+"2236","Police Chief",60000,56064.18,63963.64,84608.48,NA
+"2237","Background Investigator",18.02,18.91,20.73,25.05,30
+"2238","Fire Sprinkler Inspector",17.11,19.57,24.73,26.81,27.92
+"2239","Detective or Criminal Investigator",49067.48,50066.92,61360.15,71921,71799.78
+"2240","Fire Chief",68467.15,68319.9,76102.45,86765.21,NA
+"2241","Detective",59665.14,60227.55,62755.99,71238.04,82458.35
+"2242","Asset Protection Specialist",13.66,14.52,15.49,15.87,16.76
+"2243","Security Officer/Guard",11.85,13,13.7,13.81,14.86
+"2244","Senior Intelligence Analyst",83629.91,94092.84,97134.85,106774.23,NA
+"2245","Asset Protection Manager",52901.34,51642.29,53255.82,58396.18,61082.67
+"2246","FBI Agent",60000,62750.72,67228.84,79765.55,99712.21
+"2247","Fire Inspector",17.32,18.71,24.99,26.93,25.23
+"2248","Police Lieutenant",64000,65596.47,76797.39,92133.29,NA
+"2249","Private Detective or Investigator",18,19.85,24.88,29.66,30.44
+"2250","Special Agent (Federal)",63444.42,65020.65,82942.05,110007.21,133368.79
+"2251","Police Captain",75000,67202.42,73163.51,90892.17,NA
+"2252","Fire Captain",52981.13,49948.31,65720.46,79572.28,NA
+"2253","Loss Prevention Officer",13.21,14.13,15.39,15.6,15.56
+"2254","State Trooper",48294.52,49074.7,61640.52,70140.42,72526.09
+"2255","Correctional Officer / Jailer",15.46,15.96,15.24,18.94,22.99
+"2256","Loss Control Consultant",60766.53,64783.41,74225.64,87623.19,84497.04
+"2257","Loss Prevention Associate",12.49,13.53,15.25,15.02,16.15
+"2258","Police Detective",56301.5,58757.36,63354.04,64606.16,85696.3
+"2259","Loss Prevention Investigator",15.03,16.4,18,17.2,19.07
+"2260","Loss Prevention Agent",12.96,14.57,16.28,17.28,17
+"2261","Armored Car Guard & Driver",14.48,14.61,16,18,15
+"2262","Fire Lieutenant",44004.48,55320.76,60768.51,80450.77,NA
+"2263","Senior Corrections Officer",43477.87,42324.39,46288.25,79562.69,NA
+"2264","First-Line Supervisor / Manager of Correctional Officers",35894.65,43445.08,44205.39,61244.56,NA
+"2265","Fire Marshal",42000,56001.81,63479.47,64671.71,75853.39
+"2266","Border Patrol Agent",49934.4,54383.32,73379.31,92378.91,109165.1
+"2267","Fire Safety Director",20.66,23.06,23.12,21.3,NA
+"2268","Surveillance Operator",13.4,14.29,15.44,16,19
+"2269","Intelligence Officer",68009.11,62167.69,89615.11,104575.62,114355.12
+"2270","Surveillance Technician",16.2,17.14,19.68,21.34,28.29
+"2271","Intelligence Specialist",65776.73,76034.49,95710.36,92960.78,NA
+"2272","Jailer",13.26,14.61,15,14,16.01
+"2273","Campus Security Officer",13.12,14.36,15.25,17.56,17
+"2274","Deputy Chief, Police Department",69029.6,49000,82698.91,88287.17,NA
+"2275","Immigration Officer",47980.05,58116.85,72977.13,72831.96,85000
+"2276","Gaming Surveillance Officer or Gaming Investigator",13.29,13.62,15.74,17.54,24.47
+"2277","School Crossing Guard",12.58,14.17,12.21,11.45,16
+"2278","Agriculture Specialist",48000,50152.84,50949.21,69919.27,70000
+"2279","Police Investigator",50000,55877.22,62465.06,65330.29,NA
+"2280","Homicide Detective",59780.5,73485.26,75090.5,82887.51,107405.79
+"2281","Senior Loss Control Specialist",56324.68,79250.96,84362.07,88647.37,NA
+"2282","Fireman",40468.61,48605.31,47864.73,51000,49434.82
+"2283","Surveillance Supervisor",42965.44,45470.45,49017.49,NA,NA
+"2284","Deputy Fire Chief",71368.47,90471.81,NA,NA,NA
+"2285","Parking Enforcement Worker",12.33,12.7,16.68,15.01,14.23
+"2286","Fire Inspector / Investigator",52618.28,53343,65000,78797,NA
+"2287","Patrolman",16.83,19.01,18.75,24.06,NA
+"2288","Bailiff",15,15.17,14.71,16.27,23.5
+"2289","Crossing Guard",11.83,11.24,12.05,12.93,16.69
+"2290","Asset Protection Detective",13.32,14.15,14.83,15.72,NA
+"2291","Bodyguard",104000,53457.94,67563.44,104000,65000
+"2292","Policeman",39614.99,46494.62,40000,51997.09,43960.74
+"2293","Bouncer",10.98,13.61,14.74,19,NA
+"2294","Constable",42500,37500,51000,40312.03,NA
+"2295","Security Guard Gate",12.32,13,11.55,NA,NA
+"2296","First-Line Supervisor / Manager of Police and Detectives",152500,53959.47,84724.54,NA,NA
+"2297","Game Warden",50868.24,49131.76,39300,47862.36,61984.28
+"2298","Supervisory Special Agent",98263.52,102894.55,151086.47,NA,NA
+"2299","Bail Bonding Agent",12.12,12.75,15.25,NA,NA
+"2300","Assistant Fire Chief",73788.01,1e+05,NA,NA,NA
+"2301","U.S. Marshal",44949.74,52380.95,62400,60000,NA
+"2302","Customs Officer",38000,61221,72876.71,91270.08,86575
+"2303","Prison Guard",35000,37495,49434.82,48185.56,63500
+"2304","Skip Tracer",12.48,13.69,14.58,16.42,16.22
+"2305","Security Screener, Airline",13.02,12.5,12.21,18.88,NA
+"2306","Law Enforcement Park Ranger",49000,46000,48600,92000,NA
+"2307","Canine Enforcement Officer (K-9 Enforcement Officer)",30000,64000,75500,NA,NA
+"2308","Guard Gate",10.81,13,NA,NA,NA
+"2309","Ski Patroller",14.53,18.27,17.41,NA,NA
+"2310","Prison Officer",23007.85,36000,31100.38,NA,NA
+"2311","Bounty Hunter",58958.11,50000,NA,NA,NA
+"2312","Special Weapons and Tactics (SWAT) Team Member",11.49,10.75,14.62,20,NA
+"2313","Sky Marshal or Air Marshal",51766.17,65000,89776.52,79500,NA
+"2314","Surveillance System Monitor",13.48,17.39,15,19.25,NA
+"2315","County Deputy, Civil Service",73878.38,66043,62000,94500,NA
+"2316","Fish and Game Warden",23.97,25.68,NA,NA,NA
+"2317","Passport Specialist",40000,NA,NA,NA,NA
+"2318","Animal Control Worker",12.14,12.14,NA,NA,NA
+"2319","Bonding Agent",45000,NA,NA,NA,NA
+"2320","Cashier",9.99,10.35,11.03,11.53,11.85
+"2321","Sales Associate",10.76,11.2,11.99,12.87,13.41
+"2322","Retail Store Manager",41243.19,44207.74,49235.41,53213.17,57505.69
+"2323","Retail Store Assistant Manager",12.25,13.17,14.65,15.13,15.34
+"2324","Retail Sales Associate",10.85,11.28,12.09,12.82,13.94
+"2325","Assistant Store Manager",12.25,13.47,15.33,16.25,16.56
+"2326","Sales Consultant",43643.08,49085.95,56162.94,63304.79,64877.29
+"2327","Parts Manager",40062.73,43097.14,49556.66,52799.32,56059.15
+"2328","Retail Shift Supervisor",12.7,13.23,13.97,14.48,15
+"2329","Retail Manager",39041.4,41246.87,45891.66,50599.11,54447.37
+"2330","Key Holder",10.32,11.37,12.55,12.24,12.09
+"2331","Retail Sales Manager",14.26,15.06,16.35,17.36,18.42
+"2332","Customer Service Sales Associate",11.24,11.85,12.33,13.25,14.04
+"2333","Department Manager, Retail Store",13.31,14.45,15.73,16.09,18.5
+"2334","Automobile Service Advisor",34716.17,38615.49,42708.86,48368.93,49571.35
+"2335","Parts Counterman",12.52,13.73,14.89,16.14,16.66
+"2336","Store Manager (Unspecified Type)",37978.39,44426.15,49297.53,51507.19,50932.69
+"2337","District Manager, Retail",61413.33,63382.93,71533.62,80200.47,85331.44
+"2338","Head Cashier",12.7,13.09,13.63,14.17,14.22
+"2339","Sales Clerk/Cashier",10.34,10.89,11.35,11.89,12.73
+"2340","Retail Assistant Manager",12.54,13.64,14.52,15.4,15.43
+"2341","Retail Associate",11.04,11.23,12.2,12.68,12.58
+"2342","Parts Specialist",11.24,13.2,14.81,15.61,17.53
+"2343","Sales Team Leader, Retail",12.27,13.02,14.64,17.14,17.48
+"2344","Retail Cashier",10.07,10.7,11.33,11.92,11.47
+"2345","Courtesy Clerk",10.45,10.82,10.33,11.33,10.87
+"2346","General Store Manager",40972.74,44476.59,48528.9,56136.23,59703.82
+"2347","Convenience Store Manager",39119.71,39884.71,40949.49,44122.75,47995.1
+"2348","Service Writer",12.92,14.4,15.31,15.65,17.42
+"2349","Customer Service Cashier",10.67,11.14,11.35,11.85,12.08
+"2350","Retail Supervisor",14.19,14.83,15.51,16.32,17.14
+"2351","Store Team Leader",10.81,12.48,14.65,15.58,17.38
+"2352","Retail Department Supervisor",15.34,15.95,17.07,18,19.26
+"2353","Service Manager",51626.77,57946.15,65322.05,71193.77,NA
+"2354","Produce Manager (Grocery)",14.9,14.9,16.07,18.49,18.99
+"2355","Meat Manager",14.77,18.18,19.22,20.64,21.18
+"2356","Grocery Store Manager",41407.6,49173.12,53956.56,60032.52,63052.91
+"2357","Grocery Stocker",11.15,11.86,12.24,13.1,14.4
+"2358","Keyholder",10.12,11.18,12.46,12.09,10.83
+"2359","Lead Cashier",10.73,11.36,11.68,12.13,12.26
+"2360","Retail Sales Representative",11.16,12.8,13.93,15.04,14.74
+"2361","Front End Supervisor",11.79,12.21,13.75,15.22,15.38
+"2362","Parts Advisor",12.8,14.4,15,15.57,17.38
+"2363","Floor Supervisor",11.4,14.17,16.48,18.59,17.7
+"2364","Supermarket Department Manager, Dairy & Frozen Foods",12.1,12.93,13.72,15.66,18.22
+"2365","Automotive Retail Salesperson",30663.46,35153.15,42729.32,52116.3,58554.89
+"2366","Merchandise Coordinator",14.03,13.4,13.62,13.22,15.17
+"2367","Sales Operations Coordinator",44629.76,48270.05,53399.41,54636.67,55000
+"2368","Sales Support Associate",12.48,13.59,13.23,18.33,18.53
+"2369","Front End Manager",10.32,13.42,14.91,16.19,16.7
+"2370","Retail Store Manager, Grocery",14.56,16.76,18.2,18.97,NA
+"2371","Assistant Grocery Store Manager",13.17,14.74,15.63,16.29,17.49
+"2372","Retail Sales Assistant",11.64,12.38,12.69,12.75,13.72
+"2373","Sales Clerk",9.7,10.41,11.71,11.78,12.85
+"2374","Retail Department Manager",13.52,14.2,15.36,16.65,17.31
+"2375","Retail Sales Specialist",11.93,12.48,14.06,15.64,16.24
+"2376","Regional Manager, Retail",54788.37,63581.92,71910.51,83873.14,92096.18
+"2377","Sales Consultant, Jewelry",10.22,11.04,13.58,13.7,15.72
+"2378","Showroom Manager",39547.85,50781.54,53919.47,63749.28,51188.43
+"2379","Sales Clerk, Retail Store",10.62,10.8,11.49,12.25,11.26
+"2380","Produce Department Manager (Grocery)",12.67,14.95,16.53,16.45,19.32
+"2381","Floral Manager",11.95,14.04,14.67,15.48,16.52
+"2382","Liquor Store Manager",12.75,13.35,13.97,15.1,16
+"2383","Counter Manager",13.05,16.24,16.7,17.23,17.58
+"2384","Gas Station Manager",11.63,12.42,13.89,14.62,15.04
+"2385","Assistant Produce Manager",14.19,15.08,16.82,17.28,NA
+"2386","Sales Consultant, Automobile/Cars",29990.02,33194.74,36316.31,40000,48500
+"2387","Branch Manager, Retail",46914.89,58978.5,62280.18,60972.9,61099.76
+"2388","Front End Clerk",10.99,11.17,12.24,13.57,12.27
+"2389","Supermarket Department Manager, Bakery & Delicatessen (Deli)",12.29,14.05,15.56,16.1,17.82
+"2390","Assistant Department Manager",13.61,15.3,16.25,17.3,18.49
+"2391","Merchandising Supervisor",14.42,14.97,15.47,16.65,16.98
+"2392","Branch Manager, Rental Services",41546.37,49331.2,54495.41,75029.71,78099.12
+"2393","Sales Consultant, Retail",12.05,12.53,13.76,14.59,18
+"2394","Automobile Service Writer",12.82,13.55,13.7,14.44,17.41
+"2395","Retail Store Manager, Shoes",38000,41066.96,40968.2,52276.88,52327.24
+"2396","Cage Cashier",11.97,12.31,12.81,14.79,15.36
+"2397","Supermarket Store Manager",62630.68,68784.46,71250,75922.11,NA
+"2398","Seafood Manager",12.95,16.05,16.16,16.89,17.07
+"2399","Store Supervisor",14.5,15,18.59,NA,NA
+"2400","Apple Genius",17.35,20.3,22.83,23.3,NA
+"2401","Retail Store Assistant",10.17,11.19,12.03,12.59,14.62
+"2402","Beauty Counter Manager",12.19,15.52,16.62,20.09,20.8
+"2403","Jewelry Store Manager",46668.02,48539.79,52058.84,56344.55,NA
+"2404","Optician, Retail Store Manager",19.08,21.49,24.6,24.41,NA
+"2405","Book Seller",9.18,9.65,9.84,11.9,9.5
+"2406","Department Manager, Hardware Store",13.99,14.9,14.65,15.35,17
+"2407","Food Checker",11.16,12.16,13.45,14.08,17.81
+"2408","Supermarket Department Manager, General",12.88,14.85,17.21,17.2,19.55
+"2409","Supermarket Department Manager, Meat",15.04,16.7,18.37,20.26,NA
+"2410","Budtender",13.18,13.69,13.5,NA,NA
+"2411","Bridal Consultant",11.95,12.04,13.23,13.76,14
+"2412","Sales Operations Lead",47750,66189.03,78527.67,115000,146250
+"2413","Gift Shop Manager",13.36,14.08,14.6,15.03,18.31
+"2414","Assistant Store Director",55350,53907.12,59153.27,60996.57,NA
+"2415","Bookstore Manager",34107.97,36203.04,40669.21,46451.61,NA
+"2416","Assistant Front End Manager",12.56,14.1,15.71,19.38,NA
+"2417","Checker Retail",11.49,11.82,12.35,16.25,NA
+"2418","Salesperson, Fashion/Apparel/Clothing",11.14,11.24,10.91,10.76,12.9
+"2419","Sales Consultant, Mobile Telecommunications",11.93,11.94,16.32,15,NA
+"2420","Account Manager",45432.15,52281.51,61623.37,63871.97,65415.07
+"2421","Account Executive",44421.47,51336.74,62315.91,70894.47,77916.49
+"2422","Inside Sales Representative",40526,43653.81,47397.19,49799.06,52268.72
+"2423","Regional Sales Manager",56279.39,66652.46,79089.26,90725.9,97733
+"2424","Outside Sales Representative",42598.88,46870.86,51621.82,55046.05,59836.77
+"2425","Senior Account Manager",56341.57,67119.22,74398.04,80681.08,81301.69
+"2426","Marketing Assistant",15.44,15.99,17.68,19,19.01
+"2427","Sales Engineer",60901.93,69486.16,80814.22,89768.61,90622.98
+"2428","Vice President (VP), Sales",95287.23,101976.83,124249.61,147919.32,154572.5
+"2429","Insurance Agent",34645.74,36279.86,40079.33,44141.98,48605.17
+"2430","Director of Sales",56193.98,64466.44,86148.77,105342.51,109945.11
+"2431","Account Coordinator",39545.68,41282.96,48367.21,49018.8,51252.61
+"2432","Sales Director",61277.16,71318.35,95705.52,113260.03,122356.49
+"2433","Account Manager Sales",46429.86,51797.59,60101.45,66338,69245.38
+"2434","Senior Account Executive",62244.15,67983.38,86068.92,91689.71,NA
+"2435","Operations Support Specialist",45973.46,49977.12,52062.36,54991.93,60029.35
+"2436","National Sales Manager",55855.61,65708.1,80313.53,93758.01,102748.21
+"2437","Sales Specialist",14.68,15.86,16.62,17.96,17.83
+"2438","General Sales Manager",43893.44,51211.92,60894.47,73316.32,79936.17
+"2439","Sales Operations Manager",62060.61,73949.44,86966.19,91277.74,96268.11
+"2440","Inside Sales Manager",49560.92,58158.11,62800.18,66132.68,70551.59
+"2441","Area Sales Manager",47358.39,57097.68,67695.1,73621.59,78965.66
+"2442","Insurance Sales Agent",32691.98,35661.36,41127.11,42577.86,50631.95
+"2443","Business Development Representative",44160.32,47027.92,51876.59,57915.88,65000
+"2444","Sales Development Representative (SDR)",44084.88,45417.37,50124.25,51958.91,46740.08
+"2445","Key Account Manager",58422.77,65045.15,75503.02,81157.97,88686.76
+"2446","Vice President (VP), Sales & Marketing",95388.11,116033.23,136240.55,147998.37,NA
+"2447","Relationship Banker",17.42,18.2,18.55,19.19,20.28
+"2448","National Account Manager",47573.38,68859.84,86300.98,96702.67,106980.38
+"2449","Sales Support Specialist",16.63,17.56,19.79,20.74,21.31
+"2450","Territory Sales Manager",53941.47,61303.18,67438.12,70326.16,75143.77
+"2451","Sales and Marketing Manager",44279.63,50722.54,60809.01,71050.05,78721.4
+"2452","Technical Account Manager",65959.98,72573.75,90992.81,117349.32,131060.78
+"2453","District Sales Manager",61671.95,63829.96,72030.9,79507.03,88680.26
+"2454","Territory Sales Representative",46099.34,50161.67,56328.77,62814.94,65000.84
+"2455","Insurance Producer",30707.92,34343.08,38862.06,44024.73,55675.98
+"2456","Account Specialist",45240.84,49242.33,50007.31,54044.97,57580.56
+"2457","Territory Manager",50574.81,54797.83,62067.14,69393.11,70100.76
+"2458","Sales Manager",46242.26,55855.39,62004.7,67011.21,81272.66
+"2459","Account Manager, Commercial Lines",41020.19,45295.28,50845.81,54692.45,59361.06
+"2460","Personal Shopper",11.83,12.27,13.76,13.1,13.11
+"2461","Leasing Consultant",14.79,15.18,16.14,15.71,14.66
+"2462","Sales Operations Analyst",57140.51,62091.41,69853.01,71007.63,79692.2
+"2463","Customer Sales Representative (CSR)",11.58,13.51,14.12,14.08,15.32
+"2464","Sales Representative",42762.89,46202.85,49842.24,58320.43,60299.72
+"2465","Senior Sales Executive",50868.24,60575.77,74492.18,88880.85,92553.67
+"2466","Salesperson / Salesman / Saleswoman",38270.42,40393.29,48955.58,54840.92,56466.33
+"2467","Insurance Broker",49113.27,57956.69,71365.96,83196.68,85882.38
+"2468","Business Development Executive",49933.19,55581.7,70600.89,104570.19,137215.41
+"2469","Strategic Account Manager",57621.15,64294.31,79941.43,92152.2,103079.53
+"2470","Leasing Agent, Real Estate",13.79,14.5,15.76,15.83,16.29
+"2471","Director of Sales Operations",81569.99,99612.26,117283.43,126840.37,133467.08
+"2472","Sales Account Executive",46389.01,53483.2,65246.36,64678.76,65839.4
+"2473","Sales Representative, Pharmaceuticals",55433.58,68829.02,82499.37,99559.67,112448.44
+"2474","Regional Sales Director",70985.92,79833.8,95559.19,111395.28,122134.45
+"2475","Inside Sales Specialist",45506.43,45848.66,49903.84,50371.97,56474.06
+"2476","Market Manager",50504.61,63879.67,69913.32,74628.56,87474.9
+"2477","Senior Vice President (SVP), Sales",142500,157432.27,183032.82,190339.26,NA
+"2478","International Sales Manager",49999.33,60933.09,75671.23,91246.54,104316.85
+"2479","Account Manager, Insurance",41067.29,45853.69,49565.06,52673.55,53219.27
+"2480","Senior Sales Engineer",96332.79,103966.13,116332.22,118926.46,NA
+"2481","Marketing Intern",14.22,14.62,19.65,NA,NA
+"2482","Financial Service Representative (FSR)",16.98,16.93,17.54,17.51,18.53
+"2483","Assistant Account Executive",40792.93,41666.97,44710.99,44053.54,NA
+"2484","Sales Operations Specialist",49722.27,52399.41,59680.93,63338.29,75000
+"2485","Registered Client Associate",48385.7,50841.56,51956.03,53508.53,57301.49
+"2486","Inside Sales Associate",16.28,16.48,17.88,18.57,17.84
+"2487","Technical Sales Representative (TSR)",54953.43,58109.97,68703.06,71332.12,74086.53
+"2488","Travel Agent",13.97,14.76,15.58,16.98,19.4
+"2489","Technical Sales Engineer",61092.31,68777.68,82371.54,96949.39,101702.68
+"2490","Marketing Representative",40880.58,47811.37,55403.49,59103.17,58716.16
+"2491","Customer Account Manager",48043.67,52061.81,60248.89,70247.11,62420.73
+"2492","Sales & Marketing Assistant",15.35,15.93,17.84,17.33,18.02
+"2493","Financial Services Representative",16.42,17.17,17.62,19.18,18.13
+"2494","Insurance Sales Representative",29472.01,33459.04,39792.28,41393.5,45388.73
+"2495","Personal Lines Manager (Insurance)",39547.85,40771.57,47176.47,53813.15,59194.42
+"2496","Sales Assistant, Inside",15.16,15.82,17.94,18.02,16.06
+"2497","Lead Sales Associate",9.29,9.99,10.28,10.64,10.56
+"2498","Route Sales Representative",45750.11,45238.2,51188.64,55223.96,53024.59
+"2499","Branch Sales Manager",50000,59829.74,60566.66,66345.76,75196.56
+"2500","Right of Way Agent",49913.53,57684.37,69045.36,76021.16,76631.26
+"2501","Medical Device Sales Representative",49116.59,54006.66,73211.45,76924.72,77354.25
+"2502","Sales Support Manager",49115.21,56608.84,64935.01,71689.72,79668.88
+"2503","Sales Representative, Wholesale and Manufacturing, (but not Technical and Scientific Products)",40135.64,45110.76,51255.95,59108.49,60034.39
+"2504","Real Estate Agent",40488.2,46968.41,51343.4,59757.04,68467.15
+"2505","Regional Account Manager",50288.58,56348.15,66562.84,77833.08,81971.7
+"2506","Sales Advisor",12.52,12.95,15.01,17.3,18.25
+"2507","Associate Account Manager",44337.27,50328.88,54713.1,57470.77,66648
+"2508","Account Executive, Inside Sales",39012.05,45387,47354.53,50393.02,52345
+"2509","Assistant Sales Manager",40474.36,48017.94,53138.64,56365.65,57860.28
+"2510","Associate Director, Sales and Marketing",80006.98,95485.14,118463.18,147974.63,NA
+"2511","Group Sales Manager",39386.02,48545.4,56374.02,63932.48,60000
+"2512","Real Estate Broker",43443.21,49409.91,60343.2,63733.96,61190.09
+"2513","Sales Manager, North America",48430.48,58322.1,79963.49,101326.92,102400.95
+"2514","National Sales Director",65172.41,92561.87,101519.5,121028.37,130235.73
+"2515","Warranty Manager",50330.4,50278.13,58285.11,63040.8,68852
+"2516","Channel Sales Manager",59321.78,69163.26,78579.99,95698.84,112338.95
+"2517","Senior Sales Associate",10.19,12.44,13.47,14.02,17.37
+"2518","Sales Representative, Industrial Product",46268.23,50683,59179.5,64050.14,60678.22
+"2519","Right of Way Agent",49913.53,57684.37,69045.36,76021.16,76631.26
+"2520","Marketing Specialist",45276.64,50481.15,56644.3,61823.32,66880.25
+"2521","Research Scientist",78191.29,79135.85,86066.26,90991.34,100560.64
+"2522","Research Analyst",51764.66,56578.74,65494.06,70593.08,72159.33
+"2523","Clinical Research Coordinator (CRC)",43031.11,49600.55,56979.15,61348.56,68674.64
+"2524","Chemist",49153.01,54824.99,63764.28,70203.46,77558.77
+"2525","Laboratory Manager",50524.85,59288.33,68956.6,79350.39,84078.04
+"2526","Environmental Scientist",44236.02,50032.28,59985.71,70843.55,87170.2
+"2527","Clinical Coordinator",17.89,22.35,27.36,26.57,33.91
+"2528","Research Associate, Biotechnology",54109.11,60761.37,64875.41,67411.75,74542.08
+"2529","Marketing Analyst",51208.8,56477.86,67854.9,71037.82,76793.88
+"2530","Research Scientist, Biotechnology",83041.04,86625.81,90889.67,98055.05,98799.81
+"2531","Business Development Associate",48459.96,53658.66,68273.27,62419.28,66968.04
+"2532","Environmental Health & Safety (EHS) Specialist",51548.41,61533.44,69215.48,72487.67,74252.49
+"2533","Senior Research Associate",63926.81,70191.29,75916.13,81795.74,86344.07
+"2534","Senior Research Scientist, Biotechnology",98799.12,103110.86,108542.62,112053.49,118060.55
+"2535","Clinical Research Associate (CRA)",57921.54,67923.49,76776.51,80253.85,84497.04
+"2536","Medical Laboratory Scientist",24.32,25.41,27.73,29.74,32.85
+"2537","Laboratory Assistant",14.99,15.58,16.94,18.04,18.47
+"2538","Content Strategist",48268.98,56552.09,70620.36,85185.5,103225.71
+"2539","Marketing Communications Specialist",43325.28,50285.91,56992.85,61517.14,64646.64
+"2540","Clinical Laboratory Scientist",26.42,30.51,35.95,39.41,37.96
+"2541","Pricing Analyst",52729.56,58239.43,64137,62050.7,73544.91
+"2542","Social Media Specialist",39450.63,45237.29,51111.3,57325.12,60000
+"2543","Clinical Therapist",42576.48,47404.43,53179.86,57451.89,60552.2
+"2544","Psychologist",67862.43,73869.32,83868.85,91361.76,96421.44
+"2545","Senior Research Scientist (Unspecified Type)",94734.97,99709.05,103539.34,109540.58,121676.5
+"2546","Clinical Psychologist",70145.83,77416.18,85304.1,92147.6,102253.26
+"2547","Postdoctoral Research Associate",51083.49,51351.13,51973.44,54372.48,51188.82
+"2548","Product Analyst",61561.36,68464.32,74015.44,76295.77,78021.67
+"2549","Analytical Chemist",48294.99,53359.25,62132.19,69749.89,82055.58
+"2550","Staff Scientist",54144.98,67762.12,87249.74,101194.16,109382.91
+"2551","Associate Research Scientist",59810.15,64251.36,71525.1,77356.04,79253.96
+"2552","Research & Development (R&D) Manager",76430.9,81087.38,99718.64,111662.77,118147.94
+"2553","Geologist",49234.5,54119.89,67155.29,79768.6,97140.83
+"2554","Board Certified Behavior Analyst",58202.58,63138.35,67029.21,70435.74,69760.05
+"2555","Chemical Laboratory Technician",16.98,18.17,21.2,22.74,25.35
+"2556","Principal Scientist",94884.86,106610.74,120530.61,131508.1,136980.48
+"2557","Sr. Marketing Specialist",64141.31,63517.14,68713.68,72096.93,73350.22
+"2558","Sales Analyst",51252.98,57595.66,64240.54,66593.88,66035.98
+"2559","Marketing Strategist",45963.36,55477.75,67160.51,76244.53,72217.9
+"2560","Environmental Consultant",48189.84,54157.53,64704.09,78240.31,111910.13
+"2561","Urban Planner",48178.89,54870.89,64380.44,77961.87,85122.01
+"2562","Quality Assurance (QA) Associate",17.26,18.4,19.19,20.27,18.08
+"2563","Environmental Specialist",43423.3,50912.84,64475.15,74447.04,90572.5
+"2564","Researcher, Scientific",55019.68,58339.79,72665.31,83274.63,100330.15
+"2565","Marketing Consultant",41484.23,55622.19,73494.33,86354.74,78364.46
+"2566","Environmental Health & Safety (EHS) Coordinator",51747.05,56181.38,65432.21,65193.84,72590.66
+"2567","Environmental Technician",15.15,15.84,14.73,17.36,17.88
+"2568","School Psychologist",55893.12,58293.03,64787.95,75028.18,80519.63
+"2569","Quality Analyst",51219.79,56104.27,62147.01,65168.03,67632.21
+"2570","Research Coordinator",43635.45,48412.78,56111.84,61096.4,77031.74
+"2571","Market Research Manager",57464.96,70715.03,85751.51,96121.85,107913.47
+"2572","Microbiologist",43885.49,51303.51,59108.66,70960.13,69242.99
+"2573","Research Director",53000,81470.21,99514.66,113269.4,122143.27
+"2574","Research and Development (R&D) Lab Technician",17.47,18.37,20.72,22.95,26.16
+"2575","Transportation Planner",53798.92,58655.56,66484.81,66708.79,71315.68
+"2576","Quality Control Analyst",48769.84,54973.03,65835.22,64090.98,72385.15
+"2577","Market Research Analyst",50220.15,55116.92,64527.36,76858.58,80286.54
+"2578","Clinical Research Coordinator",44127.13,49049.74,53846.89,58974.86,62400
+"2579","Food Scientist",56089.96,63094.7,73189.52,81621.44,87044.65
+"2580","Product Specialist, (Unspecified Type)",51184.96,60602.79,68353.47,73816.88,77002.77
+"2581","Senior Research Analyst",58887.56,65714.7,74504.8,88607.42,113208.52
+"2582","Psychotherapist",47311.82,53431.8,59804.36,64112.54,66691.15
+"2583","Quality Control (QC) Chemist",45669.13,50723.12,61291.35,68246.7,66629
+"2584","Research & Development (R&D) Director",97862.21,115711.75,142483.78,149544.58,NA
+"2585","Sr. Chemist",80748.41,76385.92,77733.61,82266.86,86610.96
+"2586","Epidemiologist",54546.89,62196.68,77966.41,88905.08,94854.35
+"2587","Behavior Therapist",16.39,17.51,20.09,21.62,24
+"2588","Senior Clinical Research Associate (CRA)",73935.46,94577.41,104542.48,116978.35,122164.45
+"2589","Senior Marketing Analyst",64632.52,73574.17,82037.27,86406.23,80884.45
+"2590","Research Chemist",61278.05,62192.61,68861.93,79692.33,89234.47
+"2591","Digital Marketing Analyst",46014.55,53151.81,63775.51,73000,NA
+"2592","Economist",59978.56,72421.37,94805.57,98822.67,123387.44
+"2593","Bioinformatics Scientist",87068.19,91050.58,105856.28,112262.77,121000
+"2594","Staff Geologist",46513.57,53101.25,59570.82,75075.69,103000
+"2595","Clinical Project Manager",66572.24,76951.92,90019.82,112018.84,134060.91
+"2596","Behavior Analyst",57129.8,60621.7,66187.8,69999.15,70824.57
+"2597","Environmental Manager",51521,65361.9,79657.48,92322.11,103229.17
+"2598","Research Associate, Molecular Biology",49146.01,51672.7,55530.07,57111.04,72887.65
+"2599","Sr. Pricing Analyst",64081.61,73347.68,82013.07,86626.48,88621.68
+"2600","Laboratory Director",77227.35,76661.59,86187.81,100415.82,105775.46
+"2601","Clinical Research Manager",67817.59,70347.29,77099.7,85229.89,88613.11
+"2602","Product Marketing Specialist",55840.47,60329.8,70309.07,71507.74,75000
+"2603","E-mail Marketing Specialist",45524.4,53351.6,60584.97,62400,NA
+"2604","Project Manager, Environmental",47494.74,58009.93,70416.87,78966.08,90653.84
+"2605","Product Development Scientist",63616.03,69021.97,79947.8,93788.03,97435.9
+"2606","Senior Product Development Scientist",89665.76,93511.28,97139.23,106994.92,130258.95
+"2607","Materials Scientist",77099.88,84159.16,95325.65,100953.97,120226.01
+"2608","Digital Analyst",52151.57,61141.4,73816.17,84964.64,93989.36
+"2609","Environmental Health & Safety (EHS) Technician",17.78,19.91,23.48,24.49,25
+"2610","Infection Control Practitioner (ICP)",72873.12,75854.61,81276.5,86737.96,89333.92
+"2611","Food Safety Manager",50753.65,61012.9,68477.96,75720.38,76025.5
+"2612","Head Brewer",40384.68,44941.26,47506.11,56462.83,NA
+"2613","Meteorologist",42623.3,49125.82,61703.53,63939.09,79310.64
+"2614","Research & Development (R&D) Technician",17.28,18.53,22.09,24.96,34.1
+"2615","Quality Control (QC) Associate",18.4,19.6,19,18.89,19.84
+"2616","Marketing Data Analyst",51860.66,59398.19,65624.37,67409.55,57114.52
+"2617","Senior Content Strategist",69353.93,82811.75,92499.29,97957.9,NA
+"2618","Food Technologist",48712.23,57300.26,66747.33,66629.98,69634.27
+"2619","Senior Researcher",80987.58,88102.47,99101.93,103195.21,102439.02
+"2620","Case Manager",16.77,17.65,19.55,21.85,28.99
+"2621","Social Worker",43225.17,46106.93,51952.3,56249.22,58335.22
+"2622","Program Director, Non-Profit",47471.44,51011.7,59884.47,64977.29,66191.3
+"2623","Licensed Clinical Social Worker (LCSW)",48779.24,53599.78,60388.43,65117.71,65498.81
+"2624","Mental Health Therapist",41870.19,45348.92,50119.53,54149.26,54909.03
+"2625","Registered Behavior Technician",16.01,16.99,17.96,18.81,20
+"2626","Pastor",40385.46,44778.36,49043.67,53365.96,53484.55
+"2627","Senior Pastor",40948.5,49570.03,57268.34,63847.14,68381.77
+"2628","Mental Health Counselor",40281.47,42868.92,48069.5,50479.26,52733.53
+"2629","Substance Abuse Counselor",16.34,17.34,19.27,20.71,20.48
+"2630","Lead Pastor",49195.6,52105.92,59888.71,68113.19,74818.46
+"2631","Licensed Professional Counselor",41373.38,46433.55,50714.89,54579.62,59788.75
+"2632","Community Outreach Coordinator",38673.16,41827.84,49073.35,49474.07,51343.65
+"2633","Social Worker (MSW)",44456.44,47986.17,50747.65,55361.84,61922.7
+"2634","Case Manager, Social Services",36354.43,38877.06,41360.02,42575.19,47672.47
+"2635","School Counselor",45775.87,47844.01,52518.67,57930.13,68410.22
+"2636","Academic Advisor",39463.62,41571.93,45736.93,46596.15,51319.24
+"2637","Youth Pastor",34731.03,36624.42,40501.51,47054.48,52115.93
+"2638","Worship Pastor",35833.57,39601.61,45086.06,51793.69,56389.89
+"2639","Medical Social Worker",49627.64,53626.79,59419.48,60938.75,67778.07
+"2640","Social Services Director",44398.27,50578.92,57716.37,61696.51,69952.89
+"2641","Mental Health Clinician",43704.2,48112.38,53102.25,54694.15,56823.08
+"2642","Children's Pastor",30826.84,37049.85,39967.03,44916.13,49187.28
+"2643","Chaplain",45204.6,49574.7,53131.62,54522.61,55007.45
+"2644","Associate Pastor",41614.61,45090.11,49392.29,53503.07,56897.53
+"2645","Educator",39199.75,41474.37,48806.15,54628.35,63347.07
+"2646","Licensed Mental Health Counselor",40475.58,47513.69,51734.27,54743.78,56388.72
+"2647","Licensed Social Worker",47694.16,49415.09,51047.85,54378.6,61749.67
+"2648","Student Services Coordinator",39631.58,40821.68,45474.68,47803.02,48010.86
+"2649","Employment Specialist",15.04,16.59,18.46,17.1,19.47
+"2650","Mental Health Case Manager",16.42,17.23,18.08,18.5,20
+"2651","Marriage / Family Therapist",45845.87,48234.22,56468.24,58898.42,67249.17
+"2652","Clinical Social Worker",48788.86,52295.9,56981.31,64241.28,69039.35
+"2653","School Social Worker",45210.07,47405.45,51004.19,55228.2,60275.86
+"2654","Admissions Counselor",35837.23,38220.98,43303.13,46425.96,43745.54
+"2655","Job Coach",13.74,14.39,15.52,16.06,15.87
+"2656","Health Educator",38626.24,44110.78,50875.44,54164.21,58461.54
+"2657","Certified Diabetes Educator (CDE)",30.03,29.7,32.9,34.15,37.27
+"2658","Intake Specialist",14.65,15.59,16.58,17.38,18
+"2659","Victim Advocate",15.41,16.1,16.56,18.89,19
+"2660","Career Counselor",43146,44798.79,48616.76,51725.86,53899.03
+"2661","Children's Ministry Director",27414.68,31181.67,35341.71,39802.14,39493.85
+"2662","Community Health Worker",15.92,16.78,18.31,18.4,18.38
+"2663","Certified Peer Specialist",13.05,14.24,15.09,14.99,16.1
+"2664","Behavior Specialist",16.62,17.63,17.95,19.67,21.47
+"2665","Probation Officer",38788.27,39965.29,45636.17,50861.01,60608.38
+"2666","Peer Support Specialist",13.07,13.57,15.02,15.67,16.71
+"2667","Children's Minister",30000,33410.12,41034.46,43727.33,42148.55
+"2668","Academic Advisor (College/University)",39756.77,42247.06,45563.45,49207.68,57000
+"2669","Certified Addiction Drug and Alcohol Counselor",15.32,17.32,19.41,19.87,22.3
+"2670","Mental Health Worker",14.39,14.97,15.88,15.84,17.9
+"2671","Admissions Counselor (College/University)",36140.49,40376.48,47388.97,50609.73,56339.56
+"2672","Career Advisor",40592.27,43533.26,48406.15,50066.7,56495.58
+"2673","Life Coach",24.66,29.02,33.55,61.04,57.93
+"2674","Family Advocate",14.49,15.09,16.07,16.43,18.53
+"2675","Hospice Chaplain",22.71,23.25,25.03,25.19,25.91
+"2676","Medical Science Liaison",126697.31,136226.6,142907.22,156563.03,158233.44
+"2677","Community Relations Manager",48281.96,55518.96,62551.97,65108.25,68944.59
+"2678","Minister",38783.2,43957.52,50055.48,53799.51,60389.15
+"2679","Residential Counselor",14.09,14.36,14.97,14.61,14.88
+"2680","Executive Pastor",51488.66,55563.69,63803.58,72725.11,76925.51
+"2681","Social Worker, Hospice",44943.49,51304.69,56241.33,57580.24,61384.09
+"2682","Licensed Marriage and Family Therapist",49466.28,53947.75,58801.44,62602.41,68885.1
+"2683","Youth Minister",35229.39,35457.85,39087.21,46130.77,39677.13
+"2684","Assistant Director, Career Services",45996.58,49858.83,56258.18,59041.7,66523.91
+"2685","Intervention Specialist",35165.12,39265.21,44886,46339,56368.05
+"2686","High School Registrar",35166.93,36418.83,36520.58,38928.54,41373.77
+"2687","Admissions Representative",36779.81,39933.01,45335.51,50138.85,51204.25
+"2688","Recovery Support Specialist",14.04,14.58,15.74,16.91,18
+"2689","College Career Counselor",41655.61,45945.1,53314.25,61801.68,66128.71
+"2690","Crisis Counselor",15.67,17.35,18.26,18,21.84
+"2691","Mental Health Specialist",15.19,15.88,17.56,21.13,21.9
+"2692","Family Support Worker",14.17,15.28,15.92,16.21,19.81
+"2693","Family Service Worker",14.75,15.54,17.29,17.03,15.96
+"2694","Medical Case Manager",40464.29,46670.49,51114.83,63345.71,75664.86
+"2695","Addiction Counselor",16.27,17.91,19.66,20.98,20.82
+"2696","Vocational Rehabilitation Counselor",43898.21,46169.84,50192.89,56442.35,66967
+"2697","Community Organizer",37933.92,40556.35,46775.61,52976.83,58000
+"2698","Grant Coordinator",42544.84,45661.26,54108,54365.72,53588.43
+"2699","Chemical Dependency Counselor",15.19,16.52,19.18,20.74,20.35
+"2700","Licensed Clinical Professional Counselor",45774.8,48453.09,49259.13,60188.33,58758.94
+"2701","Student Advisor",39827.72,43143.56,45213.88,48421.75,50000
+"2702","Social Work Supervisor",43716.88,54002.63,56617.07,62992.89,69530.33
+"2703","Early Intervention Specialist",18.25,18.66,19.49,24.78,30
+"2704","Social Worker (BSW)",36928.61,39258.63,41992.33,47181.2,57998
+"2705","Alcohol and Drug Addiction Counselor",15.51,17.74,19.52,20.64,19
+"2706","Youth Worker",12.81,13.59,13.13,15.11,17.08
+"2707","Youth Director (Church)",30567.96,34435.75,38620.06,41764.38,45500
+"2708","Director, Volunteer Services",43718.02,49665.07,53864.05,60360.27,64862.53
+"2709","Community Relations Coordinator",37493.33,44201.33,49419.71,50838.85,52812.45
+"2710","Community Support Specialist",14.44,14.66,15.82,15.81,14.53
+"2711","Director, Music Ministry",31100,30004.13,35778.28,34620.79,NA
+"2712","Admissions Advisor (College/University)",41298.59,43818.07,50319,55498.72,55000
+"2713","Child Life Specialist (CCLS)",18.89,19.24,23.07,27.08,30.5
+"2714","Qualified Intellectual Disability Professional (QIDP)",36062.56,38284.4,40757.91,42187.4,41579.36
+"2715","Case Manager Supervisor",49152.14,48642.79,48675.44,55689.14,74865.07
+"2716","Guidance Counselor",44768.29,50499.28,52452.22,61550.07,66405.09
+"2717","Community Support Worker",14,15.02,15,14.64,19
+"2718","Associate Director, Career Services",52795.86,59272,63676.74,66830.93,71553.54
+"2719","Child, Family, or School Social Worker",40317.34,42244.03,45811.21,44353.47,42906.98
+"2720","Logistics Supervisor",51606.75,54471.18,59438.91,62198.62,62453.06
+"2721","Delivery Driver",13.41,14.65,16.43,18.21,20.1
+"2722","Warehouse Manager",46485.79,50377.07,54796.7,59420.74,64559.4
+"2723","Forklift Operator",14.14,14.66,15.3,15.85,16.78
+"2724","Heavy / Tractor-Trailer Truck Driver",18.94,19.83,20.55,21.08,22.13
+"2725","Warehouse Worker",13.72,14.21,15.26,15.99,16.96
+"2726","Warehouse Associate",14.69,14.79,15.2,15.55,16.97
+"2727","Material Handler",14.33,14.82,16.05,16.69,17.59
+"2728","Package Handler",13.76,14.04,15.02,16.22,19
+"2729","Supply Chain Analyst",58015,61101.6,67514.18,67699.01,66000.27
+"2730","Route Driver",16.11,17.12,18.6,19.86,21.17
+"2731","Forklift Driver",14,14.64,15.31,15.86,16.8
+"2732","Bus Driver",15.57,16.1,16.81,18.07,18.37
+"2733","Bus Driver, School",15.96,16.51,17.31,18.75,19.93
+"2734","Commercial Truck Driver",18.54,19.49,19.92,20.61,21.73
+"2735","Yard Foreman",13.88,16.59,18.5,18.13,19.22
+"2736","Crane Operator",19.11,21.63,25.29,27.92,30.39
+"2737","Supply Chain Planner",57318.12,63237.9,69707.57,72808.99,76768.87
+"2738","Warehouse Material Handler",14.08,15.01,16.01,16.65,17.41
+"2739","Supply Chain Specialist",53963.05,58438.28,65255.27,65190.88,70924.2
+"2740","Transportation Manager",54789.67,58273.93,66138.53,71433.06,72950.6
+"2741","Fleet Manager",47452.59,56731.29,61707.44,68373.92,70306.16
+"2742","Automobile Detailer",11.14,11.93,13.32,14.38,15.08
+"2743","Logistics Analyst",52449.7,55758.06,62518.66,68834.88,75027.85
+"2744","Packer",12.68,13,13.84,14.39,13.68
+"2745","Fuel Tanker Driver",19.98,20.56,21.84,22.83,23.24
+"2746","Light Or Delivery Services Truck Driver",15.36,15.84,16.76,18.68,18.46
+"2747","Shipping Manager",14.62,16,17.63,19.12,19.86
+"2748","Concrete Mixer Truck Driver",17.51,18.85,20.62,20.54,21.54
+"2749","Dump Truck Driver",17.54,18.23,19.33,19.06,20.05
+"2750","Shipping & Receiving Supervisor",14.6,15.93,17.35,18.23,18.28
+"2751","Transportation Supervisor",50195.4,50644.19,57379.76,58713.74,61749.1
+"2752","OTR Truck Driver",49162.82,52070.66,59506.79,57793.91,61949.52
+"2753","Van Driver",11.93,12.91,14.06,14.07,15.34
+"2754","Loader",13.38,14.07,16.35,17.89,17.56
+"2755","Shipping Supervisor",16.01,17.14,18.5,19.84,20.29
+"2756","Heavy Truck Driver",16.67,18.16,19.96,19.7,21.48
+"2757","Shipping Coordinator",15.37,16.24,17.13,17.8,19.06
+"2758","Sanitation Worker",13.13,13.8,15.07,16.35,17.63
+"2759","Aircraft Pilot, Corporate Jet",67407.41,77403.46,90426.52,103942.22,112502.49
+"2760","Shipping and Receiving Manager",16.36,18.15,18.82,20.3,NA
+"2761","Senior Supply Chain Analyst",70076.98,74176.34,80508.63,85262.63,90562.81
+"2762","Tanker Truck Driver",19.58,20.2,20.71,21.42,22.64
+"2763","Warehouse Coordinator",15.48,16.44,17.7,18.59,18.68
+"2764","Bus Operator",15.9,18.96,21.27,23.74,24.13
+"2765","Garbage Truck Driver",17.38,18.48,19.39,20.45,21.9
+"2766","Laborer, Freight, Stock, Material Mover, Hand",12.29,12.58,14.79,15.05,17.07
+"2767","Terminal Manager",64265.26,65190.52,69469.92,71533.95,76457.42
+"2768","Transportation Coordinator",15.68,16.66,16.97,17.76,20.89
+"2769","Bagger",9.23,9.61,9.22,10.04,13.6
+"2770","Excavator Operator",16.48,18.11,20.1,21.85,24.78
+"2771","Front End Loader Operator",14.52,15.73,17.41,17.83,20.16
+"2772","Pizza Delivery Driver",8.32,8.51,8.93,8.26,11
+"2773","Bus Driver, Transit and Intercity",14.93,15.86,17.55,17.95,20.85
+"2774","Dock Worker",15.37,16.48,17.71,17.21,19.51
+"2775","Mover",12.88,14.13,15.03,15.34,16.72
+"2776","Shuttle Driver",12.04,13.11,13.4,14.54,16.21
+"2777","Fuel Truck Driver",18.62,19.62,21.44,21.28,21.14
+"2778","Warehouse Laborer",13.13,13.42,13.89,14.29,19
+"2779","Distribution Supervisor",54474.6,56505.83,59757.63,58249.53,65642.1
+"2780","Air Traffic Controller",84426.04,82368.61,77355.61,100094.93,120131.87
+"2781","Distribution Center Manager",58554.89,63562.79,70974.23,77570.26,81621.72
+"2782","Supply Chain Supervisor",55040.07,59545.47,63841.56,64510.03,73697.64
+"2783","Director of Transportation",55440.58,72778.92,89792.49,103518.72,NA
+"2784","Sr. Logistics Analyst",68955.02,72487.08,80735.52,89577.49,NA
+"2785","Materials Supervisor",54900.12,61091.5,60515.1,64684.59,64781.98
+"2786","Medium Truck Driver",15.83,15.97,18.04,18.37,18.44
+"2787","Assistant Warehouse Manager",15.09,15.95,17.32,18.33,19.69
+"2788","Tow Truck Driver",12.77,14.78,15.54,15.66,15.28
+"2789","Inventory Supervisor",14.69,16.81,18.01,17.26,19.67
+"2790","Airline Pilot, Copilot, or Flight Engineer",65751.5,77845.55,102232.48,127094.57,166779.52
+"2791","Unloader",12.87,12.88,16.3,18.57,18
+"2792","Captain, Mate, or Pilot of Water Vessels",96227.67,64985.41,61327.14,90259.46,94251.54
+"2793","Shipper, Receiver, Packer",13.12,13.62,14.39,16.05,16.62
+"2794","Gas Station Attendant",10.72,11.05,10.95,13.05,15.42
+"2795","Sandblaster",13.64,14.53,15.73,17.96,18.3
+"2796","Transportation Analyst",50369.02,57740.3,64035.9,63689.35,63871.29
+"2797","Garbage Man",15.73,16.22,17.31,20.76,25.39
+"2798","Loader And Unloader",12.97,13.75,15.07,17.08,17.73
+"2799","Logistics Engineer",61381.77,68602.77,78671.84,81671.71,83331.91
+"2800","Helicopter Pilot",58254.74,66811.62,73500.55,76356.76,87444.36
+"2801","Self Storage Manager",12.16,13.73,13.22,16.55,18.98
+"2802","Driver Helper",12.96,13.8,15.11,14.39,15.74
+"2803","Commercial Pilot",58958.11,71569.32,82424.24,99901.68,127170.6
+"2804","Chief Pilot (Aircraft)",77205.51,93482.08,112175.8,115106.89,NA
+"2805","Concrete Pump Operator",19.39,23.06,25.09,25.85,29.4
+"2806","Locomotive Engineer",54464.41,75000,90864.77,96984.05,112233.45
+"2807","Van Truck Driver",16.65,18.49,20.12,19.96,19.05
+"2808","Airline Captain",98349.07,121481.48,165621.7,198783.77,NA
+"2809","Railroad Conductor",20.36,23.61,27.17,27.88,26.5
+"2810","Deckhand",13.34,14.53,15.08,15.54,24
+"2811","Longshoreman",20.78,22.44,32.24,39.36,43.76
+"2812","Supply Chain Consultant",64104.11,76848.25,88812,105000,118410.61
+"2813","Logistics Management Specialist",51282.07,55748.09,62825.78,74396.04,80299.64
+"2814","Shipping Packer",12.63,13.5,14.56,15.33,15.48
+"2815","Parking Lot Attendant",11.32,11.83,12.33,12.33,14.66
+"2816","Warehouse Assistant",14.19,14.07,15.96,15.5,17.12
+"2817","Fleet Manager, Trucking & Transportation",52988.08,58371.94,63374.88,65294.94,71115.15
+"2818","Flight Test Engineer",74001.6,81954.89,96512.95,106205.83,114860.87
+"2819","Chauffeur",12.42,12.9,12.9,15.56,15.04
