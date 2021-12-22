@@ -1,0 +1,198 @@
+---
+title: "Web Scraping Final Project"
+author: "Hassan Abbas"
+date: "12/21/2021"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+```{r,include=FALSE, echo=FALSE,warning=FALSE}
+rm(list = ls())
+```
+
+
+```{r setup, include=FALSE, echo=FALSE,warning=FALSE}
+
+library(modelsummary)
+library(esquisse) 
+library(tidyverse)
+library(rvest)
+library(data.table)
+library(jsonlite)
+library(pbapply)
+
+```
+
+```{r, include=FALSE, echo=FALSE,warning=FALSE}
+## loading data from  scrape data from git hub##
+
+Combine_Salary_data <- read.csv(url("https://raw.githubusercontent.com/Khawaja9622/Web_scraping/main/Data/CSV/combine_salary_data.csv"))
+
+Location_data <- read.csv(url("https://raw.githubusercontent.com/Khawaja9622/Web_scraping/main/Data/CSV/Location_data.csv"))
+
+Experience_data <- read.csv(url("https://raw.githubusercontent.com/Khawaja9622/Web_scraping/main/Data/CSV/Experience_data.csv"))
+
+Employer_data <- read.csv(url("https://raw.githubusercontent.com/Khawaja9622/Web_scraping/main/Data/CSV/Employer_data.csv"))
+```
+
+
+```{r, include=FALSE, echo=FALSE,warning=FALSE}
+## Cleaning data ##
+
+Experience_data <- Experience_data[,-c(1)]
+Employer_data <- Employer_data[,-c(1)]
+Location_data <- Location_data[,-c(1)]
+
+
+Experience_data <-rename(Experience_data ,job_header =job_title)
+Final_df <-left_join(Combine_Salary_data,Experience_data)
+rm(Combine_Salary_data,Experience_data)
+
+```
+
+```{r, include=FALSE, echo=FALSE,warning=FALSE}
+## top  5 Highest paying jobs ##
+
+salary_filtered <- Final_df %>%  arrange(desc(Average_salary)) %>% head(5)
+
+a <- ggplot(salary_filtered) +
+  aes(
+    x = job_header,
+    fill = job_header,
+    weight = Average_salary
+  ) +
+  geom_bar() +
+  scale_fill_viridis_d(option = "viridis", direction = 1) +
+  labs(
+    x = "Job Title",
+    y = "Average Salary"
+  ) +
+   ggthemes::theme_fivethirtyeight()
+
+## regression on  Log average salary and Job satisfaction
+
+
+reg <- Final_df %>%
+  filter(Job_satifaction >= 3L & Job_satifaction <= 5L | is.na(Job_satifaction)) %>%
+  ggplot() +
+  aes(x = log(Average_salary), y = Job_satifaction) +
+  geom_smooth(method = "lm",formula = y~x)+
+  geom_point(
+    shape = "circle open",
+    size = 1.5,
+    colour = "#112446"
+  ) +
+  labs(
+    x = "Average Salary ",
+    y = "Job Satisfaction "
+  ) +
+  hrbrthemes::theme_ipsum()
+
+reg1 <- lm( Job_satifaction~ Average_salary, data = Final_df, vcov = "hetero")
+
+
+
+## Which top ten States Has highest number of Average salary ##
+
+aa <- Location_data %>% 
+  group_by(State) %>% 
+  summarise("Average_salary" = mean(Salary_l, na.rm = T)) %>% filter(!is.na(State))
+
+State_visual <- aa %>%
+  filter(Average_salary >= 41500L & Average_salary <= 61000L) %>%
+  ggplot() +
+  aes(x = State, fill = State, weight = Average_salary) +
+  geom_bar() +
+  scale_fill_viridis_d(option = "viridis", direction = 1) +
+  labs(
+    x = "States",
+    y = "Mean Salary "
+  ) +
+  ggthemes::theme_fivethirtyeight() +
+  theme(legend.position = "none")
+
+
+## Employer visualization ##
+
+b <- Employer_data %>% 
+  group_by(Company) %>% 
+  summarise("Average_salary" = mean(Salary, na.rm = T)) %>% filter(!is.na(Company))
+
+em <-b %>%
+ filter(Average_salary >= 220000L & Average_salary <= 272000L & !is.na(Average_salary)) %>%
+ ggplot() +
+  aes(x = Company, fill = Company, weight = Average_salary) +
+  geom_bar() +
+  scale_fill_viridis_d(option = "magma", direction = 1) +
+  coord_flip() +
+  theme_minimal()
+```
+
+
+## Introduction 
+
+The assignment was done as a part of our final project of Web scraping. The aim of this project was to extract html data from [**Payscale**](https://www.payscale.com/research/US/Job) and save it in json format and visualize it.Initially the attempt was to obtain a API for the site and scrape data using that method but the API was paid and could not be access with proper credentials. Therefore, we inspect the data and tried to locate the json file and extract the data through Xpath method.
+
+## Extracting data from Json
+
+The first task was to extract links for each jobs within each industries. Since the all the information was not on one page, we had to create loop to to obtain links for specific industry and then jobs within each industry. This process was done with the help of Rvest function & XML. Once we had to link we extracted the json file through xpath and filtered to through the list to create data table for Jobs, Experience ,Employment & Location. The following is one of the functions we create to make our data table. The whole data scarping project file can be access [**here**](https://github.com/Khawaja9622/Web_scraping/tree/main/Data/Codes)
+
+```{r}
+#All_jobs <- function(x){
+ # Links <- read_html(x) 
+#  Data <- fromJSON(Links %>% html_node(xpath = '//script[@type="application/json"]') %>% html_text(), flatten = T)
+ # job_header <- Data$props$pageProps$pageData$dimensions$job
+ # Average_salary <- Data$props$pageProps$pageData$byDimension$`Average Salary Overall`$rows$range.50
+ # Skill_set <- Data$props$pageProps$pageData$occupationalDetails$skills
+ # Average_Hourly_rate <- Data$props$pageProps$pageData$byDimension$`Average Hourly Rate Overall`$rows$range.50                                                        
+ # Description <- Data$props$pageProps$pageData$narratives$description
+ # Sample_size <- Data$props$pageProps$pageData$occupationalDetails$sampleSize
+ # Job_satifaction <- Data$props$pageProps$pageData$ratings$`Job Satisfaction Overall`$score
+ # Female_ratio <- round((Data$props$pageProps$pageData$byDimension$`Gender Breakdown`$rows$profileCount[1])/(Data$props$pageProps$pageData$byDimension$`Gender Breakdown`$profileCount)*100,0)
+ # Male_ratio <- round((Data$props$pageProps$pageData$byDimension$`Gender Breakdown`$rows$profileCount[2])/(Data$props$pageProps$pageData$byDimension$`Gender Breakdown`$profileCount)*100,0)
+ # Top_employer <- Data$props$pageProps$pageData$byDimension$`Job by Employer`$rows$name[1]
+  
+ # final_data <-  data.table(job_header,Average_Hourly_rate,Average_salary,Skill_set,Sample_size,Description,Job_satifaction,Female_ratio,Male_ratio,Top_employer)
+#}
+#Salary_data <- rbindlist(pblapply(All_links, All_jobs ), fill = T)
+```
+
+## Process Overview
+Since the data loading is lengthy process we saved all our data into RDs and Csv files. Then we called our data from [**Github**](https://github.com/Khawaja9622/Web_scraping/tree/main/Data/CSV) and made visualization on them. The advantage of saving data in RDs is that you can directly load the data into your environment.Our final data has more than 2800 observation and 19 variable that provided us with the descriptive variable for each jobs including the changes in pay scale with the level of experience.Moreover, for each job there were further drill-downs that provided you with the salary based on employer and the location of your occupation.Therefore, we made further data tables which include the salary based on occupation location and the employer.
+
+One of the problem with data was that some salary were in Hourly bases and others were in total average salary per year. Due to which we created an additional column stating the type of value mention in salary column. Once all the data table were created we combine the the experience and salary data into one single table based on job titles. However, we kept the location and employer data table separate to avoid overloading of variables in our data. 
+Once we loaded our data we cleaned the data for NA values and removed the columns which were irrelevant.
+
+## Analysis
+
+Now once we had the data in a clean format we wanted to create visualization and run regressions to see the association between the variables. Following our some meaningful interpretation abour our data.
+
+### Linear Regression of Job Satisfaction Vs Log Salary
+
+For the purpose of regression we took Job satisfaction and Average salary to see how are they related and what is the beta coefficient. Before we run the regression we had to check if our values in these variables were skewed or not. We witness skewness in the salary variable and therefore we took log. The regression result showed that with 1% increase in Average salary , the $\beta$ coefficient of  job satisfaction would increment by 0.03 units on an average.
+```{r, echo=FALSE,warning=FALSE,fig.width=10, fig.height = 5, fig.align="center"}
+reg
+```
+
+### The Top Five Highest Paying Occupation
+
+```{r echo=FALSE,warning=FALSE,fig.width=10, fig.height = 5, fig.align="center"}
+a
+```
+
+###  Highest Number of Average salary by State
+
+
+```{r echo=FALSE,warning=FALSE,fig.width=10, fig.height = 5, fig.align="center"}
+State_visual
+```
+
+### Company with Highest Average Salary
+
+
+```{r,echo=FALSE,warning=FALSE,fig.width=10, fig.height = 5, fig.align="center"}
+em
+```
+
+
